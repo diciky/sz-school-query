@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+node_modules/
+.env
+backend/.playwright-cli/
+backend/images/output_text.txt
+backend/images/preview_*.jpg
+backend/images/*_b64.txt
