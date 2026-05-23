@@ -14,7 +14,7 @@ def load_schools():
 
 @app.route('/')
 def index():
-    return send_from_directory('../frontend', 'index.html')
+    return send_from_directory('frontend', 'index.html')
 
 
 @app.route('/api/schools', methods=['GET'])
