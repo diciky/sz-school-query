@@ -1,0 +1,212 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - text: 网站支持IPv6 | 试运行2026年5月20日 星期三 |
+        - link "今天晚上到明天白天，阴天间多云，阵雨渐转大雨，有局部（大）暴雨风险；气温24-29℃；南风3级，沿海、高地和海区阵风6级；相对湿度70%-95%。今天晚上到明天白天，阴天间多云，阵雨渐转大雨，有局部（大）暴雨风险；气温24-29℃；南风3级，沿海、高地和海区阵风6级；相对湿度70%-95%。24-29℃ | 70%-95%" [ref=e7] [cursor=pointer]:
+          - /url: https://weather.sz.gov.cn
+          - generic "今天晚上到明天白天，阴天间多云，阵雨渐转大雨，有局部（大）暴雨风险；气温24-29℃；南风3级，沿海、高地和海区阵风6级；相对湿度70%-95%。" [ref=e8]:
+            - img [ref=e9]
+          - generic "今天晚上到明天白天，阴天间多云，阵雨渐转大雨，有局部（大）暴雨风险；气温24-29℃；南风3级，沿海、高地和海区阵风6级；相对湿度70%-95%。" [ref=e10]:
+            - img [ref=e11]
+          - text: 24-29℃ | 70%-95%
+      - generic [ref=e12]:
+        - link [ref=e14] [cursor=pointer]:
+          - /url: http://www.sz.gov.cn/
+          - img [ref=e15]
+        - paragraph [ref=e16]:
+          - link [ref=e17] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - img [ref=e18]
+          - link [ref=e19] [cursor=pointer]:
+            - /url: https://szeb.sz.gov.cn/home/xxgk/flzy/tjsj/
+            - img [ref=e20]
+          - link "繁" [ref=e21] [cursor=pointer]:
+            - /url: javascript:StranBody()
+          - link [ref=e22] [cursor=pointer]:
+            - /url: javascript:void(0);
+            - img [ref=e23]
+    - generic [ref=e24]:
+      - img [ref=e26]
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - textbox [ref=e29]: 请输入关键字
+          - textbox [ref=e30] [cursor=pointer]: 搜索
+        - generic [ref=e31]:
+          - text: 热门搜索：
+          - link "入学考试" [ref=e32] [cursor=pointer]:
+            - /url: https://search.gd.gov.cn/search/all/755020?keywords=入学考试
+          - link "招生考试" [ref=e33] [cursor=pointer]:
+            - /url: https://search.gd.gov.cn/search/all/755020?keywords=招生考试
+          - link "志愿填报" [ref=e34] [cursor=pointer]:
+            - /url: https://search.gd.gov.cn/search/all/755020?keywords=志愿填报
+    - generic [ref=e35]:
+      - list [ref=e36]:
+        - listitem [ref=e37]:
+          - link "首 页" [ref=e38] [cursor=pointer]:
+            - /url: http://szeb.sz.gov.cn/szzkw/
+            - generic [ref=e39]: 首 页
+        - listitem [ref=e40]:
+          - link "招考服务" [ref=e41] [cursor=pointer]:
+            - /url: "https://szeb.sz.gov.cn/szzkw/zkfw/index.html "
+            - generic [ref=e42]: 招考服务
+        - listitem [ref=e43]:
+          - link "考试日历" [ref=e44] [cursor=pointer]:
+            - /url: https://szeb.sz.gov.cn/szzkw/ksrl/index.html
+            - generic [ref=e45]: 考试日历
+        - listitem [ref=e46]:
+          - link "信息公开" [ref=e47] [cursor=pointer]:
+            - /url: "https://szeb.sz.gov.cn/szzkw/xxgk/index.html "
+            - generic [ref=e48]: 信息公开
+      - paragraph [ref=e49] [cursor=pointer]
+    - generic [ref=e51]:
+      - generic [ref=e52]:
+        - text: 当前位置：
+        - link "首页" [ref=e53] [cursor=pointer]:
+          - /url: https://szeb.sz.gov.cn/
+        - text: ">"
+        - link "深圳市招生考试办公室" [ref=e54] [cursor=pointer]:
+          - /url: https://szeb.sz.gov.cn/szzkw/
+        - text: ">"
+        - link "招考公告" [ref=e55] [cursor=pointer]:
+          - /url: https://szeb.sz.gov.cn/szzkw/zkgg/
+        - text: ">"
+        - link "中考" [ref=e56] [cursor=pointer]:
+          - /url: https://szeb.sz.gov.cn/szzkw/zkgg/zkxx/
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - heading "深圳市2025年高中阶段学校第一批录取标准公布" [level=1] [ref=e59]
+          - heading "来源：深圳市教育局 发布时间：2025-07-27 【字体： 大 中 小 】" [level=6] [ref=e60]:
+            - text: 来源：深圳市教育局 发布时间：2025-07-27
+            - generic [ref=e61]:
+              - text: 【字体：
+              - link "大" [ref=e62] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link "中" [ref=e63] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - link "小" [ref=e64] [cursor=pointer]:
+                - /url: javascript:void(0);
+              - text: 】
+        - generic [ref=e65]:
+          - paragraph [ref=e66]: 深圳市2025年高中阶段学校招生第一批划线工作顺利结束，第一批投档录取工作将在今日完成。7月27日16:00起，考生可登录深圳招考网招考服务栏目（网址：https://szeb.sz.gov.cn/szzkw/zkfw/index.html）查询录取结果。
+          - paragraph [ref=e67]:
+            - strong [ref=e68]: 投档录取规则
+          - paragraph [ref=e69]: 深圳市中考招生投档原则是“分数优先、依照志愿顺序”，在中考总分相同的情况下，进行“同分比较”优先投档，比较顺序如下：
+          - paragraph [ref=e70]: （1）生物与地理（合卷）分数高的优先；
+          - paragraph [ref=e71]: （2）语、数、英三科总分高的优先。
+          - paragraph [ref=e72]: 省一级学校所录取的考生综合素质评价结果须为“达标”，省一级公办普高所录取的考生语文、数学、英语、物理与化学、历史与道法单科等级须在C+以上（含C+），体育单科等级为C以上（含C）。
+          - paragraph [ref=e73]: 如考生选择“接受走读调剂”且被录取为走读生，不得在录取后要求转为该校的住宿生，或者以无法住校为由要求退档转录其他学校。
+          - paragraph [ref=e74]:
+            - strong [ref=e75]: 中考
+            - strong [ref=e76]: 录取工作日程安排
+          - paragraph [ref=e77]: 第一批招生学校：7月27日录取；
+          - paragraph [ref=e78]: 第二批招生学校：7月28日录取；
+          - paragraph [ref=e79]: 第三批招生学校（部、省属及跨市中职类学校）：7月30-31日填报志愿，8月上旬由广东省教育考试院组织录取。
+          - paragraph [ref=e80]: 录取通知书将于每批录取工作结束后一周内由招生学校寄发给考生本人。如不按录取学校规定的时间报到注册，将被视为自愿放弃入学资格。
+          - paragraph [ref=e81]:
+            - strong [ref=e82]: 阳光招生，接受社会监督
+          - paragraph [ref=e83]: 市教育局将持续落实“阳光招生”政策，严肃查处招生违规行为，确保录取公平公正。社会各界可通过招生咨询投诉电话（82181999）监督反馈，市教育局将对举报情况第一时间核查处理。
+          - paragraph [ref=e84]:
+            - strong [ref=e85]: 温馨提醒：
+            - text: 请考生、家长通过深圳市教育局、深圳市招生考试办公室的官方网站和微信公众号了解招生录取信息，不要轻信各类所谓升学、招生咨询的网站、公众号、QQ群、微信群等，以免受骗上当，影响升学或带来经济财产损失。
+          - paragraph [ref=e86]:
+            - img "录取标准加水印_00.png" [ref=e87]
+          - paragraph [ref=e88]:
+            - img "录取标准加水印_01.png" [ref=e89]
+          - paragraph [ref=e90]:
+            - img "录取标准加水印_02.png" [ref=e91]
+          - paragraph [ref=e92]:
+            - img "录取标准加水印_03.png" [ref=e93]
+          - paragraph [ref=e94]:
+            - img "录取标准加水印_04.png" [ref=e95]
+          - paragraph [ref=e96]:
+            - img "录取标准加水印_05.png" [ref=e97]
+          - paragraph [ref=e98]:
+            - img "录取标准加水印_06.png" [ref=e99]
+          - paragraph [ref=e100]:
+            - img "录取标准加水印_07.png" [ref=e101]
+          - paragraph [ref=e102]:
+            - img "录取标准加水印_08.png" [ref=e103]
+          - paragraph [ref=e104]:
+            - img "录取标准加水印_09.png" [ref=e105]
+          - paragraph [ref=e106]:
+            - img "录取标准加水印_10.png" [ref=e107]
+          - paragraph [ref=e108]:
+            - img "录取标准加水印_11.png" [ref=e109]
+          - paragraph [ref=e110]:
+            - img "录取标准加水印_12.png" [ref=e111]
+          - paragraph [ref=e112]:
+            - img "录取标准加水印_13.png" [ref=e113]
+          - paragraph [ref=e114]:
+            - img "录取标准加水印_14.png"
+          - paragraph [ref=e115]:
+            - img "录取标准加水印_15.png"
+          - paragraph [ref=e116]:
+            - img "录取标准加水印_16.png"
+          - paragraph [ref=e117]:
+            - img "录取标准加水印_17.png"
+          - paragraph [ref=e118]:
+            - img "录取标准加水印_18.png"
+          - paragraph [ref=e119]:
+            - img "录取标准加水印_19.png"
+        - generic [ref=e121]:
+          - generic [ref=e124]:
+            - text: 分享到：
+            - generic [ref=e125]:
+              - link "" [ref=e126] [cursor=pointer]:
+                - /url: javascript:;
+              - link "" [ref=e127] [cursor=pointer]:
+                - /url: https://service.weibo.com/share/share.php?url=https%3A%2F%2Fszeb.sz.gov.cn%2Fszzkw%2Fzkgg%2Fzkxx%2Fcontent%2Fpost_12297643.html&title=%E6%B7%B1%E5%9C%B3%E5%B8%822025%E5%B9%B4%E9%AB%98%E4%B8%AD%E9%98%B6%E6%AE%B5%E5%AD%A6%E6%A0%A1%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BD%95%E5%8F%96%E6%A0%87%E5%87%86%E5%85%AC%E5%B8%83-%E4%B8%AD%E8%80%83-%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E5%8A%9E%E5%85%AC%E5%AE%A4&pic=https%3A%2F%2Fszeb.sz.gov.cn%2Fzkbimages2021%2Fzkw20220505_11.png&appkey=
+              - link "" [ref=e128] [cursor=pointer]:
+                - /url: http://connect.qq.com/widget/shareqq/index.html?url=https%3A%2F%2Fszeb.sz.gov.cn%2Fszzkw%2Fzkgg%2Fzkxx%2Fcontent%2Fpost_12297643.html&title=%E6%B7%B1%E5%9C%B3%E5%B8%822025%E5%B9%B4%E9%AB%98%E4%B8%AD%E9%98%B6%E6%AE%B5%E5%AD%A6%E6%A0%A1%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BD%95%E5%8F%96%E6%A0%87%E5%87%86%E5%85%AC%E5%B8%83-%E4%B8%AD%E8%80%83-%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E5%8A%9E%E5%85%AC%E5%AE%A4&source=%E6%B7%B1%E5%9C%B3%E5%B8%822025%E5%B9%B4%E9%AB%98%E4%B8%AD%E9%98%B6%E6%AE%B5%E5%AD%A6%E6%A0%A1%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BD%95%E5%8F%96%E6%A0%87%E5%87%86%E5%85%AC%E5%B8%83-%E4%B8%AD%E8%80%83-%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E5%8A%9E%E5%85%AC%E5%AE%A4&desc=%E6%99%AE%E9%80%9A%E9%AB%98%E8%80%83%2C%E4%B8%AD%E8%80%83%E4%B8%AD%E6%8B%9B%2C%E8%87%AA%E5%AD%A6%E8%80%83%E8%AF%95%2C%E6%88%90%E4%BA%BA%E9%AB%98%E8%80%83%2C%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%95%2C%E6%95%99%E8%82%B2%E7%B1%BB%E7%A4%BE%E4%BC%9A%E8%80%83%E8%AF%95%2C%E7%BD%91%E4%B8%8A%E6%8A%A5%E5%90%8D%2C%E8%80%83%E5%9C%BA%E6%9F%A5%E8%AF%A2%2C%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%2C%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%2C%E5%BD%95%E5%8F%96%E7%BB%93%E6%9E%9C%2C%E8%87%AA%E8%80%83%E4%B8%9A%E5%8A%A1%2C%E6%8B%9B%E8%80%83%E6%97%A5%E5%8E%86&pics=https%3A%2F%2Fszeb.sz.gov.cn%2Fzkbimages2021%2Fzkw20220505_11.png
+              - link "" [ref=e129] [cursor=pointer]:
+                - /url: http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fszeb.sz.gov.cn%2Fszzkw%2Fzkgg%2Fzkxx%2Fcontent%2Fpost_12297643.html&title=%E6%B7%B1%E5%9C%B3%E5%B8%822025%E5%B9%B4%E9%AB%98%E4%B8%AD%E9%98%B6%E6%AE%B5%E5%AD%A6%E6%A0%A1%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BD%95%E5%8F%96%E6%A0%87%E5%87%86%E5%85%AC%E5%B8%83-%E4%B8%AD%E8%80%83-%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E5%8A%9E%E5%85%AC%E5%AE%A4&desc=%E6%99%AE%E9%80%9A%E9%AB%98%E8%80%83%2C%E4%B8%AD%E8%80%83%E4%B8%AD%E6%8B%9B%2C%E8%87%AA%E5%AD%A6%E8%80%83%E8%AF%95%2C%E6%88%90%E4%BA%BA%E9%AB%98%E8%80%83%2C%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%95%2C%E6%95%99%E8%82%B2%E7%B1%BB%E7%A4%BE%E4%BC%9A%E8%80%83%E8%AF%95%2C%E7%BD%91%E4%B8%8A%E6%8A%A5%E5%90%8D%2C%E8%80%83%E5%9C%BA%E6%9F%A5%E8%AF%A2%2C%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%2C%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%2C%E5%BD%95%E5%8F%96%E7%BB%93%E6%9E%9C%2C%E8%87%AA%E8%80%83%E4%B8%9A%E5%8A%A1%2C%E6%8B%9B%E8%80%83%E6%97%A5%E5%8E%86&summary=%E6%99%AE%E9%80%9A%E9%AB%98%E8%80%83%2C%E4%B8%AD%E8%80%83%E4%B8%AD%E6%8B%9B%2C%E8%87%AA%E5%AD%A6%E8%80%83%E8%AF%95%2C%E6%88%90%E4%BA%BA%E9%AB%98%E8%80%83%2C%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%95%2C%E6%95%99%E8%82%B2%E7%B1%BB%E7%A4%BE%E4%BC%9A%E8%80%83%E8%AF%95%2C%E7%BD%91%E4%B8%8A%E6%8A%A5%E5%90%8D%2C%E8%80%83%E5%9C%BA%E6%9F%A5%E8%AF%A2%2C%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2%2C%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%2C%E5%BD%95%E5%8F%96%E7%BB%93%E6%9E%9C%2C%E8%87%AA%E8%80%83%E4%B8%9A%E5%8A%A1%2C%E6%8B%9B%E8%80%83%E6%97%A5%E5%8E%86&site=%E6%B7%B1%E5%9C%B3%E5%B8%822025%E5%B9%B4%E9%AB%98%E4%B8%AD%E9%98%B6%E6%AE%B5%E5%AD%A6%E6%A0%A1%E7%AC%AC%E4%B8%80%E6%89%B9%E5%BD%95%E5%8F%96%E6%A0%87%E5%87%86%E5%85%AC%E5%B8%83-%E4%B8%AD%E8%80%83-%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%8B%9B%E7%94%9F%E8%80%83%E8%AF%95%E5%8A%9E%E5%85%AC%E5%AE%A4&pics=https%3A%2F%2Fszeb.sz.gov.cn%2Fzkbimages2021%2Fzkw20220505_11.png
+          - generic [ref=e130]:
+            - link "【打印本页】" [ref=e131] [cursor=pointer]:
+              - /url: javascript:window.print()
+            - link "【关闭窗口】" [ref=e132] [cursor=pointer]:
+              - /url: javascript:window.opener=null;window.open('','_self');window.close();
+  - generic [ref=e134]:
+    - generic [ref=e135]:
+      - paragraph [ref=e136]:
+        - link "网站导航" [ref=e137] [cursor=pointer]:
+          - /url: http://szeb.sz.gov.cn/szzkw/fzlm/wzdh/index.html
+        - text: "|"
+        - link "关于我们" [ref=e138] [cursor=pointer]:
+          - /url: http://szeb.sz.gov.cn/szzkw/zsbjs/index.html
+      - paragraph [ref=e139]:
+        - text: 地址：深圳市罗湖区泥岗西路1068号
+        - link "备案号：粤ICP备05138396号" [ref=e141] [cursor=pointer]:
+          - /url: http://beian.miit.gov.cn
+        - link "粤公网安备 44030402001169号" [ref=e143] [cursor=pointer]:
+          - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030402001169
+          - img
+          - text: 粤公网安备 44030402001169号
+      - paragraph [ref=e144]: 网站标识码：4403000007主办单位：深圳市教育局
+    - generic [ref=e145]:
+      - generic [ref=e146]:
+        - link:
+          - /url: http://bszs.conac.cn/sitename?method=show&id=28A24350E2076A7EE053022819AC944C
+          - img
+      - img [ref=e149] [cursor=pointer]
+      - generic [ref=e150]:
+        - img
+        - emphasis [ref=e151]: 深圳招考办公众号
+  - link "“深小i”智能客服" [ref=e153] [cursor=pointer]:
+    - /url: https://isz-web.sz.gov.cn/sz/app/sxi/?channel=414
+    - generic [ref=e154]:
+      - img
+      - generic [ref=e155]: “深小i”智能客服
+  - list [ref=e157]:
+    - listitem [ref=e158]:
+      - link [ref=e159] [cursor=pointer]:
+        - /url: javascript:void(0);
+        - img [ref=e160]
+    - listitem [ref=e161]:
+      - link [ref=e162] [cursor=pointer]:
+        - /url: javascript:void(0);
+        - img [ref=e163]
+    - listitem [ref=e164]:
+      - link [ref=e165] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - img [ref=e166]

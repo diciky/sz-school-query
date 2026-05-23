@@ -1,0 +1,1270 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - link "Homepage" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+        - generic [ref=e13]:
+          - navigation "Global" [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - button "Platform" [ref=e20] [cursor=pointer]:
+                  - text: Platform
+                  - img [ref=e21]
+              - listitem [ref=e23]:
+                - button "Solutions" [ref=e25] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e26]
+              - listitem [ref=e28]:
+                - button "Resources" [ref=e30] [cursor=pointer]:
+                  - text: Resources
+                  - img [ref=e31]
+              - listitem [ref=e33]:
+                - button "Open Source" [ref=e35] [cursor=pointer]:
+                  - text: Open Source
+                  - img [ref=e36]
+              - listitem [ref=e38]:
+                - button "Enterprise" [ref=e40] [cursor=pointer]:
+                  - text: Enterprise
+                  - img [ref=e41]
+              - listitem [ref=e43]:
+                - link "Pricing" [ref=e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+                  - generic [ref=e45]: Pricing
+          - generic [ref=e46]:
+            - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+              - img [ref=e51]
+            - link "Sign in" [ref=e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Ftopics%2Fshenzhen
+            - link "Sign up" [ref=e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Ftopics%2Fshenzhen&source=header
+            - button "Appearance settings" [ref=e58] [cursor=pointer]:
+              - img
+  - main [ref=e61]:
+    - navigation "Explore navigation" [ref=e63]:
+      - generic [ref=e64]:
+        - link "Explore" [ref=e65] [cursor=pointer]:
+          - /url: /explore
+        - link "Topics" [ref=e66] [cursor=pointer]:
+          - /url: /topics
+        - link "Trending" [ref=e67] [cursor=pointer]:
+          - /url: /trending
+        - link "Collections" [ref=e68] [cursor=pointer]:
+          - /url: /collections
+        - link "Events" [ref=e69] [cursor=pointer]:
+          - /url: /events
+        - link "GitHub Sponsors" [ref=e70] [cursor=pointer]:
+          - /url: /sponsors/explore
+    - generic [ref=e71]:
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]: "#"
+          - heading "shenzhen" [level=1] [ref=e77]
+        - link "You must be signed in to star a repository" [ref=e80] [cursor=pointer]:
+          - /url: /login?return_to=%2Ftopic.shenzhen
+          - img [ref=e81]
+          - text: Star
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - heading "Here are 31 public repositories matching this topic..." [level=2] [ref=e86]
+          - generic [ref=e87]:
+            - group [ref=e88]:
+              - 'button "Language: All" [ref=e89] [cursor=pointer]'
+            - group [ref=e90]:
+              - 'button "Sort: Most stars" [ref=e91] [cursor=pointer]'
+          - article [ref=e92]:
+            - generic [ref=e94]:
+              - generic [ref=e95]:
+                - img [ref=e97]
+                - heading "talkgo / night" [level=3] [ref=e99]:
+                  - link "talkgo" [ref=e100] [cursor=pointer]:
+                    - /url: /talkgo
+                  - text: /
+                  - link "night" [ref=e101] [cursor=pointer]:
+                    - /url: /talkgo/night
+              - link "You must be signed in to star a repository" [ref=e104] [cursor=pointer]:
+                - /url: /login?return_to=%2Ftalkgo%2Fnight
+                - img [ref=e105]
+                - text: Star
+                - generic "12304 users starred this repository" [ref=e107]: 12.3k
+            - 'navigation "Repository menu: talkgo/night" [ref=e108]':
+              - list [ref=e109]:
+                - listitem [ref=e110]:
+                  - link "Code" [ref=e111] [cursor=pointer]:
+                    - /url: /talkgo/night
+                    - img [ref=e112]
+                    - text: Code
+                - listitem [ref=e114]:
+                  - link "Issues" [ref=e115] [cursor=pointer]:
+                    - /url: /talkgo/night/issues
+                    - img [ref=e116]
+                    - text: Issues
+                - listitem [ref=e119]:
+                  - link "Pull requests" [ref=e120] [cursor=pointer]:
+                    - /url: /talkgo/night/pulls
+                    - img [ref=e121]
+                    - text: Pull requests
+                - listitem [ref=e123]:
+                  - link "Discussions" [ref=e124] [cursor=pointer]:
+                    - /url: /talkgo/night/discussions
+                    - img [ref=e125]
+                    - text: Discussions
+            - generic [ref=e127]:
+              - paragraph [ref=e129]: Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+              - generic [ref=e130]:
+                - link "go" [ref=e131] [cursor=pointer]:
+                  - /url: /topics/go
+                - link "slack" [ref=e132] [cursor=pointer]:
+                  - /url: /topics/slack
+                - link "golang" [ref=e133] [cursor=pointer]:
+                  - /url: /topics/golang
+                - link "learning" [ref=e134] [cursor=pointer]:
+                  - /url: /topics/learning
+                - link "share" [ref=e135] [cursor=pointer]:
+                  - /url: /topics/share
+                - link "online" [ref=e136] [cursor=pointer]:
+                  - /url: /topics/online
+                - link "study" [ref=e137] [cursor=pointer]:
+                  - /url: /topics/study
+                - link "offline" [ref=e138] [cursor=pointer]:
+                  - /url: /topics/offline
+                - link "reading" [ref=e139] [cursor=pointer]:
+                  - /url: /topics/reading
+                - link "daily" [ref=e140] [cursor=pointer]:
+                  - /url: /topics/daily
+                - link "wechat" [ref=e141] [cursor=pointer]:
+                  - /url: /topics/wechat
+                - link "bilibili" [ref=e142] [cursor=pointer]:
+                  - /url: /topics/bilibili
+                - link "bilibili-live" [ref=e143] [cursor=pointer]:
+                  - /url: /topics/bilibili-live
+                - link "gopher" [ref=e144] [cursor=pointer]:
+                  - /url: /topics/gopher
+                - link "zoom" [ref=e145] [cursor=pointer]:
+                  - /url: /topics/zoom
+                - link "shenzhen" [ref=e146] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "discuss" [ref=e147] [cursor=pointer]:
+                  - /url: /topics/discuss
+                - link "zoom-us" [ref=e148] [cursor=pointer]:
+                  - /url: /topics/zoom-us
+                - link "reading-go" [ref=e149] [cursor=pointer]:
+                  - /url: /topics/reading-go
+              - list [ref=e151]:
+                - listitem [ref=e152]: Updated Mar 10, 2026on Mar 10
+                - listitem [ref=e153]:
+                  - generic [ref=e154]: Go
+          - article [ref=e156]:
+            - generic [ref=e158]:
+              - generic [ref=e159]:
+                - img [ref=e161]
+                - heading "Am0rphous / Shenzhen-Goodix-Fingerprint-Reader" [level=3] [ref=e163]:
+                  - link "Am0rphous" [ref=e164] [cursor=pointer]:
+                    - /url: /Am0rphous
+                  - text: /
+                  - link "Shenzhen-Goodix-Fingerprint-Reader" [ref=e165] [cursor=pointer]:
+                    - /url: /Am0rphous/Shenzhen-Goodix-Fingerprint-Reader
+              - link "You must be signed in to star a repository" [ref=e168] [cursor=pointer]:
+                - /url: /login?return_to=%2FAm0rphous%2FShenzhen-Goodix-Fingerprint-Reader
+                - img [ref=e169]
+                - text: Star
+                - generic "37 users starred this repository" [ref=e171]: "37"
+            - 'navigation "Repository menu: Am0rphous/Shenzhen-Goodix-Fingerprint-Reader" [ref=e172]':
+              - list [ref=e173]:
+                - listitem [ref=e174]:
+                  - link "Code" [ref=e175] [cursor=pointer]:
+                    - /url: /Am0rphous/Shenzhen-Goodix-Fingerprint-Reader
+                    - img [ref=e176]
+                    - text: Code
+                - listitem [ref=e178]:
+                  - link "Issues" [ref=e179] [cursor=pointer]:
+                    - /url: /Am0rphous/Shenzhen-Goodix-Fingerprint-Reader/issues
+                    - img [ref=e180]
+                    - text: Issues
+                - listitem [ref=e183]:
+                  - link "Pull requests" [ref=e184] [cursor=pointer]:
+                    - /url: /Am0rphous/Shenzhen-Goodix-Fingerprint-Reader/pulls
+                    - img [ref=e185]
+                    - text: Pull requests
+            - generic [ref=e187]:
+              - paragraph [ref=e189]:
+                - text: According to the device list at
+                - link "https://gitlab.freedesktop.org/libfprint/wiki/-/wikis/Unsupported%20Devices" [ref=e190] [cursor=pointer]:
+                  - /url: https://gitlab.freedesktop.org/libfprint/wiki/-/wikis/Unsupported%20Devices
+                - text: ", the Shenzhen Fingerprint Reader for device ID 27c6:5395 is not supported. I didn't get it to work :("
+              - generic [ref=e191]:
+                - link "ubuntu" [ref=e192] [cursor=pointer]:
+                  - /url: /topics/ubuntu
+                - link "dell" [ref=e193] [cursor=pointer]:
+                  - /url: /topics/dell
+                - link "fingerprint-sensor" [ref=e194] [cursor=pointer]:
+                  - /url: /topics/fingerprint-sensor
+                - link "libfprint" [ref=e195] [cursor=pointer]:
+                  - /url: /topics/libfprint
+                - link "shenzhen" [ref=e196] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "shenzhen-reader" [ref=e197] [cursor=pointer]:
+                  - /url: /topics/shenzhen-reader
+                - link "dell-laptops" [ref=e198] [cursor=pointer]:
+                  - /url: /topics/dell-laptops
+                - link "libfprint-goodix" [ref=e199] [cursor=pointer]:
+                  - /url: /topics/libfprint-goodix
+              - list [ref=e201]:
+                - listitem [ref=e202]: Updated Oct 23, 2024on Oct 23, 2024
+          - article [ref=e203]:
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - img [ref=e208]
+                - heading "Iceloof / RealtimeStock" [level=3] [ref=e210]:
+                  - link "Iceloof" [ref=e211] [cursor=pointer]:
+                    - /url: /Iceloof
+                  - text: /
+                  - link "RealtimeStock" [ref=e212] [cursor=pointer]:
+                    - /url: /Iceloof/RealtimeStock
+              - link "You must be signed in to star a repository" [ref=e215] [cursor=pointer]:
+                - /url: /login?return_to=%2FIceloof%2FRealtimeStock
+                - img [ref=e216]
+                - text: Star
+                - generic "30 users starred this repository" [ref=e218]: "30"
+            - 'navigation "Repository menu: Iceloof/RealtimeStock" [ref=e219]':
+              - list [ref=e220]:
+                - listitem [ref=e221]:
+                  - link "Code" [ref=e222] [cursor=pointer]:
+                    - /url: /Iceloof/RealtimeStock
+                    - img [ref=e223]
+                    - text: Code
+                - listitem [ref=e225]:
+                  - link "Issues" [ref=e226] [cursor=pointer]:
+                    - /url: /Iceloof/RealtimeStock/issues
+                    - img [ref=e227]
+                    - text: Issues
+                - listitem [ref=e230]:
+                  - link "Pull requests" [ref=e231] [cursor=pointer]:
+                    - /url: /Iceloof/RealtimeStock/pulls
+                    - img [ref=e232]
+                    - text: Pull requests
+            - generic [ref=e234]:
+              - paragraph [ref=e236]: This package is supported realtime stock quote from Shanghai Exchange, Shenzhen Exchange, HongKong Exchange, and US Market(NASDAQ, NYSE, AMEX).
+              - generic [ref=e237]:
+                - link "pypi" [ref=e238] [cursor=pointer]:
+                  - /url: /topics/pypi
+                - link "realtime" [ref=e239] [cursor=pointer]:
+                  - /url: /topics/realtime
+                - link "python3" [ref=e240] [cursor=pointer]:
+                  - /url: /topics/python3
+                - link "stock" [ref=e241] [cursor=pointer]:
+                  - /url: /topics/stock
+                - link "exchange" [ref=e242] [cursor=pointer]:
+                  - /url: /topics/exchange
+                - link "tencent" [ref=e243] [cursor=pointer]:
+                  - /url: /topics/tencent
+                - link "amex" [ref=e244] [cursor=pointer]:
+                  - /url: /topics/amex
+                - link "us" [ref=e245] [cursor=pointer]:
+                  - /url: /topics/us
+                - link "nasdaq" [ref=e246] [cursor=pointer]:
+                  - /url: /topics/nasdaq
+                - link "tiger" [ref=e247] [cursor=pointer]:
+                  - /url: /topics/tiger
+                - link "xueqiu" [ref=e248] [cursor=pointer]:
+                  - /url: /topics/xueqiu
+                - link "sina" [ref=e249] [cursor=pointer]:
+                  - /url: /topics/sina
+                - link "quote" [ref=e250] [cursor=pointer]:
+                  - /url: /topics/quote
+                - link "shenzhen" [ref=e251] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "shanghai" [ref=e252] [cursor=pointer]:
+                  - /url: /topics/shanghai
+                - link "hongkong" [ref=e253] [cursor=pointer]:
+                  - /url: /topics/hongkong
+                - link "nyse" [ref=e254] [cursor=pointer]:
+                  - /url: /topics/nyse
+                - link "futu" [ref=e255] [cursor=pointer]:
+                  - /url: /topics/futu
+                - link "pypi-package" [ref=e256] [cursor=pointer]:
+                  - /url: /topics/pypi-package
+              - list [ref=e258]:
+                - listitem [ref=e259]: Updated Nov 17, 2020on Nov 17, 2020
+                - listitem [ref=e260]:
+                  - generic [ref=e261]: Python
+          - article [ref=e263]:
+            - generic [ref=e265]:
+              - generic [ref=e266]:
+                - img [ref=e268]
+                - heading "haozhang-x / shenzhen-metro-transport-card-data-analysis" [level=3] [ref=e270]:
+                  - link "haozhang-x" [ref=e271] [cursor=pointer]:
+                    - /url: /haozhang-x
+                  - text: /
+                  - link "shenzhen-metro-transport-card-data-analysis" [ref=e272] [cursor=pointer]:
+                    - /url: /haozhang-x/shenzhen-metro-transport-card-data-analysis
+              - link "You must be signed in to star a repository" [ref=e275] [cursor=pointer]:
+                - /url: /login?return_to=%2Fhaozhang-x%2Fshenzhen-metro-transport-card-data-analysis
+                - img [ref=e276]
+                - text: Star
+                - generic "21 users starred this repository" [ref=e278]: "21"
+            - 'navigation "Repository menu: haozhang-x/shenzhen-metro-transport-card-data-analysis" [ref=e279]':
+              - list [ref=e280]:
+                - listitem [ref=e281]:
+                  - link "Code" [ref=e282] [cursor=pointer]:
+                    - /url: /haozhang-x/shenzhen-metro-transport-card-data-analysis
+                    - img [ref=e283]
+                    - text: Code
+                - listitem [ref=e285]:
+                  - link "Issues" [ref=e286] [cursor=pointer]:
+                    - /url: /haozhang-x/shenzhen-metro-transport-card-data-analysis/issues
+                    - img [ref=e287]
+                    - text: Issues
+                - listitem [ref=e290]:
+                  - link "Pull requests" [ref=e291] [cursor=pointer]:
+                    - /url: /haozhang-x/shenzhen-metro-transport-card-data-analysis/pulls
+                    - img [ref=e292]
+                    - text: Pull requests
+            - generic [ref=e294]:
+              - paragraph [ref=e296]: 深圳通刷卡数据分析
+              - generic [ref=e297]:
+                - link "csv" [ref=e298] [cursor=pointer]:
+                  - /url: /topics/csv
+                - link "spark" [ref=e299] [cursor=pointer]:
+                  - /url: /topics/spark
+                - link "http-client" [ref=e300] [cursor=pointer]:
+                  - /url: /topics/http-client
+                - link "shenzhen" [ref=e301] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "spark-sql" [ref=e302] [cursor=pointer]:
+                  - /url: /topics/spark-sql
+              - list [ref=e304]:
+                - listitem [ref=e305]: Updated Jul 8, 2019on Jul 8, 2019
+                - listitem [ref=e306]:
+                  - generic [ref=e307]: Scala
+          - article [ref=e309]:
+            - generic [ref=e311]:
+              - generic [ref=e312]:
+                - img [ref=e314]
+                - heading "vikyd / shenzhen-reclamation" [level=3] [ref=e316]:
+                  - link "vikyd" [ref=e317] [cursor=pointer]:
+                    - /url: /vikyd
+                  - text: /
+                  - link "shenzhen-reclamation" [ref=e318] [cursor=pointer]:
+                    - /url: /vikyd/shenzhen-reclamation
+              - link "You must be signed in to star a repository" [ref=e321] [cursor=pointer]:
+                - /url: /login?return_to=%2Fvikyd%2Fshenzhen-reclamation
+                - img [ref=e322]
+                - text: Star
+                - generic "18 users starred this repository" [ref=e324]: "18"
+            - 'navigation "Repository menu: vikyd/shenzhen-reclamation" [ref=e325]':
+              - list [ref=e326]:
+                - listitem [ref=e327]:
+                  - link "Code" [ref=e328] [cursor=pointer]:
+                    - /url: /vikyd/shenzhen-reclamation
+                    - img [ref=e329]
+                    - text: Code
+                - listitem [ref=e331]:
+                  - link "Issues" [ref=e332] [cursor=pointer]:
+                    - /url: /vikyd/shenzhen-reclamation/issues
+                    - img [ref=e333]
+                    - text: Issues
+                - listitem [ref=e336]:
+                  - link "Pull requests" [ref=e337] [cursor=pointer]:
+                    - /url: /vikyd/shenzhen-reclamation/pulls
+                    - img [ref=e338]
+                    - text: Pull requests
+            - generic [ref=e340]:
+              - paragraph [ref=e342]: 深圳 1973-2016 Landsat 卫星图显示填海范围
+              - generic [ref=e343]:
+                - link "arcgis" [ref=e344] [cursor=pointer]:
+                  - /url: /topics/arcgis
+                - link "landsat" [ref=e345] [cursor=pointer]:
+                  - /url: /topics/landsat
+                - link "shenzhen" [ref=e346] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "arcmap" [ref=e347] [cursor=pointer]:
+                  - /url: /topics/arcmap
+                - link "reclamation" [ref=e348] [cursor=pointer]:
+                  - /url: /topics/reclamation
+              - list [ref=e350]:
+                - listitem [ref=e351]: Updated May 28, 2019on May 28, 2019
+          - article [ref=e352]:
+            - generic [ref=e354]:
+              - generic [ref=e355]:
+                - img [ref=e357]
+                - heading "szjug / szjug.github.io" [level=3] [ref=e359]:
+                  - link "szjug" [ref=e360] [cursor=pointer]:
+                    - /url: /szjug
+                  - text: /
+                  - link "szjug.github.io" [ref=e361] [cursor=pointer]:
+                    - /url: /szjug/szjug.github.io
+              - link "You must be signed in to star a repository" [ref=e364] [cursor=pointer]:
+                - /url: /login?return_to=%2Fszjug%2Fszjug.github.io
+                - img [ref=e365]
+                - text: Star
+                - generic "5 users starred this repository" [ref=e367]: "5"
+            - 'navigation "Repository menu: szjug/szjug.github.io" [ref=e368]':
+              - list [ref=e369]:
+                - listitem [ref=e370]:
+                  - link "Code" [ref=e371] [cursor=pointer]:
+                    - /url: /szjug/szjug.github.io
+                    - img [ref=e372]
+                    - text: Code
+                - listitem [ref=e374]:
+                  - link "Issues" [ref=e375] [cursor=pointer]:
+                    - /url: /szjug/szjug.github.io/issues
+                    - img [ref=e376]
+                    - text: Issues
+                - listitem [ref=e379]:
+                  - link "Pull requests" [ref=e380] [cursor=pointer]:
+                    - /url: /szjug/szjug.github.io/pulls
+                    - img [ref=e381]
+                    - text: Pull requests
+            - generic [ref=e383]:
+              - paragraph [ref=e385]: Shenzhen(China) Java User Group 深圳Java用户组
+              - generic [ref=e386]:
+                - link "jug" [ref=e387] [cursor=pointer]:
+                  - /url: /topics/jug
+                - link "china" [ref=e388] [cursor=pointer]:
+                  - /url: /topics/china
+                - link "shenzhen" [ref=e389] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+              - list [ref=e391]:
+                - listitem [ref=e392]: Updated Oct 29, 2019on Oct 29, 2019
+                - listitem [ref=e393]:
+                  - generic [ref=e394]: CSS
+          - article [ref=e396]:
+            - generic [ref=e398]:
+              - generic [ref=e399]:
+                - img [ref=e401]
+                - heading "ebowwa / BlueFusion" [level=3] [ref=e403]:
+                  - link "ebowwa" [ref=e404] [cursor=pointer]:
+                    - /url: /ebowwa
+                  - text: /
+                  - link "BlueFusion" [ref=e405] [cursor=pointer]:
+                    - /url: /ebowwa/BlueFusion
+              - link "You must be signed in to star a repository" [ref=e408] [cursor=pointer]:
+                - /url: /login?return_to=%2Febowwa%2FBlueFusion
+                - img [ref=e409]
+                - text: Star
+                - generic "5 users starred this repository" [ref=e411]: "5"
+            - 'navigation "Repository menu: ebowwa/BlueFusion" [ref=e412]':
+              - list [ref=e413]:
+                - listitem [ref=e414]:
+                  - link "Code" [ref=e415] [cursor=pointer]:
+                    - /url: /ebowwa/BlueFusion
+                    - img [ref=e416]
+                    - text: Code
+                - listitem [ref=e418]:
+                  - link "Issues" [ref=e419] [cursor=pointer]:
+                    - /url: /ebowwa/BlueFusion/issues
+                    - img [ref=e420]
+                    - text: Issues
+                - listitem [ref=e423]:
+                  - link "Pull requests" [ref=e424] [cursor=pointer]:
+                    - /url: /ebowwa/BlueFusion/pulls
+                    - img [ref=e425]
+                    - text: Pull requests
+            - generic [ref=e427]:
+              - paragraph [ref=e429]: 🔵 AI-powered dual BLE interface controller combining MacBook's native BLE with USB sniffer dongles for comprehensive Bluetooth Low Energy monitoring and analysis.
+              - generic [ref=e430]:
+                - link "osint" [ref=e431] [cursor=pointer]:
+                  - /url: /topics/osint
+                - link "reverse-engineering" [ref=e432] [cursor=pointer]:
+                  - /url: /topics/reverse-engineering
+                - link "ble" [ref=e433] [cursor=pointer]:
+                  - /url: /topics/ble
+                - link "bluetooth-low-energy" [ref=e434] [cursor=pointer]:
+                  - /url: /topics/bluetooth-low-energy
+                - link "wireshark" [ref=e435] [cursor=pointer]:
+                  - /url: /topics/wireshark
+                - link "shenzhen" [ref=e436] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "nrf52840" [ref=e437] [cursor=pointer]:
+                  - /url: /topics/nrf52840
+                - link "osint-python" [ref=e438] [cursor=pointer]:
+                  - /url: /topics/osint-python
+                - link "osint-tool" [ref=e439] [cursor=pointer]:
+                  - /url: /topics/osint-tool
+                - link "bluetooth-hacking" [ref=e440] [cursor=pointer]:
+                  - /url: /topics/bluetooth-hacking
+                - link "bluetooth-hacking-with-python" [ref=e441] [cursor=pointer]:
+                  - /url: /topics/bluetooth-hacking-with-python
+                - link "chinafactory" [ref=e442] [cursor=pointer]:
+                  - /url: /topics/chinafactory
+                - link "ai-osint" [ref=e443] [cursor=pointer]:
+                  - /url: /topics/ai-osint
+              - list [ref=e445]:
+                - listitem [ref=e446]: Updated Jul 18, 2025on Jul 18, 2025
+                - listitem [ref=e447]:
+                  - generic [ref=e448]: Python
+          - article [ref=e450]:
+            - generic [ref=e452]:
+              - generic [ref=e453]:
+                - img [ref=e455]
+                - heading "batbucket / open-tower" [level=3] [ref=e457]:
+                  - link "batbucket" [ref=e458] [cursor=pointer]:
+                    - /url: /batbucket
+                  - text: /
+                  - link "open-tower" [ref=e459] [cursor=pointer]:
+                    - /url: /batbucket/open-tower
+              - link "You must be signed in to star a repository" [ref=e462] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbatbucket%2Fopen-tower
+                - img [ref=e463]
+                - text: Star
+                - generic "4 users starred this repository" [ref=e465]: "4"
+            - 'navigation "Repository menu: batbucket/open-tower" [ref=e466]':
+              - list [ref=e467]:
+                - listitem [ref=e468]:
+                  - link "Code" [ref=e469] [cursor=pointer]:
+                    - /url: /batbucket/open-tower
+                    - img [ref=e470]
+                    - text: Code
+                - listitem [ref=e472]:
+                  - link "Issues" [ref=e473] [cursor=pointer]:
+                    - /url: /batbucket/open-tower/issues
+                    - img [ref=e474]
+                    - text: Issues
+                - listitem [ref=e477]:
+                  - link "Pull requests" [ref=e478] [cursor=pointer]:
+                    - /url: /batbucket/open-tower/pulls
+                    - img [ref=e479]
+                    - text: Pull requests
+            - generic [ref=e481]:
+              - generic [ref=e482]:
+                - link "game" [ref=e483] [cursor=pointer]:
+                  - /url: /topics/game
+                - link "runescape" [ref=e484] [cursor=pointer]:
+                  - /url: /topics/runescape
+                - link "unity" [ref=e485] [cursor=pointer]:
+                  - /url: /topics/unity
+                - link "nasa" [ref=e486] [cursor=pointer]:
+                  - /url: /topics/nasa
+                - link "game-development" [ref=e487] [cursor=pointer]:
+                  - /url: /topics/game-development
+                - link "cooking" [ref=e488] [cursor=pointer]:
+                  - /url: /topics/cooking
+                - link "maplestory" [ref=e489] [cursor=pointer]:
+                  - /url: /topics/maplestory
+                - link "trading-algorithms" [ref=e490] [cursor=pointer]:
+                  - /url: /topics/trading-algorithms
+                - link "world-of-warcraft" [ref=e491] [cursor=pointer]:
+                  - /url: /topics/world-of-warcraft
+                - link "shenzhen" [ref=e492] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "georgia-tech" [ref=e493] [cursor=pointer]:
+                  - /url: /topics/georgia-tech
+                - link "club-penguin-private-server" [ref=e494] [cursor=pointer]:
+                  - /url: /topics/club-penguin-private-server
+                - link "vgdev" [ref=e495] [cursor=pointer]:
+                  - /url: /topics/vgdev
+                - link "magic-tower-qt" [ref=e496] [cursor=pointer]:
+                  - /url: /topics/magic-tower-qt
+                - link "pokemon-mystery-dungeon" [ref=e497] [cursor=pointer]:
+                  - /url: /topics/pokemon-mystery-dungeon
+                - link "see-ya-at-e3" [ref=e498] [cursor=pointer]:
+                  - /url: /topics/see-ya-at-e3
+                - link "please-hire-me-google" [ref=e499] [cursor=pointer]:
+                  - /url: /topics/please-hire-me-google
+                - link "game-of-the-year" [ref=e500] [cursor=pointer]:
+                  - /url: /topics/game-of-the-year
+                - link "opus-magnum" [ref=e501] [cursor=pointer]:
+                  - /url: /topics/opus-magnum
+                - link "roblox-hack" [ref=e502] [cursor=pointer]:
+                  - /url: /topics/roblox-hack
+              - list [ref=e504]:
+                - listitem [ref=e505]: Updated May 8, 2018on May 8, 2018
+                - listitem [ref=e506]:
+                  - generic [ref=e507]: C#
+          - article [ref=e509]:
+            - generic [ref=e511]:
+              - generic [ref=e512]:
+                - img [ref=e514]
+                - heading "Layheng-Hok / Shenzhen-Metro" [level=3] [ref=e516]:
+                  - link "Layheng-Hok" [ref=e517] [cursor=pointer]:
+                    - /url: /Layheng-Hok
+                  - text: /
+                  - link "Shenzhen-Metro" [ref=e518] [cursor=pointer]:
+                    - /url: /Layheng-Hok/Shenzhen-Metro
+              - link "You must be signed in to star a repository" [ref=e521] [cursor=pointer]:
+                - /url: /login?return_to=%2FLayheng-Hok%2FShenzhen-Metro
+                - img [ref=e522]
+                - text: Star
+                - generic "3 users starred this repository" [ref=e524]: "3"
+            - 'navigation "Repository menu: Layheng-Hok/Shenzhen-Metro" [ref=e525]':
+              - list [ref=e526]:
+                - listitem [ref=e527]:
+                  - link "Code" [ref=e528] [cursor=pointer]:
+                    - /url: /Layheng-Hok/Shenzhen-Metro
+                    - img [ref=e529]
+                    - text: Code
+                - listitem [ref=e531]:
+                  - link "Issues" [ref=e532] [cursor=pointer]:
+                    - /url: /Layheng-Hok/Shenzhen-Metro/issues
+                    - img [ref=e533]
+                    - text: Issues
+                - listitem [ref=e536]:
+                  - link "Pull requests" [ref=e537] [cursor=pointer]:
+                    - /url: /Layheng-Hok/Shenzhen-Metro/pulls
+                    - img [ref=e538]
+                    - text: Pull requests
+            - generic [ref=e540]:
+              - paragraph [ref=e542]: "Shenzhen Metro: Metro Management System - Database and API Design Projects - SUSTech projects of CS307: Principles of Database System in Spring 2024 - Scores: 95/100 for Project 1 and 102/100 for Project 2"
+              - generic [ref=e543]:
+                - link "javascript" [ref=e544] [cursor=pointer]:
+                  - /url: /topics/javascript
+                - link "mysql" [ref=e545] [cursor=pointer]:
+                  - /url: /topics/mysql
+                - link "css" [ref=e546] [cursor=pointer]:
+                  - /url: /topics/css
+                - link "python" [ref=e547] [cursor=pointer]:
+                  - /url: /topics/python
+                - link "java" [ref=e548] [cursor=pointer]:
+                  - /url: /topics/java
+                - link "html" [ref=e549] [cursor=pointer]:
+                  - /url: /topics/html
+                - link "api" [ref=e550] [cursor=pointer]:
+                  - /url: /topics/api
+                - link "bootstrap" [ref=e551] [cursor=pointer]:
+                  - /url: /topics/bootstrap
+                - link "website" [ref=e552] [cursor=pointer]:
+                  - /url: /topics/website
+                - link "database" [ref=e553] [cursor=pointer]:
+                  - /url: /topics/database
+                - link "spring-boot" [ref=e554] [cursor=pointer]:
+                  - /url: /topics/spring-boot
+                - link "maven" [ref=e555] [cursor=pointer]:
+                  - /url: /topics/maven
+                - link "metro" [ref=e556] [cursor=pointer]:
+                  - /url: /topics/metro
+                - link "postgresql" [ref=e557] [cursor=pointer]:
+                  - /url: /topics/postgresql
+                - link "project" [ref=e558] [cursor=pointer]:
+                  - /url: /topics/project
+                - link "shenzhen" [ref=e559] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "er-diagram" [ref=e560] [cursor=pointer]:
+                  - /url: /topics/er-diagram
+                - link "sustech" [ref=e561] [cursor=pointer]:
+                  - /url: /topics/sustech
+                - link "cs307" [ref=e562] [cursor=pointer]:
+                  - /url: /topics/cs307
+                - link "shenzhen-metro" [ref=e563] [cursor=pointer]:
+                  - /url: /topics/shenzhen-metro
+              - list [ref=e565]:
+                - listitem [ref=e566]: Updated Mar 8, 2025on Mar 8, 2025
+                - listitem [ref=e567]:
+                  - generic [ref=e568]: Java
+          - article [ref=e570]:
+            - generic [ref=e572]:
+              - generic [ref=e573]:
+                - img [ref=e575]
+                - heading "shenzhenlinux / shenzhenlinux.github.io" [level=3] [ref=e577]:
+                  - link "shenzhenlinux" [ref=e578] [cursor=pointer]:
+                    - /url: /shenzhenlinux
+                  - text: /
+                  - link "shenzhenlinux.github.io" [ref=e579] [cursor=pointer]:
+                    - /url: /shenzhenlinux/shenzhenlinux.github.io
+              - link "You must be signed in to star a repository" [ref=e582] [cursor=pointer]:
+                - /url: /login?return_to=%2Fshenzhenlinux%2Fshenzhenlinux.github.io
+                - img [ref=e583]
+                - text: Star
+                - generic "3 users starred this repository" [ref=e585]: "3"
+            - 'navigation "Repository menu: shenzhenlinux/shenzhenlinux.github.io" [ref=e586]':
+              - list [ref=e587]:
+                - listitem [ref=e588]:
+                  - link "Code" [ref=e589] [cursor=pointer]:
+                    - /url: /shenzhenlinux/shenzhenlinux.github.io
+                    - img [ref=e590]
+                    - text: Code
+                - listitem [ref=e592]:
+                  - link "Issues" [ref=e593] [cursor=pointer]:
+                    - /url: /shenzhenlinux/shenzhenlinux.github.io/issues
+                    - img [ref=e594]
+                    - text: Issues
+                - listitem [ref=e597]:
+                  - link "Pull requests" [ref=e598] [cursor=pointer]:
+                    - /url: /shenzhenlinux/shenzhenlinux.github.io/pulls
+                    - img [ref=e599]
+                    - text: Pull requests
+            - generic [ref=e601]:
+              - paragraph [ref=e603]: shenzhenlinux.github.io site
+              - generic [ref=e604]:
+                - link "linux" [ref=e605] [cursor=pointer]:
+                  - /url: /topics/linux
+                - link "shenzhen" [ref=e606] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+              - list [ref=e608]:
+                - listitem [ref=e609]: Updated Feb 28, 2018on Feb 28, 2018
+          - article [ref=e610]:
+            - generic [ref=e612]:
+              - generic [ref=e613]:
+                - img [ref=e615]
+                - heading "bayoss / Hacktoberfest2023" [level=3] [ref=e617]:
+                  - link "bayoss" [ref=e618] [cursor=pointer]:
+                    - /url: /bayoss
+                  - text: /
+                  - link "Hacktoberfest2023" [ref=e619] [cursor=pointer]:
+                    - /url: /bayoss/Hacktoberfest2023
+              - link "You must be signed in to star a repository" [ref=e622] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbayoss%2FHacktoberfest2023
+                - img [ref=e623]
+                - text: Star
+                - generic "3 users starred this repository" [ref=e625]: "3"
+            - 'navigation "Repository menu: bayoss/Hacktoberfest2023" [ref=e626]':
+              - list [ref=e627]:
+                - listitem [ref=e628]:
+                  - link "Code" [ref=e629] [cursor=pointer]:
+                    - /url: /bayoss/Hacktoberfest2023
+                    - img [ref=e630]
+                    - text: Code
+                - listitem [ref=e632]:
+                  - link "Issues" [ref=e633] [cursor=pointer]:
+                    - /url: /bayoss/Hacktoberfest2023/issues
+                    - img [ref=e634]
+                    - text: Issues
+                - listitem [ref=e637]:
+                  - link "Pull requests" [ref=e638] [cursor=pointer]:
+                    - /url: /bayoss/Hacktoberfest2023/pulls
+                    - img [ref=e639]
+                    - text: Pull requests
+            - generic [ref=e641]:
+              - paragraph [ref=e643]: 大湾区十月黑客节 2023： 开源项目牵手活动 庆祝 Hacktoberfest 10周年
+              - generic [ref=e644]:
+                - link "open-source" [ref=e645] [cursor=pointer]:
+                  - /url: /topics/open-source
+                - link "developer" [ref=e646] [cursor=pointer]:
+                  - /url: /topics/developer
+                - link "china" [ref=e647] [cursor=pointer]:
+                  - /url: /topics/china
+                - link "hacktoberfest" [ref=e648] [cursor=pointer]:
+                  - /url: /topics/hacktoberfest
+                - link "shenzhen" [ref=e649] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "hackthon" [ref=e650] [cursor=pointer]:
+                  - /url: /topics/hackthon
+                - link "hacktoberfest2023" [ref=e651] [cursor=pointer]:
+                  - /url: /topics/hacktoberfest2023
+                - link "bayoss" [ref=e652] [cursor=pointer]:
+                  - /url: /topics/bayoss
+                - link "thegreaterbayarea" [ref=e653] [cursor=pointer]:
+                  - /url: /topics/thegreaterbayarea
+              - list [ref=e655]:
+                - listitem [ref=e656]: Updated Oct 19, 2023on Oct 19, 2023
+          - article [ref=e657]:
+            - generic [ref=e659]:
+              - generic [ref=e660]:
+                - img [ref=e662]
+                - heading "bayoss / community" [level=3] [ref=e664]:
+                  - link "bayoss" [ref=e665] [cursor=pointer]:
+                    - /url: /bayoss
+                  - text: /
+                  - link "community" [ref=e666] [cursor=pointer]:
+                    - /url: /bayoss/community
+              - link "You must be signed in to star a repository" [ref=e669] [cursor=pointer]:
+                - /url: /login?return_to=%2Fbayoss%2Fcommunity
+                - img [ref=e670]
+                - text: Star
+                - generic "1 user starred this repository" [ref=e672]: "1"
+            - 'navigation "Repository menu: bayoss/community" [ref=e673]':
+              - list [ref=e674]:
+                - listitem [ref=e675]:
+                  - link "Code" [ref=e676] [cursor=pointer]:
+                    - /url: /bayoss/community
+                    - img [ref=e677]
+                    - text: Code
+                - listitem [ref=e679]:
+                  - link "Issues" [ref=e680] [cursor=pointer]:
+                    - /url: /bayoss/community/issues
+                    - img [ref=e681]
+                    - text: Issues
+                - listitem [ref=e684]:
+                  - link "Pull requests" [ref=e685] [cursor=pointer]:
+                    - /url: /bayoss/community/pulls
+                    - img [ref=e686]
+                    - text: Pull requests
+                - listitem [ref=e688]:
+                  - link "Discussions" [ref=e689] [cursor=pointer]:
+                    - /url: /bayoss/community/discussions
+                    - img [ref=e690]
+                    - text: Discussions
+            - generic [ref=e692]:
+              - paragraph [ref=e694]: BayOSS 湾区开源驿站
+              - generic [ref=e695]:
+                - link "community" [ref=e696] [cursor=pointer]:
+                  - /url: /topics/community
+                - link "station" [ref=e697] [cursor=pointer]:
+                  - /url: /topics/station
+                - link "opensource" [ref=e698] [cursor=pointer]:
+                  - /url: /topics/opensource
+                - link "open" [ref=e699] [cursor=pointer]:
+                  - /url: /topics/open
+                - link "club" [ref=e700] [cursor=pointer]:
+                  - /url: /topics/club
+                - link "china" [ref=e701] [cursor=pointer]:
+                  - /url: /topics/china
+                - link "shenzhen" [ref=e702] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "bayarea" [ref=e703] [cursor=pointer]:
+                  - /url: /topics/bayarea
+                - link "greatbay" [ref=e704] [cursor=pointer]:
+                  - /url: /topics/greatbay
+              - list [ref=e706]:
+                - listitem [ref=e707]: Updated Jun 20, 2025on Jun 20, 2025
+          - article [ref=e708]:
+            - generic [ref=e710]:
+              - generic [ref=e711]:
+                - img [ref=e713]
+                - heading "2020labs / shenzhen-jam" [level=3] [ref=e715]:
+                  - link "2020labs" [ref=e716] [cursor=pointer]:
+                    - /url: /2020labs
+                  - text: /
+                  - link "shenzhen-jam" [ref=e717] [cursor=pointer]:
+                    - /url: /2020labs/shenzhen-jam
+              - link "You must be signed in to star a repository" [ref=e720] [cursor=pointer]:
+                - /url: /login?return_to=%2F2020labs%2Fshenzhen-jam
+                - img [ref=e721]
+                - text: Star
+                - generic "1 user starred this repository" [ref=e723]: "1"
+            - 'navigation "Repository menu: 2020labs/shenzhen-jam" [ref=e724]':
+              - list [ref=e725]:
+                - listitem [ref=e726]:
+                  - link "Code" [ref=e727] [cursor=pointer]:
+                    - /url: /2020labs/shenzhen-jam
+                    - img [ref=e728]
+                    - text: Code
+                - listitem [ref=e730]:
+                  - link "Issues" [ref=e731] [cursor=pointer]:
+                    - /url: /2020labs/shenzhen-jam/issues
+                    - img [ref=e732]
+                    - text: Issues
+                - listitem [ref=e735]:
+                  - link "Pull requests" [ref=e736] [cursor=pointer]:
+                    - /url: /2020labs/shenzhen-jam/pulls
+                    - img [ref=e737]
+                    - text: Pull requests
+            - generic [ref=e739]:
+              - paragraph [ref=e741]: Shenzhen Jenkins Area Meetup
+              - generic [ref=e742]:
+                - link "jenkins" [ref=e743] [cursor=pointer]:
+                  - /url: /topics/jenkins
+                - link "jam" [ref=e744] [cursor=pointer]:
+                  - /url: /topics/jam
+                - link "shenzhen" [ref=e745] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+              - list [ref=e747]:
+                - listitem [ref=e748]: Updated Sep 26, 2017on Sep 26, 2017
+          - article [ref=e749]:
+            - generic [ref=e751]:
+              - generic [ref=e752]:
+                - img [ref=e754]
+                - heading "Dynamo13 / SE-UResNet" [level=3] [ref=e756]:
+                  - link "Dynamo13" [ref=e757] [cursor=pointer]:
+                    - /url: /Dynamo13
+                  - text: /
+                  - link "SE-UResNet" [ref=e758] [cursor=pointer]:
+                    - /url: /Dynamo13/SE-UResNet
+              - link "You must be signed in to star a repository" [ref=e761] [cursor=pointer]:
+                - /url: /login?return_to=%2FDynamo13%2FSE-UResNet
+                - img [ref=e762]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e764]: "0"
+            - 'navigation "Repository menu: Dynamo13/SE-UResNet" [ref=e765]':
+              - list [ref=e766]:
+                - listitem [ref=e767]:
+                  - link "Code" [ref=e768] [cursor=pointer]:
+                    - /url: /Dynamo13/SE-UResNet
+                    - img [ref=e769]
+                    - text: Code
+                - listitem [ref=e771]:
+                  - link "Issues" [ref=e772] [cursor=pointer]:
+                    - /url: /Dynamo13/SE-UResNet/issues
+                    - img [ref=e773]
+                    - text: Issues
+                - listitem [ref=e776]:
+                  - link "Pull requests" [ref=e777] [cursor=pointer]:
+                    - /url: /Dynamo13/SE-UResNet/pulls
+                    - img [ref=e778]
+                    - text: Pull requests
+            - generic [ref=e780]:
+              - paragraph [ref=e782]: "[IEEE-IRI 2023] \"A Fully Connected Reproducible SE-UResNet for Multiorgan Chest Radiographs Segmentation\" by Debojyoti Pal, Tanushree Meena, and Sudipta Roy."
+              - generic [ref=e783]:
+                - link "computer-vision" [ref=e784] [cursor=pointer]:
+                  - /url: /topics/computer-vision
+                - link "medical-imaging" [ref=e785] [cursor=pointer]:
+                  - /url: /topics/medical-imaging
+                - link "image-segmentation" [ref=e786] [cursor=pointer]:
+                  - /url: /topics/image-segmentation
+                - link "shenzhen" [ref=e787] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "jsrt-database" [ref=e788] [cursor=pointer]:
+                  - /url: /topics/jsrt-database
+                - link "cxr-lungs" [ref=e789] [cursor=pointer]:
+                  - /url: /topics/cxr-lungs
+                - link "cxr" [ref=e790] [cursor=pointer]:
+                  - /url: /topics/cxr
+                - link "vindr" [ref=e791] [cursor=pointer]:
+                  - /url: /topics/vindr
+              - list [ref=e793]:
+                - listitem [ref=e794]: Updated Sep 4, 2023on Sep 4, 2023
+                - listitem [ref=e795]:
+                  - generic [ref=e796]: Jupyter Notebook
+          - article [ref=e798]:
+            - generic [ref=e800]:
+              - generic [ref=e801]:
+                - img [ref=e803]
+                - heading "66Leo66 / SZLib-OPAC" [level=3] [ref=e805]:
+                  - link "66Leo66" [ref=e806] [cursor=pointer]:
+                    - /url: /66Leo66
+                  - text: /
+                  - link "SZLib-OPAC" [ref=e807] [cursor=pointer]:
+                    - /url: /66Leo66/SZLib-OPAC
+              - link "You must be signed in to star a repository" [ref=e810] [cursor=pointer]:
+                - /url: /login?return_to=%2F66Leo66%2FSZLib-OPAC
+                - img [ref=e811]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e813]: "0"
+            - 'navigation "Repository menu: 66Leo66/SZLib-OPAC" [ref=e814]':
+              - list [ref=e815]:
+                - listitem [ref=e816]:
+                  - link "Code" [ref=e817] [cursor=pointer]:
+                    - /url: /66Leo66/SZLib-OPAC
+                    - img [ref=e818]
+                    - text: Code
+                - listitem [ref=e820]:
+                  - link "Issues" [ref=e821] [cursor=pointer]:
+                    - /url: /66Leo66/SZLib-OPAC/issues
+                    - img [ref=e822]
+                    - text: Issues
+                - listitem [ref=e825]:
+                  - link "Pull requests" [ref=e826] [cursor=pointer]:
+                    - /url: /66Leo66/SZLib-OPAC/pulls
+                    - img [ref=e827]
+                    - text: Pull requests
+            - generic [ref=e829]:
+              - paragraph [ref=e831]: Third-party flutter client for Shenzhen Library OPAC system.
+              - generic [ref=e832]:
+                - link "library" [ref=e833] [cursor=pointer]:
+                  - /url: /topics/library
+                - link "flutter" [ref=e834] [cursor=pointer]:
+                  - /url: /topics/flutter
+                - link "opac" [ref=e835] [cursor=pointer]:
+                  - /url: /topics/opac
+                - link "shenzhen" [ref=e836] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "szlib" [ref=e837] [cursor=pointer]:
+                  - /url: /topics/szlib
+              - list [ref=e839]:
+                - listitem [ref=e840]: Updated Jul 12, 2024on Jul 12, 2024
+                - listitem [ref=e841]:
+                  - generic [ref=e842]: Dart
+          - article [ref=e844]:
+            - generic [ref=e846]:
+              - generic [ref=e847]:
+                - img [ref=e849]
+                - heading "moontide / AnnounceTime" [level=3] [ref=e851]:
+                  - link "moontide" [ref=e852] [cursor=pointer]:
+                    - /url: /moontide
+                  - text: /
+                  - link "AnnounceTime" [ref=e853] [cursor=pointer]:
+                    - /url: /moontide/AnnounceTime
+              - link "You must be signed in to star a repository" [ref=e856] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmoontide%2FAnnounceTime
+                - img [ref=e857]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e859]: "0"
+            - 'navigation "Repository menu: moontide/AnnounceTime" [ref=e860]':
+              - list [ref=e861]:
+                - listitem [ref=e862]:
+                  - link "Code" [ref=e863] [cursor=pointer]:
+                    - /url: /moontide/AnnounceTime
+                    - img [ref=e864]
+                    - text: Code
+                - listitem [ref=e866]:
+                  - link "Issues" [ref=e867] [cursor=pointer]:
+                    - /url: /moontide/AnnounceTime/issues
+                    - img [ref=e868]
+                    - text: Issues
+                - listitem [ref=e871]:
+                  - link "Pull requests" [ref=e872] [cursor=pointer]:
+                    - /url: /moontide/AnnounceTime/pulls
+                    - img [ref=e873]
+                    - text: Pull requests
+            - generic [ref=e875]:
+              - paragraph [ref=e877]: 用于深圳市的播报时间 bash 脚本 -- 利用百度语音合成功能，将时间、从深圳气象台获取的天气信息播报出来
+              - generic [ref=e878]:
+                - link "time" [ref=e879] [cursor=pointer]:
+                  - /url: /topics/time
+                - link "tts" [ref=e880] [cursor=pointer]:
+                  - /url: /topics/tts
+                - link "weather-information" [ref=e881] [cursor=pointer]:
+                  - /url: /topics/weather-information
+                - link "shenzhen" [ref=e882] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "baiduyuyin" [ref=e883] [cursor=pointer]:
+                  - /url: /topics/baiduyuyin
+                - link "announcing-time" [ref=e884] [cursor=pointer]:
+                  - /url: /topics/announcing-time
+              - list [ref=e886]:
+                - listitem [ref=e887]: Updated Dec 8, 2024on Dec 9, 2024
+                - listitem [ref=e888]:
+                  - generic [ref=e889]: Shell
+          - article [ref=e891]:
+            - generic [ref=e893]:
+              - generic [ref=e894]:
+                - img [ref=e896]
+                - heading "superoo7 / programming-games" [level=3] [ref=e898]:
+                  - link "superoo7" [ref=e899] [cursor=pointer]:
+                    - /url: /superoo7
+                  - text: /
+                  - link "programming-games" [ref=e900] [cursor=pointer]:
+                    - /url: /superoo7/programming-games
+              - link "You must be signed in to star a repository" [ref=e903] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsuperoo7%2Fprogramming-games
+                - img [ref=e904]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e906]: "0"
+            - 'navigation "Repository menu: superoo7/programming-games" [ref=e907]':
+              - list [ref=e908]:
+                - listitem [ref=e909]:
+                  - link "Code" [ref=e910] [cursor=pointer]:
+                    - /url: /superoo7/programming-games
+                    - img [ref=e911]
+                    - text: Code
+                - listitem [ref=e913]:
+                  - link "Issues" [ref=e914] [cursor=pointer]:
+                    - /url: /superoo7/programming-games/issues
+                    - img [ref=e915]
+                    - text: Issues
+                - listitem [ref=e918]:
+                  - link "Pull requests" [ref=e919] [cursor=pointer]:
+                    - /url: /superoo7/programming-games/pulls
+                    - img [ref=e920]
+                    - text: Pull requests
+            - generic [ref=e922]:
+              - paragraph [ref=e924]: SHENZHEN I/O, screeps and TIS-100
+              - generic [ref=e925]:
+                - link "screeps" [ref=e926] [cursor=pointer]:
+                  - /url: /topics/screeps
+                - link "shenzhen" [ref=e927] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+              - list [ref=e929]:
+                - listitem [ref=e930]: Updated Aug 3, 2017on Aug 3, 2017
+                - listitem [ref=e931]:
+                  - generic [ref=e932]: JavaScript
+          - article [ref=e934]:
+            - generic [ref=e936]:
+              - generic [ref=e937]:
+                - img [ref=e939]
+                - heading "ebowwa / rings" [level=3] [ref=e941]:
+                  - link "ebowwa" [ref=e942] [cursor=pointer]:
+                    - /url: /ebowwa
+                  - text: /
+                  - link "rings" [ref=e943] [cursor=pointer]:
+                    - /url: /ebowwa/rings
+              - link "You must be signed in to star a repository" [ref=e946] [cursor=pointer]:
+                - /url: /login?return_to=%2Febowwa%2Frings
+                - img [ref=e947]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e949]: "0"
+            - 'navigation "Repository menu: ebowwa/rings" [ref=e950]':
+              - list [ref=e951]:
+                - listitem [ref=e952]:
+                  - link "Code" [ref=e953] [cursor=pointer]:
+                    - /url: /ebowwa/rings
+                    - img [ref=e954]
+                    - text: Code
+                - listitem [ref=e956]:
+                  - link "Issues" [ref=e957] [cursor=pointer]:
+                    - /url: /ebowwa/rings/issues
+                    - img [ref=e958]
+                    - text: Issues
+                - listitem [ref=e961]:
+                  - link "Pull requests" [ref=e962] [cursor=pointer]:
+                    - /url: /ebowwa/rings/pulls
+                    - img [ref=e963]
+                    - text: Pull requests
+            - generic [ref=e965]:
+              - paragraph [ref=e967]: COLMI Ring
+              - generic [ref=e968]:
+                - link "bluetooth" [ref=e969] [cursor=pointer]:
+                  - /url: /topics/bluetooth
+                - link "alibaba" [ref=e970] [cursor=pointer]:
+                  - /url: /topics/alibaba
+                - link "hangzhou" [ref=e971] [cursor=pointer]:
+                  - /url: /topics/hangzhou
+                - link "shenzhen" [ref=e972] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "edge-computing" [ref=e973] [cursor=pointer]:
+                  - /url: /topics/edge-computing
+                - link "r09" [ref=e974] [cursor=pointer]:
+                  - /url: /topics/r09
+                - link "r03" [ref=e975] [cursor=pointer]:
+                  - /url: /topics/r03
+                - link "smart-home-devices" [ref=e976] [cursor=pointer]:
+                  - /url: /topics/smart-home-devices
+                - link "colmi" [ref=e977] [cursor=pointer]:
+                  - /url: /topics/colmi
+                - link "r02" [ref=e978] [cursor=pointer]:
+                  - /url: /topics/r02
+                - link "temu" [ref=e979] [cursor=pointer]:
+                  - /url: /topics/temu
+                - link "smart-ring" [ref=e980] [cursor=pointer]:
+                  - /url: /topics/smart-ring
+                - link "r06" [ref=e981] [cursor=pointer]:
+                  - /url: /topics/r06
+              - list [ref=e983]:
+                - listitem [ref=e984]: Updated Sep 21, 2025on Sep 21, 2025
+                - listitem [ref=e985]:
+                  - generic [ref=e986]: Swift
+          - article [ref=e988]:
+            - generic [ref=e990]:
+              - generic [ref=e991]:
+                - img [ref=e993]
+                - heading "globallawyer / tro-system" [level=3] [ref=e995]:
+                  - link "globallawyer" [ref=e996] [cursor=pointer]:
+                    - /url: /globallawyer
+                  - text: /
+                  - link "tro-system" [ref=e997] [cursor=pointer]:
+                    - /url: /globallawyer/tro-system
+              - link "You must be signed in to star a repository" [ref=e1000] [cursor=pointer]:
+                - /url: /login?return_to=%2Fgloballawyer%2Ftro-system
+                - img [ref=e1001]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e1003]: "0"
+            - 'navigation "Repository menu: globallawyer/tro-system" [ref=e1004]':
+              - list [ref=e1005]:
+                - listitem [ref=e1006]:
+                  - link "Code" [ref=e1007] [cursor=pointer]:
+                    - /url: /globallawyer/tro-system
+                    - img [ref=e1008]
+                    - text: Code
+                - listitem [ref=e1010]:
+                  - link "Issues" [ref=e1011] [cursor=pointer]:
+                    - /url: /globallawyer/tro-system/issues
+                    - img [ref=e1012]
+                    - text: Issues
+                - listitem [ref=e1015]:
+                  - link "Pull requests" [ref=e1016] [cursor=pointer]:
+                    - /url: /globallawyer/tro-system/pulls
+                    - img [ref=e1017]
+                    - text: Pull requests
+            - generic [ref=e1019]:
+              - paragraph [ref=e1021]: TRO 监控与查询系统原型，服务于 TROTracker / TRO稻草人 Docket 的公开工具能力。
+              - generic [ref=e1022]:
+                - link "crawler" [ref=e1023] [cursor=pointer]:
+                  - /url: /topics/crawler
+                - link "lawyer" [ref=e1024] [cursor=pointer]:
+                  - /url: /topics/lawyer
+                - link "shenzhen" [ref=e1025] [cursor=pointer]:
+                  - /url: /topics/shenzhen
+                - link "tro" [ref=e1026] [cursor=pointer]:
+                  - /url: /topics/tro
+                - link "docket" [ref=e1027] [cursor=pointer]:
+                  - /url: /topics/docket
+                - link "legal-tech" [ref=e1028] [cursor=pointer]:
+                  - /url: /topics/legal-tech
+                - link "cross-border-ecommerce" [ref=e1029] [cursor=pointer]:
+                  - /url: /topics/cross-border-ecommerce
+                - link "trotracker" [ref=e1030] [cursor=pointer]:
+                  - /url: /topics/trotracker
+                - link "schedule-a" [ref=e1031] [cursor=pointer]:
+                  - /url: /topics/schedule-a
+                - link "lawsuit-tracking" [ref=e1032] [cursor=pointer]:
+                  - /url: /topics/lawsuit-tracking
+              - list [ref=e1034]:
+                - listitem [ref=e1035]: Updated Mar 13, 2026on Mar 13
+                - listitem [ref=e1036]:
+                  - generic [ref=e1037]: HTML
+          - article [ref=e1039]:
+            - generic [ref=e1041]:
+              - generic [ref=e1042]:
+                - img [ref=e1044]
+                - heading "lizhichen-chen / shenzhen" [level=3] [ref=e1046]:
+                  - link "lizhichen-chen" [ref=e1047] [cursor=pointer]:
+                    - /url: /lizhichen-chen
+                  - text: /
+                  - link "shenzhen" [ref=e1048] [cursor=pointer]:
+                    - /url: /lizhichen-chen/shenzhen
+              - link "You must be signed in to star a repository" [ref=e1051] [cursor=pointer]:
+                - /url: /login?return_to=%2Flizhichen-chen%2Fshenzhen
+                - img [ref=e1052]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e1054]: "0"
+            - 'navigation "Repository menu: lizhichen-chen/shenzhen" [ref=e1055]':
+              - list [ref=e1056]:
+                - listitem [ref=e1057]:
+                  - link "Code" [ref=e1058] [cursor=pointer]:
+                    - /url: /lizhichen-chen/shenzhen
+                    - img [ref=e1059]
+                    - text: Code
+                - listitem [ref=e1061]:
+                  - link "Issues" [ref=e1062] [cursor=pointer]:
+                    - /url: /lizhichen-chen/shenzhen/issues
+                    - img [ref=e1063]
+                    - text: Issues
+                - listitem [ref=e1066]:
+                  - link "Pull requests" [ref=e1067] [cursor=pointer]:
+                    - /url: /lizhichen-chen/shenzhen/pulls
+                    - img [ref=e1068]
+                    - text: Pull requests
+            - generic [ref=e1070]:
+              - paragraph [ref=e1072]: 主要是深圳市避雷公司大全，请查阅知悉
+              - link "shenzhen" [ref=e1074] [cursor=pointer]:
+                - /url: /topics/shenzhen
+              - list [ref=e1076]:
+                - listitem [ref=e1077]: Updated Jun 19, 2025on Jun 19, 2025
+          - button "Load more…" [ref=e1079] [cursor=pointer]
+        - generic [ref=e1080]:
+          - generic [ref=e1081]:
+            - heading "Improve this page" [level=2] [ref=e1082]
+            - paragraph [ref=e1083]: Add a description, image, and links to the shenzhen topic page so that developers can more easily learn about it.
+            - paragraph [ref=e1084]:
+              - link "Curate this topic" [ref=e1085] [cursor=pointer]:
+                - /url: https://github.com/github/explore/tree/master/CONTRIBUTING.md?source=add-description-shenzhen
+                - text: Curate this topic
+                - img [ref=e1086]
+          - generic [ref=e1088]:
+            - heading "Add this topic to your repo" [level=2] [ref=e1089]
+            - paragraph [ref=e1090]: To associate your repository with the shenzhen topic, visit your repo's landing page and select "manage topics."
+            - paragraph [ref=e1091]:
+              - link "Learn more" [ref=e1092] [cursor=pointer]:
+                - /url: https://docs.github.com/en/articles/classifying-your-repository-with-topics
+                - text: Learn more
+                - img [ref=e1093]
+  - contentinfo [ref=e1095]:
+    - heading "Footer" [level=2] [ref=e1096]
+    - generic [ref=e1097]:
+      - generic [ref=e1098]:
+        - link "GitHub Homepage" [ref=e1099] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e1100]
+        - generic [ref=e1102]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e1103]:
+        - heading "Footer navigation" [level=3] [ref=e1104]
+        - list "Footer navigation" [ref=e1105]:
+          - listitem [ref=e1106]:
+            - link "Terms" [ref=e1107] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e1108]:
+            - link "Privacy" [ref=e1109] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e1110]:
+            - link "Security" [ref=e1111] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e1112]:
+            - link "Status" [ref=e1113] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e1114]:
+            - link "Community" [ref=e1115] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e1116]:
+            - link "Docs" [ref=e1117] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e1118]:
+            - link "Contact" [ref=e1119] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e1120]:
+            - button "Manage cookies" [ref=e1122] [cursor=pointer]
+          - listitem [ref=e1123]:
+            - button "Do not share my personal information" [ref=e1125] [cursor=pointer]

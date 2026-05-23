@@ -1,0 +1,254 @@
+- generic [active] [ref=e1]:
+  - region "We value your privacy" [ref=e2]:
+    - generic [ref=e4]:
+      - heading "We value your privacy" [level=2] [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e8]: We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+        - generic [ref=e9]:
+          - button "Customize" [ref=e10] [cursor=pointer]
+          - button "Reject All" [ref=e11] [cursor=pointer]
+          - button "Accept All" [ref=e12] [cursor=pointer]
+  - link "Skip to main content" [ref=e13] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e14]:
+    - generic [ref=e16]:
+      - button "Navigation Toggle" [ref=e17] [cursor=pointer]
+      - link "logo" [ref=e18] [cursor=pointer]:
+        - /url: https://www.HugeDomains.com/index.cfm
+        - img "logo" [ref=e19]
+      - generic [ref=e20]:
+        - generic [ref=e22]:
+          - textbox "Header Domain Search" [ref=e23]
+          - button "Search" [ref=e24] [cursor=pointer]
+        - link "HugeDomains Phone Number" [ref=e25] [cursor=pointer]:
+          - /url: tel:1-303-893-0552
+          - text: +1-303-893-0552
+    - navigation [ref=e26]:
+      - generic [ref=e28]:
+        - list [ref=e29]:
+          - listitem [ref=e30]:
+            - link "Home" [ref=e31] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/index.cfm
+          - listitem [ref=e32]:
+            - link "FAQs" [ref=e33] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/faq.cfm
+          - listitem [ref=e34]:
+            - link "About us" [ref=e35] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/about.cfm
+          - listitem [ref=e36]:
+            - link "Contact us" [ref=e37] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/contact.cfm
+          - listitem [ref=e38]:
+            - link "My account" [ref=e39] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/payment-plan-login.cfm
+        - generic [ref=e40]:
+          - link "My favorites" [ref=e42] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/my-favorites.cfm
+          - link "Shopping Cart" [ref=e44] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/shopping_cart.cfm
+  - main [ref=e45]:
+    - generic [ref=e46]:
+      - generic [ref=e48]:
+        - generic [ref=e49]:
+          - generic [ref=e50]: 511w.com
+          - generic [ref=e51]:
+            - generic [ref=e52]: "Buy now:"
+            - generic [ref=e53]: $3,895
+          - link "▸ Buy now" [ref=e54] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/shopping_cart.cfm?d=511w&e=com
+          - generic [ref=e55]: or
+          - link "▸ Start payment plan" [ref=e56] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/payment-plan-setup.cfm?d=511w.com
+          - generic [ref=e57]: Only $162.29/mo. for 24 months
+          - link "See details" [ref=e58] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/payment-plan-setup.cfm?d=511w.com
+        - list [ref=e60]:
+          - listitem [ref=e61]:
+            - generic [ref=e64]: 30-day money back guarantee
+          - listitem [ref=e65]:
+            - generic [ref=e68]: Take immediate ownership
+          - listitem [ref=e69]:
+            - generic [ref=e72]: Safe and secure shopping
+      - generic [ref=e73]:
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - heading "511w.com" [level=1] [ref=e78]
+            - paragraph [ref=e79]: "This domain is for sale: $3,895"
+          - generic [ref=e83] [cursor=pointer]: Favorite
+          - generic [ref=e85]:
+            - text: "Questions? Talk to a domain expert:"
+            - link "1‑303‑893‑0552" [ref=e86] [cursor=pointer]:
+              - /url: tel:1-303-893-0552
+        - generic [ref=e89]:
+          - heading "Since 2005, we've helped thousands of people get the perfect domain name" [level=2] [ref=e90]
+          - generic [ref=e91]:
+            - generic [ref=e92]:
+              - generic [ref=e94]: A
+              - generic [ref=e95]:
+                - paragraph [ref=e96]: Great Support! I have purchased a few strong domains from huge domains, and all were processed seamlessly. On my recent purchase , I thought I had lost the domain because I received an email about the cancellation due to verification issues. I contacted Huge Domains via email immediately with my ID, and they responded quickly and cleared the error. I recommend huge domains.
+                - text: "- Adetutu Longe, May 5, 2026"
+            - generic [ref=e97]:
+              - generic [ref=e99]: M
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Working with Jeff and Sean to secure DatHost.com for my client was an absolute pleasure. They were true professionals at every stage of the process.
+                - text: "- Mike Robertson, May 4, 2026"
+            - generic [ref=e102]:
+              - generic [ref=e104]: W
+              - generic [ref=e105]:
+                - paragraph [ref=e106]: The experience during the transaction was very good.
+                - text: "- Wellington Romanhol, May 4, 2026"
+            - generic [ref=e107]:
+              - generic [ref=e109]: M
+              - generic [ref=e110]:
+                - paragraph [ref=e111]: Excellent and quick work! Thank you!
+                - text: "- Mike Moen, April 28, 2026"
+            - generic [ref=e112]:
+              - generic [ref=e114]: E
+              - generic [ref=e115]:
+                - paragraph [ref=e116]: I had read past reviews before deciding to go ahead and purchase my domain. The previous reviews were a mixed bag so I had some hesitation moving forward. Fortunately the process was very smooth and quick. Once I paid the asking price, the price remained the same, and shortly afterward I received an email with confirmation. I used the links given to setup an account to access my domain name. I unlocked it and copied the code. I then went to my hosting site and requested the move, pasted the unlock key. Verified through email that I had requested the move and I was complete. All in all very simple and fluid process.
+                - text: "- Evelyn Finnegan Wagner, April 28, 2026"
+          - link "See more testimonials" [ref=e117] [cursor=pointer]:
+            - /url: https://www.HugeDomains.com/testimonials.cfm
+        - heading "Our promise to you" [level=2] [ref=e118]
+        - generic [ref=e121]:
+          - heading "30-day money back guarantee" [level=3] [ref=e122]
+          - paragraph [ref=e123]: HugeDomains provides a 100% satisfaction guarantee on every domain name that we sell through our website. If you buy a domain and are unhappy with it, we will accept the return within 30 days and issue a full refund – no questions asked.
+        - generic [ref=e126]:
+          - heading "Quick delivery of the domain" [level=3] [ref=e127]
+          - paragraph [ref=e128]: In most cases access to the domain will be available within one to two hours of purchase, however access to domains purchased after business hours will be available within the next business day.
+        - generic [ref=e131]:
+          - heading "Safe and secure shopping" [level=3] [ref=e132]
+          - paragraph [ref=e133]: Your online safety and security is our top priority. We understand the importance of protecting your personal information.
+          - paragraph [ref=e134]: We protect your information through SSL encryption technology, providing the safest, most secure shopping experience possible. Additionally, you may checkout with PayPal or Escrow.com.
+        - generic [ref=e137]:
+          - generic [ref=e138]:
+            - heading "FAQs" [level=2] [ref=e139]
+            - link "See more FAQs" [ref=e140] [cursor=pointer]:
+              - /url: https://www.HugeDomains.com/faq.cfm
+          - generic [ref=e141]:
+            - link "How do I transfer to another registrar such as GoDaddy?" [ref=e144] [cursor=pointer]:
+              - /url: "#"
+            - link "How do I get the domain after the purchase?" [ref=e147] [cursor=pointer]:
+              - /url: "#"
+            - link "What comes with the domain name?" [ref=e150] [cursor=pointer]:
+              - /url: "#"
+            - link "Do you offer payment plans?" [ref=e153] [cursor=pointer]:
+              - /url: "#"
+            - link "How do I keep my personal information private?" [ref=e156] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e159]:
+          - paragraph [ref=e162] [cursor=pointer]: Please accept cookies to access this content
+          - paragraph [ref=e164]: Your Web address means everything – watch our video see why
+        - generic [ref=e167]:
+          - heading "Other domains you might like" [level=2] [ref=e169]
+          - generic [ref=e170]:
+            - generic [ref=e172]:
+              - link "511Md.com" [ref=e173] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=511Md.com
+              - link "▸ See domain" [ref=e174] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=511Md.com
+              - generic [ref=e175]: $4,295
+            - generic [ref=e177]:
+              - link "xinxing511.com" [ref=e178] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=xinxing511.com
+              - link "▸ See domain" [ref=e179] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=xinxing511.com
+              - generic [ref=e180]: $2,995
+            - generic [ref=e182]:
+              - link "511Go.com" [ref=e183] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=511Go.com
+              - link "▸ See domain" [ref=e184] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_profile.cfm?d=511Go.com
+              - generic [ref=e185]: $1,595
+        - generic [ref=e188]:
+          - heading "Quick stats" [level=2] [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e192]:
+              - generic [ref=e193]: Domain length
+              - generic [ref=e194]: 4 characters
+            - generic [ref=e195]:
+              - generic [ref=e196]: Keywords
+              - link "511w" [ref=e198] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/domain_search.cfm?domain_name=511w
+            - generic [ref=e199]:
+              - generic [ref=e200]: Base domain
+              - generic [ref=e201]: 511w
+            - generic [ref=e202]:
+              - generic [ref=e203]: TLD extension
+              - generic [ref=e204]: .com
+    - link "Contact HugeDomains with our FAB Icon" [ref=e206] [cursor=pointer]:
+      - /url: https://www.HugeDomains.com/contact.cfm
+  - contentinfo [ref=e211]:
+    - generic [ref=e212]:
+      - generic [ref=e213]:
+        - generic [ref=e214]:
+          - heading "Shop" [level=4] [ref=e215]
+          - list [ref=e216]:
+            - listitem [ref=e217]:
+              - link "Home" [ref=e218] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/index.cfm
+            - listitem [ref=e219]:
+              - link "Categories" [ref=e220] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/categories.cfm
+            - listitem [ref=e221]:
+              - link "Payment plans" [ref=e222] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/payment-plans.cfm
+            - listitem [ref=e223]:
+              - link "My account" [ref=e224] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/payment-plan-login.cfm
+        - generic [ref=e225]:
+          - heading "Safe and secure" [level=4] [ref=e226]
+          - list [ref=e227]:
+            - listitem [ref=e228]:
+              - link "Money back guarantee" [ref=e229] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/satisfaction_guaranteed.cfm
+            - listitem [ref=e230]:
+              - link "Escrow.com" [ref=e231] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/escrow.cfm
+            - listitem [ref=e232]:
+              - link "NameBright.com" [ref=e233] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/namebright.cfm
+            - listitem [ref=e234]:
+              - link "Testimonials" [ref=e235] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/testimonials.cfm
+        - generic [ref=e236]:
+          - heading "Helpful Tips" [level=4] [ref=e237]
+          - list [ref=e238]:
+            - listitem [ref=e239]:
+              - link "Buying guide" [ref=e240] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/buying_guide.cfm
+            - listitem [ref=e241]:
+              - link "Case studies" [ref=e242] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/case-studies.cfm
+            - listitem [ref=e243]:
+              - link "FAQs" [ref=e244] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/faq.cfm
+        - generic [ref=e245]:
+          - heading "About us" [level=4] [ref=e246]
+          - list [ref=e247]:
+            - listitem [ref=e248]:
+              - link "Overview" [ref=e249] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/about.cfm
+            - listitem [ref=e250]:
+              - link "Contact us" [ref=e251] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/contact.cfm
+            - listitem [ref=e252]:
+              - link "Terms and conditions" [ref=e253] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/terms.cfm
+            - listitem [ref=e254]:
+              - link "Privacy policy" [ref=e255] [cursor=pointer]:
+                - /url: https://www.HugeDomains.com/privacy_policy.cfm
+      - generic [ref=e256]:
+        - link "Explore the HugeDomains buying guides to learn about .com domains" [ref=e258] [cursor=pointer]:
+          - /url: https://www.HugeDomains.com/buying_guide.cfm
+        - link "NameBright.com is a HugeDomains partner" [ref=e260] [cursor=pointer]:
+          - /url: https://www.HugeDomains.com/namebright.cfm
+        - link "Escrow.com is a HugeDomains partner" [ref=e264] [cursor=pointer]:
+          - /url: https://www.HugeDomains.com/escrow.cfm
+      - generic [ref=e266]:
+        - text: "Talk to a domain expert:"
+        - link "+1-303-893-0552" [ref=e267] [cursor=pointer]:
+          - /url: tel:1-303-893-0552
+      - paragraph [ref=e268]: © 2026 HugeDomains.com. All rights reserved.
+      - link "more.":
+        - /url: https://www.HugeDomains.com/get-domain.cfm

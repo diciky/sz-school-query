@@ -1,0 +1,218 @@
+深圳高中志愿填报查询系统启动中...
+访问 http://localhost:5188
+ * Serving Flask app 'main'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5188
+ * Running on http://10.10.10.8:5188
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 509-162-467
+127.0.0.1 - - [21/May/2026 01:40:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:40:56] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:40:56] "GET /api/recommend?score=560&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 01:47:49] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 01:47:49] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 01:55:22] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 01:55:22] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:41:04] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:41:05] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:48:04] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:48:05] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:48:06] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 05:48:07] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 06:11:52] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 06:11:53] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 06:34:07] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 06:34:07] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 06:34:16] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 06:34:18] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 07:13:19] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 07:13:20] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 07:13:20] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 07:35:42] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 07:35:43] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 07:35:43] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:04] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:15] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:17] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:17] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:17] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:19] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:19] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 08:30:19] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 08:30:28] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 08:30:29] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 08:30:29] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:33] "GET /api/recommend?score=650&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:42] "GET /api/recommend?score=500&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:30:45] "GET /api/recommend?score=444&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:31:30] "GET /api/recommend?score=514&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:32:36] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 08:32:36] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:32:36] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 08:33:02] "GET / HTTP/1.1" 304 -
+10.10.10.254 - - [21/May/2026 08:33:02] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 08:33:02] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:38:54] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:38:57] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:38:58] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 08:39:14] "GET /api/recommend?score=510&category=AC HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:12:49] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:27:54] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:27:55] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:43:46] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:43:46] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 09:43:47] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 09:43:47] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:04:06] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:04:07] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:04:34] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:06:09] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:06:09] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:08:06] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:08:13] "GET /api/recommend?score=500&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:08:30] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:08:30] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:09:55] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:10:26] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:10:27] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:11:16] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:11:16] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:13:23] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:13:23] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:16:50] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:17:09] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:17:17] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:17:37] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:17:37] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 13:17:52] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:19:36] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:19:37] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:22:32] "GET /api/recommend?score=500&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:24:33] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:24:33] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:27:58] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:27:58] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 13:31:19] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:31:19] "GET /api/schools HTTP/1.1" 200 -
+ * Detected change in '/Users/diciky/Library/Python/3.9/lib/python/site-packages/h11/_abnf.py', reloading
+深圳高中志愿填报查询系统启动中...
+访问 http://localhost:5188
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 509-162-467
+10.10.10.8 - - [21/May/2026 13:35:13] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 13:35:13] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 14:11:14] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 14:11:14] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:04] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:04] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:06] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:06] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:06] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:27:10] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:52:24] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 14:52:26] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 15:11:01] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 15:11:02] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 15:11:57] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 15:11:57] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 15:16:24] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 15:16:37] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 15:16:37] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 16:22:35] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 16:22:35] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 16:52:25] "GET / HTTP/1.1" 200 -
+10.10.10.254 - - [21/May/2026 16:52:26] "GET /favicon.ico HTTP/1.1" 404 -
+10.10.10.254 - - [21/May/2026 16:52:26] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 16:54:54] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 16:54:54] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 16:55:05] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 16:55:05] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 16:56:00] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 16:56:45] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 16:56:45] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:00:09] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:00:09] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:03:07] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:03:07] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:05:17] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:05:17] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:05:48] "GET /api/recommend?score=500&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:11:41] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:11:41] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:11:43] "GET /e.gif HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:11:56] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:11:56] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:17:03] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:17:03] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:17:05] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:17:18] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:17:18] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:19:18] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:19:18] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:19:19] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:19:27] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:19:27] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:21:39] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:21:40] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:21:42] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:21:50] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:21:51] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:24:07] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:24:08] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:24:09] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:24:17] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:24:18] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:24:38] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:24:46] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:24:46] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:26:42] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:26:42] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:26:44] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:26:52] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:26:52] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:27:15] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:27:16] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:27:18] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:27:26] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:27:26] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:24] "GET / HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:24] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:26] "GET /e.gif HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:28:34] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:28:34] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:42] "GET /api/recommend?score=300&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:47] "GET /api/recommend?score=310&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:49] "GET /api/recommend?score=320&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:52] "GET /api/recommend?score=400&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:53] "GET / HTTP/1.1" 304 -
+10.10.10.8 - - [21/May/2026 17:28:53] "GET /api/schools HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:28:55] "GET /api/recommend?score=400&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:29:01] "GET /api/recommend?score=450&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:29:25] "GET /api/recommend?score=470&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:29:29] "GET /api/recommend?score=450&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:29:34] "GET /api/recommend?score=455&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:29:38] "GET /api/recommend?score=460&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:30:07] "GET /api/recommend?score=400&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:30:11] "GET /api/recommend?score=450&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:30:13] "GET /api/recommend?score=420&category=AC HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 17:30:38] "GET /api/recommend?score=420&category=AC HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 17:31:01] "GET /api/schools?category=AC HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 17:31:12] "GET /api/schools HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 17:31:22] "GET /api/recommend?score=350&category=AC HTTP/1.1" 200 -
+ * Detected change in '/Users/diciky/sz-school-query/backend/main.py', reloading
+深圳高中志愿填报查询系统启动中...
+访问 http://localhost:5188
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 509-162-467
+127.0.0.1 - - [21/May/2026 17:32:45] "GET /api/recommend?score=420&category=AC HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 17:33:05] "GET /api/recommend?score=420&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:33:14] "GET /api/recommend?score=450&category=AC HTTP/1.1" 200 -
+10.10.10.8 - - [21/May/2026 17:33:20] "GET /api/recommend?score=460&category=AC HTTP/1.1" 200 -
+深圳高中志愿填报查询系统启动中...
+访问 http://localhost:5188

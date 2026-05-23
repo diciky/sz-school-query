@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>深圳高中志愿填报查询</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { -webkit-tap-highlight-color: transparent; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif; }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-slate-50 to-blue-100 min-h-screen pb-24">
+    <!-- 顶部 -->
+    <header class="bg-white/80 backdrop-blur-md sticky top-0 z-50 shadow-sm">
+        <div class="px-4 py-3">
+            <h1 class="text-xl font-bold text-gray-800 flex items-center gap-2">
+                <span>🏫</span>
+                <span>深圳高中志愿查询</span>
+            </h1>
+            <p class="text-xs text-gray-400 mt-0.5">2026 中考录取分数线参考</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-4 py-4 space-y-4">
+        <!-- 成绩输入区 -->
+        <section class="bg-white rounded-2xl shadow-sm p-5">
+            <div class="flex flex-col sm:flex-row gap-3">
+                <div class="flex-1 relative">
+                    <input type="number" id="scoreInput" placeholder="输入中考成绩" min="300" max="650"
+                        class="w-full text-3xl font-mono text-center border-2 border-blue-200 rounded-2xl py-4 px-3 focus:border-blue-500 focus:ring-0 focus:outline-none transition"
+                        inputmode="numeric">
+                    <span class="absolute right-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">分</span>
+                </div>
+                <select id="categorySelect" class="sm:w-28 border-2 border-blue-200 rounded-2xl py-4 px-3 text-center text-lg font-medium focus:border-blue-500 focus:ring-0 focus:outline-none transition bg-white">
+                    <option value="AC">AC类</option>
+                    <option value="D">D类</option>
+                </select>
+            </div>
+            <button onclick="searchSchools()" id="searchBtn"
+                class="w-full mt-3 bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-bold text-lg rounded-2xl py-4 transition shadow-lg shadow-blue-200">
+                🔍 查询匹配学校
+            </button>
+        </section>
+
+        <!-- 志愿推荐区 -->
+        <section id="recommendSection" class="hidden">
+            <h2 class="text-base font-bold text-gray-700 mb-3 flex items-center gap-2">
+                <span>📊</span>
+                <span>志愿推荐（冲/稳/保）</span>
+            </h2>
+            <div class="grid grid-cols-3 gap-2">
+                <div class="bg-gradient-to-b from-green-50 to-green-100 border border-green-200 rounded-xl p-3">
+                    <div class="text-center mb-2">
+                        <span class="text-lg">🚀</span>
+                        <h3 class="font-bold text-green-700 text-sm">冲</h3>
+                    </div>
+                    <div id="rushList" class="space-y-1"></div>
+                </div>
+                <div class="bg-gradient-to-b from-blue-50 to-blue-100 border border-blue-200 rounded-xl p-3">
+                    <div class="text-center mb-2">
+                        <span class="text-lg">✈️</span>
+                        <h3 class="font-bold text-blue-700 text-sm">稳</h3>
+                    </div>
+                    <div id="stableList" class="space-y-1"></div>
+                </div>
+                <div class="bg-gradient-to-b from-gray-50 to-gray-100 border border-gray-200 rounded-xl p-3">
+                    <div class="text-center mb-2">
+                        <span class="text-lg">🛡️</span>
+                        <h3 class="font-bold text-gray-600 text-sm">保</h3>
+                    </div>
+                    <div id="secureList" class="space-y-1"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 筛选器 -->
+        <section class="bg-white rounded-2xl shadow-sm p-4">
+            <div class="flex items-center justify-between mb-3">
+                <h2 class="text-base font-bold text-gray-700">🏋️ 筛选条件</h2>
+                <button onclick="toggleFilter()" class="text-sm text-blue-600" id="filterToggle">收起</button>
+            </div>
+            <div id="filterArea" class="space-y-3">
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+                    <select id="districtFilter" onchange="applyFilters()" class="border rounded-xl px-3 py-2.5 text-sm bg-white">
+                        <option value="">全部区</option>
+                        <option>罗湖</option><option>福田</option><option>南山</option>
+                        <option>宝安</option><option>龙岗</option><option>龙华</option>
+                        <option>盐田</option><option>光明</option><option>坪山</option><option>大鹏</option>
+                    </select>
+                    <select id="typeFilter" onchange="applyFilters()" class="border rounded-xl px-3 py-2.5 text-sm bg-white">
+                        <option value="">全部类型</option>
+                        <option>公办</option><option>民办</option><option>国际</option>
+                    </select>
+                    <select id="levelFilter" onchange="applyFilters()" class="border rounded-xl px-3 py-2.5 text-sm bg-white">
+                        <option value="">全部层次</option>
+                        <option>国家示范性</option><option>省一级</option><option>省二级</option><option>普通</option>
+                    </select>
+                    <label class="flex items-center justify-center gap-2 border rounded-xl px-3 py-2.5 cursor-pointer">
+                        <input type="checkbox" id="top4Filter" onchange="applyFilters()" class="w-4 h-4 accent-blue-600">
+                        <span class="text-sm">仅四大</span>
+                    </label>
+                    <select id="tierFilter" onchange="applyFilters()" class="border rounded-xl px-3 py-2.5 text-sm bg-white">
+                        <option value="">全部档次</option>
+                        <option>四大</option><option>八大</option><option>十大</option>
+                        <option>二十强</option><option>三十强</option><option>四十强</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- 学校列表 -->
+        <section>
+            <div class="flex items-center justify-between mb-3">
+                <h2 class="text-base font-bold text-gray-700">📋 学校列表</h2>
+                <span id="schoolCount" class="text-sm text-gray-400">共 0 所</span>
+            </div>
+            <div id="schoolList" class="space-y-3"></div>
+            <div id="emptyTip" class="hidden text-center py-12 text-gray-400">
+                <p class="text-4xl mb-3">🏫</p>
+                <p>输入成绩查询匹配的学校</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- 底部固定操作栏 -->
+    <div class="fixed bottom-0 left-0 right-0 bg-white/90 backdrop-blur-md border-t shadow-lg p-3 z-50">
+        <div class="max-w-3xl mx-auto flex gap-2">
+            <button onclick="scrollToTop()" class="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-600 font-medium py-3 rounded-xl text-sm transition">
+                ⬆️ 回到顶部
+            </button>
+            <button onclick="resetQuery()" class="flex-1 bg-gray-100 hover:bg-gray-200 text-gray-600 font-medium py-3 rounded-xl text-sm transition">
+                🔄 重置查询
+            </button>
+        </div>
+    </div>
+
+    <!-- 详情模态框 -->
+    <div id="modal" class="fixed inset-0 bg-black/60 z-50 hidden flex items-end sm:items-center justify-center">
+        <div id="modalContent" class="bg-white rounded-t-3xl sm:rounded-2xl w-full max-w-3xl max-h-[90vh] overflow-y-auto hide-scrollbar"></div>
+    </div>
+
+    <script>
+    // ===== 状态管理 =====
+    let allSchools = [];
+    let currentScore = null;
+    let currentCategory = 'AC';
+
+    // ===== 初始化 =====
+    async function init() {
+        try {
+            const res = await fetch('/api/schools');
+            const data = await res.json();
+            allSchools = data.data || [];
+            renderSchoolList(allSchools);
+        } catch (e) {
+            showEmptyTip();
+        }
+    }
+
+    // ===== 查询逻辑 =====
+    async function searchSchools() {
+        const score = parseInt(document.getElementById('scoreInput').value);
+        const category = document.getElementById('categorySelect').value;
+
+        if (!score || score < 300 || score > 650) {
+            showToast('请输入有效成绩（300-650分）');
+            return;
+        }
+
+        currentScore = score;
+        currentCategory = category;
+
+        document.getElementById('recommendSection').classList.remove('hidden');
+
+        try {
+            const res = await fetch(`/api/recommend?score=${score}&category=${category}`);
+            const data = await res.json();
+
+            if (data.code === 200) {
+                renderRecommendList('rushList', data.data.rush, score, category);
+                renderRecommendList('stableList', data.data.stable, score, category);
+                renderRecommendList('secureList', data.data.secure, score, category);
+
+                const scoreKey = `score_${category.toLowerCase()}`;
+                const filtered = allSchools.filter(s => s[scoreKey] && s[scoreKey] <= score);
+                renderSchoolList(filtered, score, category);
+            }
+        } catch (e) {
+            showToast('网络错误，请重试');
+        }
+    }
+
+    function renderRecommendList(elementId, schools, score, category) {
+        const container = document.getElementById(elementId);
+        if (!schools || schools.length === 0) {
+            container.innerHTML = '<p class="text-xs text-gray-400 text-center py-2">暂无</p>';
+            return;
+        }
+        container.innerHTML = schools.slice(0, 5).map(s => {
+            const schoolScore = s[`score_${category.toLowerCase()}`];
+            const diff = score - schoolScore;
+            return `
+                <div class="bg-white rounded-lg px-2 py-1.5 text-xs shadow-sm cursor-pointer hover:bg-blue-50 transition" onclick="showModal('${s.id}')">
+                    <span class="font-medium text-blue-700">${s.name}</span>
+                    <span class="text-gray-400 ml-1">${schoolScore}分</span>
+                    ${diff >= 0 ? `<span class="text-green-500 ml-1">+${diff}</span>` : ''}
+                </div>
+            `;
+        }).join('');
+        if (schools.length > 5) {
+            container.innerHTML += `<p class="text-xs text-gray-400 text-center">还有${schools.length - 5}所...</p>`;
+        }
+    }
+
+    // ===== 渲染学校列表 =====
+    function renderSchoolList(schools, inputScore = null, category = null) {
+        const container = document.getElementById('schoolList');
+        const emptyTip = document.getElementById('emptyTip');
+        const countEl = document.getElementById('schoolCount');
+
+        if (!schools || schools.length === 0) {
+            container.innerHTML = '';
+            countEl.textContent = '共 0 所';
+            emptyTip.classList.remove('hidden');
+            return;
+        }
+
+        emptyTip.classList.add('hidden');
+        countEl.textContent = `共 ${schools.length} 所`;
+
+        const scoreKey = category ? `score_${category.toLowerCase()}` : 'score_ac';
+        const sorted = [...schools].sort((a, b) => {
+            const scoreA = a[scoreKey] || 0;
+            const scoreB = b[scoreKey] || 0;
+            return scoreB - scoreA;
+        });
+
+        container.innerHTML = sorted.map(s => {
+            const score = s[scoreKey] || '-';
+            const diff = inputScore ? inputScore - score : null;
+
+            return `
+            <div class="bg-white rounded-2xl shadow-sm p-4 active:bg-gray-50 transition cursor-pointer" onclick="showModal('${s.id}')">
+                <div class="flex items-start justify-between gap-3">
+                    <div class="flex-grow min-w-0">
+                        <div class="flex items-center gap-2 flex-wrap mb-1.5">
+                            <h3 class="font-bold text-gray-800 text-base">${s.name}</h3>
+                            ${s.is_top4 ? '<span class="bg-red-100 text-red-600 text-xs px-2 py-0.5 rounded-full font-bold">四大</span>' : ''}
+                            ${s.is_top8 && !s.is_top4 ? '<span class="bg-orange-100 text-orange-600 text-xs px-2 py-0.5 rounded-full font-bold">八大</span>' : ''}
+                            ${s.is_top10 && !s.is_top8 && !s.is_top4 ? '<span class="bg-amber-100 text-amber-600 text-xs px-2 py-0.5 rounded-full font-bold">十大</span>' : ''}
+                            ${s.is_top20 && !s.is_top10 && !s.is_top8 && !s.is_top4 ? '<span class="bg-yellow-100 text-yellow-600 text-xs px-2 py-0.5 rounded-full font-bold">二十大</span>' : ''}
+                            ${s.is_top30 && !s.is_top20 ? '<span class="bg-lime-100 text-lime-600 text-xs px-2 py-0.5 rounded-full font-bold">三十大</span>' : ''}
+                            ${s.is_top40 && !s.is_top30 ? '<span class="bg-green-100 text-green-600 text-xs px-2 py-0.5 rounded-full font-bold">四十强</span>' : ''}
+                            <span class="bg-blue-50 text-blue-600 text-xs px-2 py-0.5 rounded-full">${s.type}</span>
+                        </div>
+                        <div class="flex flex-wrap gap-x-3 gap-y-1 text-xs text-gray-500">
+                            <span>📍 ${s.district}</span>
+                            <span>🏆 ${s.level}</span>
+                            ${s.boarding?.available ? '<span>🏠可住宿</span>' : ''}
+                        </div>
+                    </div>
+                    <div class="text-right shrink-0">
+                        <div class="text-2xl font-bold ${diff !== null && diff >= 0 ? 'text-green-600' : 'text-blue-600'}">${score}</div>
+                        <div class="text-xs text-gray-400">${category || 'AC'}类</div>
+                        ${diff !== null ? `<div class="text-xs ${diff >= 0 ? 'text-green-500' : 'text-red-500'} mt-0.5">${diff >= 0 ? '高于' : '低于'}${Math.abs(diff)}分</div>` : ''}
+                    </div>
+                </div>
+                ${s.gaokao ? `
+                <div class="flex gap-2 mt-3 overflow-x-auto hide-scrollbar">
+                    <span class="shrink-0 bg-purple-50 text-purple-600 text-xs px-2 py-1 rounded-lg">重点 ${s.gaokao.key_rate}%</span>
+                    <span class="shrink-0 bg-red-50 text-red-600 text-xs px-2 py-1 rounded-lg">985 ${s.gaokao['985_rate']}%</span>
+                    <span class="shrink-0 bg-blue-50 text-blue-600 text-xs px-2 py-1 rounded-lg">211 ${s.gaokao['211_rate']}%</span>
+                    <span class="shrink-0 bg-green-50 text-green-600 text-xs px-2 py-1 rounded-lg">一本 ${s.gaokao.yike_rate}%</span>
+                </div>
+                ` : ''}
+            </div>
+            `;
+        }).join('');
+    }
+
+    // ===== 模态框详情 =====
+    async function showModal(id) {
+        const school = allSchools.find(s => s.id === id);
+        if (!school) return;
+
+        const category = currentCategory || 'AC';
+        const scoreKey = `score_${category.toLowerCase()}`;
+
+        const modal = document.getElementById('modal');
+        const content = document.getElementById('modalContent');
+
+        content.innerHTML = `
+            <div class="sticky top-0 bg-white z-10 p-5 pb-4 border-b">
+                <div class="flex justify-between items-start">
+                    <div class="flex-grow min-w-0 pr-4">
+                        <div class="flex items-center gap-2 flex-wrap">
+                            <h2 class="text-xl font-bold text-gray-800 truncate">${school.name}</h2>
+                            ${school.is_top4 ? '<span class="bg-red-100 text-red-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">四大名校</span>' : ''}
+                            ${school.is_top8 && !school.is_top4 ? '<span class="bg-orange-100 text-orange-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">八大名校</span>' : ''}
+                            ${school.is_top10 && !school.is_top8 ? '<span class="bg-amber-100 text-amber-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">十大名校</span>' : ''}
+                            ${school.is_top20 && !school.is_top10 ? '<span class="bg-yellow-100 text-yellow-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">二十强</span>' : ''}
+                            ${school.is_top30 && !school.is_top20 ? '<span class="bg-lime-100 text-lime-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">三十强</span>' : ''}
+                            ${school.is_top40 && !school.is_top30 ? '<span class="bg-green-100 text-green-600 text-xs px-2 py-0.5 rounded-full font-bold shrink-0">四十强</span>' : ''}
+                        </div>
+                        ${school.name_en ? `<p class="text-sm text-gray-400">${school.name_en}</p>` : ''}
+                    </div>
+                    <button onclick="closeModal()" class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center text-gray-400 hover:text-gray-600 shrink-0">✕</button>
+                </div>
+            </div>
+
+            <div class="p-5 space-y-5">
+                <!-- 分数线 -->
+                <div class="grid grid-cols-2 gap-3">
+                    <div class="bg-blue-50 rounded-xl p-4 text-center">
+                        <div class="text-3xl font-bold text-blue-600">${school.score_ac || '-'}</div>
+                        <div class="text-sm text-gray-500 mt-1">AC类分数线</div>
+                    </div>
+                    <div class="bg-green-50 rounded-xl p-4 text-center">
+                        <div class="text-3xl font-bold text-green-600">${school.score_d || '-'}</div>
+                        <div class="text-sm text-gray-500 mt-1">D类分数线</div>
+                    </div>
+                </div>
+
+                <!-- 基本信息 -->
+                <div class="bg-gray-50 rounded-xl p-4 space-y-2">
+                    <h3 class="font-bold text-gray-700 mb-3">📌 基本信息</h3>
+                    <div class="grid grid-cols-2 gap-2 text-sm">
+                        <div><span class="text-gray-500">类型：</span><span class="text-gray-700">${school.type}</span></div>
+                        <div><span class="text-gray-500">区：</span><span class="text-gray-700">${school.district}</span></div>
+                        <div><span class="text-gray-500">层次：</span><span class="text-gray-700">${school.level}</span></div>
+                        <div><span class="text-gray-500">建校：</span><span class="text-gray-700">${school.established}年</span></div>
+                    </div>
+                    <div class="text-sm"><span class="text-gray-500">地址：</span><span class="text-gray-700">${school.address}</span></div>
+                    <div class="text-sm"><span class="text-gray-500">电话：</span><span class="text-gray-700">${school.phone}</span></div>
+                    <div class="text-sm"><span class="text-gray-500">规模：</span><span class="text-gray-700">${school.scale?.class_count || '-'}班 / ${school.scale?.student_count || '-'}人</span></div>
+                    <div class="text-sm"><span class="text-gray-500">特色：</span><span class="text-gray-700">${school.features?.join('、') || '-'}</span></div>
+                    <div class="text-sm"><span class="text-gray-500">住宿：</span><span class="text-gray-700">${school.boarding?.available ? '可住宿（' + school.boarding?.capacity + '床位）' : '暂不支持住宿'}</span></div>
+                    ${school.transport ? `<div class="text-sm"><span class="text-gray-500">交通：</span><span class="text-gray-700">${school.transport}</span></div>` : ''}
+                    ${school.website ? `<div class="text-sm"><span class="text-gray-500">官网：</span><a href="${school.website}" target="_blank" class="text-blue-600 hover:underline">点击访问</a></div>` : ''}
+                </div>
+
+                <!-- 高考成绩 -->
+                ${school.gaokao ? `
+                <div>
+                    <h3 class="font-bold text-gray-700 mb-3">🎓 高考成绩</h3>
+                    <div class="grid grid-cols-4 gap-2">
+                        <div class="bg-purple-50 rounded-xl p-3 text-center">
+                            <div class="text-xl font-bold text-purple-600">${school.gaokao.key_rate || '-'}%</div>
+                            <div class="text-xs text-gray-500 mt-0.5">重点本科</div>
+                        </div>
+                        <div class="bg-red-50 rounded-xl p-3 text-center">
+                            <div class="text-xl font-bold text-red-600">${school.gaokao['985_rate'] || '-'}%</div>
+                            <div class="text-xs text-gray-500 mt-0.5">985</div>
+                        </div>
+                        <div class="bg-blue-50 rounded-xl p-3 text-center">
+                            <div class="text-xl font-bold text-blue-600">${school.gaokao['211_rate'] || '-'}%</div>
+                            <div class="text-xs text-gray-500 mt-0.5">211</div>
+                        </div>
+                        <div class="bg-green-50 rounded-xl p-3 text-center">
+                            <div class="text-xl font-bold text-green-600">${school.gaokao.yike_rate || '-'}%</div>
+                            <div class="text-xs text-gray-500 mt-0.5">一本</div>
+                        </div>
+                    </div>
+                    ${school.gaokao.pkutimes || school.gaokao.thutimes ? `
+                    <div class="flex gap-2 mt-2">
+                        ${school.gaokao.pkutimes ? `<span class="bg-red-100 text-red-700 text-xs px-3 py-1 rounded-full font-bold">北大 ${school.gaokao.pkutimes}人</span>` : ''}
+                        ${school.gaokao.thutimes ? `<span class="bg-orange-100 text-orange-700 text-xs px-3 py-1 rounded-full font-bold">清华 ${school.gaokao.thutimes}人</span>` : ''}
+                    </div>
+                    ` : ''}
+                    <div class="mt-3">
+                        <canvas id="chart-${school.id}" class="max-h-48"></canvas>
+                    </div>
+                </div>
+                ` : ''}
+
+                <!-- 自主招生 -->
+                ${school.self_recruit?.available ? `
+                <div class="bg-orange-50 rounded-xl p-4">
+                    <span class="font-bold text-orange-600">📌 自主招生：</span>
+                    <span class="text-orange-700">有${school.self_recruit.quota ? '（' + school.self_recruit.quota + '名额）' : '（若干名额）'}</span>
+                </div>
+                ` : ''}
+            </div>
+        `;
+
+        modal.classList.remove('hidden');
+
+        // 渲染图表
+        if (school.gaokao) {
+            setTimeout(() => {
+                const canvas = document.getElementById(`chart-${school.id}`);
+                if (canvas) {
+                    new Chart(canvas, {
+                        type: 'bar',
+                        data: {
+                            labels: ['重点本科', '985', '211', '一本'],
+                            datasets: [{
+                                data: [school.gaokao.key_rate, school.gaokao['985_rate'], school.gaokao['211_rate'], school.gaokao.yike_rate],
+                                backgroundColor: ['#8b5cf6', '#ef4444', '#3b82f6', '#22c55e']
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            plugins: { legend: { display: false } },
+                            scales: { y: { max: 100, beginAtZero: true } }
+                        }
+                    });
+                }
+            }, 100);
+        }
+    }
+
+    function closeModal() {
+        document.getElementById('modal').classList.add('hidden');
+    }
+
+    // 点击模态框外部关闭
+    document.getElementById('modal').addEventListener('click', (e) => {
+        if (e.target.id === 'modal') closeModal();
+    });
+
+    // ===== 筛选逻辑 =====
+    function applyFilters() {
+        const district = document.getElementById('districtFilter').value;
+        const type = document.getElementById('typeFilter').value;
+        const level = document.getElementById('levelFilter').value;
+        const top4Only = document.getElementById('top4Filter').checked;
+        const tier = document.getElementById('tierFilter').value;
+
+        let filtered = allSchools;
+
+        if (district) filtered = filtered.filter(s => s.district === district);
+        if (type) filtered = filtered.filter(s => s.type === type);
+        if (level) filtered = filtered.filter(s => s.level === level);
+        if (top4Only) filtered = filtered.filter(s => s.is_top4);
+        if (tier) {
+            const tierMap = { '四大': 'is_top4', '八大': 'is_top8', '十大': 'is_top10', '二十强': 'is_top20', '三十强': 'is_top30', '四十强': 'is_top40' };
+            const key = tierMap[tier];
+            if (key) filtered = filtered.filter(s => s[key]);
+        }
+
+        renderSchoolList(filtered, currentScore, currentCategory);
+    }
+
+    function toggleFilter() {
+        const area = document.getElementById('filterArea');
+        const btn = document.getElementById('filterToggle');
+        if (area.classList.contains('hidden')) {
+            area.classList.remove('hidden');
+            btn.textContent = '收起';
+        } else {
+            area.classList.add('hidden');
+            btn.textContent = '展开';
+        }
+    }
+
+    // ===== 辅助函数 =====
+    function showEmptyTip() {
+        document.getElementById('emptyTip').classList.remove('hidden');
+    }
+
+    function showToast(msg) {
+        const toast = document.createElement('div');
+        toast.className = 'fixed top-20 left-1/2 -translate-x-1/2 bg-black/80 text-white px-4 py-2 rounded-lg text-sm z-50 animate-pulse';
+        toast.textContent = msg;
+        document.body.appendChild(toast);
+        setTimeout(() => toast.remove(), 2000);
+    }
+
+    function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function resetQuery() {
+        document.getElementById('scoreInput').value = '';
+        currentScore = null;
+        document.getElementById('recommendSection').classList.add('hidden');
+        document.getElementById('districtFilter').value = '';
+        document.getElementById('typeFilter').value = '';
+        document.getElementById('levelFilter').value = '';
+        document.getElementById('top4Filter').checked = false;
+        document.getElementById('tierFilter').value = '';
+        renderSchoolList(allSchools);
+    }
+
+    // 回车触发查询
+    document.getElementById('scoreInput').addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') searchSchools();
+    });
+
+    // 初始化
+    init();
+    </script>
+</body>
+</html>

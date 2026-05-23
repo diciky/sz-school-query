@@ -1,0 +1,6488 @@
+[
+  {
+    "id": "深圳中学",
+    "name": "深圳中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": true,
+    "level": "普通",
+    "established": 1947,
+    "address": "深圳市罗湖区泥岗西路1068号（新高中部）/ 深圳市罗湖区人民北路深中街18号（旧高中部）/ 深圳市罗湖区贝丽南路46号（初中部）",
+    "phone": "0755-22354800",
+    "scale": {
+      "class_count": "约120班",
+      "student_count": "约6000人",
+      "boarding": "约3400床位"
+    },
+    "features": [
+      "竞赛金牌",
+      "社团活动",
+      "自由校风",
+      "创新实验室",
+      "博士教师团队",
+      "五大奥赛"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3400
+    },
+    "score_ac": 574,
+    "score_d": 574,
+    "gaokao": {
+      "2020": {
+        "key_rate": 94,
+        "985_rate": 46,
+        "211_rate": 70,
+        "yike_rate": 97,
+        "pkutimes": 30,
+        "thutimes": 25
+      },
+      "2021": {
+        "key_rate": 94.5,
+        "985_rate": 47,
+        "211_rate": 71,
+        "yike_rate": 97.5,
+        "pkutimes": 32,
+        "thutimes": 28
+      },
+      "2022": {
+        "key_rate": 95,
+        "985_rate": 48,
+        "211_rate": 72,
+        "yike_rate": 98,
+        "pkutimes": 26,
+        "thutimes": 21
+      },
+      "2023": {
+        "key_rate": 95.3,
+        "985_rate": 49,
+        "211_rate": 73,
+        "yike_rate": 98.5,
+        "pkutimes": 32,
+        "thutimes": 30
+      },
+      "2024": {
+        "key_rate": 95,
+        "985_rate": 48,
+        "211_rate": 72,
+        "yike_rate": 98,
+        "pkutimes": 26,
+        "thutimes": 21
+      },
+      "2025": {
+        "key_rate": 96,
+        "985_rate": 50,
+        "211_rate": 75,
+        "yike_rate": 99,
+        "pkutimes": 33,
+        "thutimes": 31
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（泥岗站）、9号线（泥岗站）",
+    "score_ac_day": 570,
+    "score_d_day": 570,
+    "pros": "深圳四大名校之首，师资力量最强，清北录取人数全市第一，竞赛成绩突出，校风自由民主，创新实验室资源丰富",
+    "cons": "竞争压力大，学业繁忙，活动多导致时间紧张，深户AC类录取线最高",
+    "is_top8": true,
+    "rank_ac": 1,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szhy.cn/",
+    "score_ac_boarding": 574,
+    "score_d_boarding": 574,
+    "code": "8310101",
+    "score_tail": "96"
+  },
+  {
+    "id": "深圳实验学校高中部",
+    "name": "深圳实验学校(高中部)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": true,
+    "level": "普通",
+    "established": 1985,
+    "address": "深圳市福田区百花六路6号（高中部）",
+    "phone": "0755-83336188",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "综合教育",
+      "高考成绩优异",
+      "素质教育",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 570,
+    "score_d": 570,
+    "gaokao": {
+      "2022": {
+        "key_rate": 94,
+        "985_rate": 38,
+        "211_rate": 62,
+        "yike_rate": 97,
+        "pkutimes": 8,
+        "thutimes": 6
+      },
+      "2023": {
+        "key_rate": 95,
+        "985_rate": 40,
+        "211_rate": 65,
+        "yike_rate": 99,
+        "pkutimes": 12,
+        "thutimes": 10
+      },
+      "2024": {
+        "key_rate": 95,
+        "985_rate": 42,
+        "211_rate": 68,
+        "yike_rate": 99,
+        "pkutimes": 10,
+        "thutimes": 8
+      },
+      "2025": {
+        "key_rate": 96,
+        "985_rate": 44,
+        "211_rate": 70,
+        "yike_rate": 99,
+        "pkutimes": 15,
+        "thutimes": 12
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（百花站）、7号线（农林站）",
+    "score_ac_day": 569,
+    "score_d_day": 565,
+    "pros": "综合实力强，校风严谨，高考成绩稳定，社团活动多样，南山优质教育资源",
+    "cons": "录取分数线高，竞争激烈，学习强度大",
+    "is_top8": true,
+    "rank_ac": 2,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szsy.cn/",
+    "score_ac_boarding": 570,
+    "score_d_boarding": 570,
+    "code": "8310102",
+    "score_tail": "92"
+  },
+  {
+    "id": "深圳市高级中学中心校区",
+    "name": "深圳市高级中学中心校区",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": true,
+    "level": "普通",
+    "established": 1997,
+    "address": "深圳市福田区香蜜湖街道安托山六路26号",
+    "phone": "0755-83938899",
+    "scale": {
+      "class_count": "约90班",
+      "student_count": "约4500人"
+    },
+    "features": [
+      "信息化教学",
+      "科技创新",
+      "社团活动",
+      "高考成绩优异"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2500
+    },
+    "score_ac": 569,
+    "score_d": 569,
+    "gaokao": {
+      "2022": {
+        "key_rate": 88,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 92,
+        "pkutimes": 5,
+        "thutimes": 3
+      },
+      "2023": {
+        "key_rate": 89,
+        "985_rate": 33,
+        "211_rate": 56,
+        "yike_rate": 93,
+        "pkutimes": 6,
+        "thutimes": 4
+      },
+      "2024": {
+        "key_rate": 90,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 94,
+        "pkutimes": 8,
+        "thutimes": 5
+      },
+      "2025": {
+        "key_rate": 91,
+        "985_rate": 37,
+        "211_rate": 60,
+        "yike_rate": 95,
+        "pkutimes": 10,
+        "thutimes": 7
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁2号线（香蜜站）、7号线（农林站）",
+    "score_ac_day": 568,
+    "score_d_day": 564,
+    "pros": "国家示范性高中，艺体特色鲜明，科技教育有特色，福田核心地段，交通便利",
+    "cons": "名校竞争中优势不如四大，住宿资源有限",
+    "is_top8": true,
+    "rank_ac": 3,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.ssgz.com.cn/",
+    "score_ac_boarding": 569,
+    "score_d_boarding": 569,
+    "code": "8310106",
+    "score_tail": "95"
+  },
+  {
+    "id": "深圳外国语学校",
+    "name": "深圳外国语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": true,
+    "level": "普通",
+    "established": 1990,
+    "address": "深圳市盐田区盐田街道盐田路1号（高中部）/ 深圳市福田区华强北街道红荔路2005号（初中部）",
+    "phone": "0755-25534089",
+    "scale": {
+      "class_count": "约80班",
+      "student_count": "约4000人"
+    },
+    "features": [
+      "外语特色",
+      "保送资格",
+      "国际交流",
+      "社团活动"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2000
+    },
+    "score_ac": 568,
+    "score_d": 568,
+    "gaokao": {
+      "2022": {
+        "key_rate": 90,
+        "985_rate": 36,
+        "211_rate": 60,
+        "yike_rate": 95,
+        "pkutimes": 10,
+        "thutimes": 8
+      },
+      "2023": {
+        "key_rate": 91,
+        "985_rate": 38,
+        "211_rate": 62,
+        "yike_rate": 96,
+        "pkutimes": 12,
+        "thutimes": 10
+      },
+      "2024": {
+        "key_rate": 92,
+        "985_rate": 40,
+        "211_rate": 65,
+        "yike_rate": 97,
+        "pkutimes": 14,
+        "thutimes": 11
+      },
+      "2025": {
+        "key_rate": 93,
+        "985_rate": 42,
+        "211_rate": 68,
+        "yike_rate": 98,
+        "pkutimes": 18,
+        "thutimes": 14
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁8号线（盐田站）",
+    "score_ac_day": 566,
+    "score_d_day": 562,
+    "pros": "外语保送优势明显，全国13所可保送外语学校之一，6个语种可选，国际体系成熟，校园活动丰富",
+    "cons": "保送名额竞争激烈，外语学习压力大，非外语专业优势相对较弱",
+    "is_top8": true,
+    "rank_ac": 4,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.sfls.net.cn/",
+    "score_ac_boarding": 568,
+    "score_d_boarding": 568,
+    "code": "8310125",
+    "score_tail": "94"
+  },
+  {
+    "id": "红岭中学",
+    "name": "红岭中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1984,
+    "address": "深圳市福田区园岭九街10号",
+    "phone": "0755-22221623",
+    "scale": {
+      "class_count": "约70班",
+      "student_count": "约3500人"
+    },
+    "features": [
+      "高考成绩优异",
+      "社团活动",
+      "田径特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 565,
+    "score_d": 565,
+    "gaokao": {
+      "2022": {
+        "key_rate": 82,
+        "985_rate": 28,
+        "211_rate": 48,
+        "yike_rate": 90,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2023": {
+        "key_rate": 84,
+        "985_rate": 30,
+        "211_rate": 50,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2024": {
+        "key_rate": 85,
+        "985_rate": 32,
+        "211_rate": 52,
+        "yike_rate": 93,
+        "pkutimes": 5,
+        "thutimes": 4
+      },
+      "2025": {
+        "key_rate": 86,
+        "985_rate": 34,
+        "211_rate": 54,
+        "yike_rate": 94,
+        "pkutimes": 6,
+        "thutimes": 5
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（红岭站）",
+    "score_ac_day": 564,
+    "score_d_day": 557,
+    "pros": "福田区重点学校，性价比高，录取分数线相对较低，校风务实，管理严格",
+    "cons": "相比四大名校资源有限，竞赛机会较少",
+    "is_top8": true,
+    "rank_ac": 5,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.hlzx.cn/",
+    "score_ac_boarding": 565,
+    "score_d_boarding": 565,
+    "code": "8310402",
+    "score_tail": "86"
+  },
+  {
+    "id": "宝安中学集团高中部",
+    "name": "宝安中学(集团)高中部",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1984,
+    "address": "深圳市宝安区洪浪南路7号",
+    "phone": "0755-29912399",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "高考成绩优异",
+      "社团活动"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2000
+    },
+    "score_ac": 564,
+    "score_d": 562,
+    "gaokao": {
+      "2022": {
+        "key_rate": 80,
+        "985_rate": 25,
+        "211_rate": 45,
+        "yike_rate": 88,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 82,
+        "985_rate": 27,
+        "211_rate": 48,
+        "yike_rate": 90,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 84,
+        "985_rate": 30,
+        "211_rate": 50,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2025": {
+        "key_rate": 85,
+        "985_rate": 32,
+        "211_rate": 52,
+        "yike_rate": 93,
+        "pkutimes": 5,
+        "thutimes": 4
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（洪浪站）",
+    "score_ac_day": 562,
+    "score_d_day": 558,
+    "pros": "宝安区龙头学校，省一级学校，历史悠久，师资稳定，管理规范",
+    "cons": "地理位置较偏，相比市区名校资源稍弱",
+    "is_top8": true,
+    "rank_ac": 6,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.bazx.net/",
+    "score_ac_boarding": 564,
+    "score_d_boarding": 564
+  },
+  {
+    "id": "育才中学",
+    "name": "育才中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1983,
+    "address": "深圳市南山区太子路1号",
+    "phone": "0755-26819777",
+    "scale": {
+      "class_count": "约40班",
+      "student_count": "约2000人"
+    },
+    "features": [
+      "海洋教育",
+      "社团活动",
+      "高考成绩优异"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 564,
+    "score_d": 564,
+    "gaokao": {
+      "2022": {
+        "key_rate": 80,
+        "985_rate": 24,
+        "211_rate": 45,
+        "yike_rate": 87,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 82,
+        "985_rate": 26,
+        "211_rate": 48,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 84,
+        "985_rate": 28,
+        "211_rate": 50,
+        "yike_rate": 91,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2025": {
+        "key_rate": 85,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁12号线（太子湾站）",
+    "score_ac_day": 563,
+    "score_d_day": 561,
+    "pros": "南山区老牌名校，海洋科技特色，校风民主，学生自治传统好",
+    "cons": "蛇口校区硬件较旧，名额有限",
+    "is_top8": true,
+    "rank_ac": 7,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.yucaizhongxue.com/",
+    "score_ac_boarding": 564,
+    "score_d_boarding": 564,
+    "code": "8310503",
+    "score_tail": "82"
+  },
+  {
+    "id": "深圳大学附属中学深大附中",
+    "name": "深圳大学附属中学(深大附中)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1996,
+    "address": "深圳市南山区前海路0019号",
+    "phone": "0755-26499999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "大学附中",
+      "科创教育",
+      "社团活动"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 562,
+    "score_d": 562,
+    "gaokao": {
+      "2022": {
+        "key_rate": 85,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 91,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 87,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 93,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 88,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 94,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2025": {
+        "key_rate": 90,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 95,
+        "pkutimes": 5,
+        "thutimes": 4
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（前湾站）",
+    "score_ac_day": 560,
+    "score_d_day": 551,
+    "pros": "深圳大学资源支撑，大學氛围浓厚，创新实验机会多，南山地理优势",
+    "cons": "创办时间较短，升学成绩积累有限",
+    "is_top8": true,
+    "rank_ac": 8,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szuz.edu.cn/",
+    "score_ac_boarding": 562,
+    "score_d_boarding": 562
+  },
+  {
+    "id": "北京师范大学南山附属学校",
+    "name": "北京师范大学南山附属学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2000,
+    "address": "深圳市南山区东滨路3002号",
+    "phone": "0755-26035777",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "十二年一贯制",
+      "科创教育",
+      "足球特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 562,
+    "score_d": 562,
+    "gaokao": {
+      "2022": {
+        "key_rate": 88,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 93,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2023": {
+        "key_rate": 90,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 95,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2024": {
+        "key_rate": 91,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 96,
+        "pkutimes": 5,
+        "thutimes": 4
+      },
+      "2025": {
+        "key_rate": 92,
+        "985_rate": 40,
+        "211_rate": 62,
+        "yike_rate": 97,
+        "pkutimes": 6,
+        "thutimes": 5
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁9号线（南山区人民医院站）",
+    "score_ac_day": 560,
+    "score_d_day": 554,
+    "pros": "北师大品牌支持，师资培训体系完善，南山核心地段，近年上升势头明显",
+    "cons": "高中学制较短，升学成绩数据积累不足",
+    "is_top8": false,
+    "rank_ac": 9,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.bnusz.edu.cn/",
+    "score_ac_boarding": 562,
+    "score_d_boarding": 562
+  },
+  {
+    "id": "深圳科学高中",
+    "name": "深圳科学高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2012,
+    "address": "深圳市龙岗区坂田街道杨美社区龙颈坳路（校本部）",
+    "phone": "0755-28341588",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "科学高中",
+      "科创特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3000
+    },
+    "score_ac": 560,
+    "score_d": 560,
+    "gaokao": {
+      "2023": {
+        "key_rate": 90,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 95,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 91,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 96,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2025": {
+        "key_rate": 92,
+        "985_rate": 40,
+        "211_rate": 62,
+        "yike_rate": 97,
+        "pkutimes": 5,
+        "thutimes": 4
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（坂田站）",
+    "score_ac_day": 558,
+    "score_d_day": 550,
+    "pros": "深圳科学高中定位，科创特色突出，与高校院所合作紧密，选科自由度大",
+    "cons": "创办时间短，社会认知度还在建立中",
+    "is_top8": false,
+    "rank_ac": 10,
+    "is_top10": true,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szsky.com/",
+    "score_ac_boarding": 560,
+    "score_d_boarding": 560,
+    "code": "8310146",
+    "score_tail": "78"
+  },
+  {
+    "id": "南山外国语学校集团高级中学",
+    "name": "南山外国语学校(集团)高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2012,
+    "address": "深圳市南山区前海路0098号",
+    "phone": "0755-26432199",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "外国语特色",
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 559,
+    "score_d": 557,
+    "gaokao": {
+      "2022": {
+        "key_rate": 86,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 92,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 88,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 94,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 90,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 95,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2025": {
+        "key_rate": 91,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 96,
+        "pkutimes": 5,
+        "thutimes": 4
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（前湾站）",
+    "score_ac_day": 558,
+    "score_d_day": 553,
+    "pros": "南外集团资源，外语+科创双特色，国际交流机会多，南山地理优势",
+    "cons": "新校区硬件仍在完善中，办学历史较短",
+    "is_top8": false,
+    "rank_ac": 11,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.nfls.com.cn/",
+    "score_ac_boarding": 559,
+    "score_d_boarding": 557,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "龙城高级中学",
+    "name": "龙城高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2008,
+    "address": "深圳市龙岗区龙城街道龙飞大道999号",
+    "phone": "0755-89629999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "全寄宿制",
+      "高考成绩优异",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 557,
+    "score_d": 557,
+    "gaokao": {
+      "2022": {
+        "key_rate": 78,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 80,
+        "985_rate": 24,
+        "211_rate": 42,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2024": {
+        "key_rate": 82,
+        "985_rate": 26,
+        "211_rate": 45,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 83,
+        "985_rate": 28,
+        "211_rate": 47,
+        "yike_rate": 90,
+        "pkutimes": 2,
+        "thutimes": 2
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（龙城广场站）",
+    "score_ac_day": 554,
+    "score_d_day": 554,
+    "pros": "龙岗区最好的公办高中，近年高考成绩进步明显，艺体特色鲜明，性价比高",
+    "cons": "龙岗区整体教育资源弱于市区，远离市中心",
+    "is_top8": false,
+    "rank_ac": 12,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.lcgz.net.cn/",
+    "score_ac_boarding": 557,
+    "score_d_boarding": 557,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "深圳市第二高级中学",
+    "name": "深圳市第二高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2007,
+    "address": "深圳市南山区西丽街道创科路3号",
+    "phone": "0755-26499999",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "全寄宿制",
+      "科技创新",
+      "高考成绩优异"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3000
+    },
+    "score_ac": 557,
+    "score_d": 554,
+    "gaokao": {
+      "2022": {
+        "key_rate": 82,
+        "985_rate": 25,
+        "211_rate": 45,
+        "yike_rate": 88,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 84,
+        "985_rate": 27,
+        "211_rate": 48,
+        "yike_rate": 90,
+        "pkutimes": 2,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 85,
+        "985_rate": 29,
+        "211_rate": 50,
+        "yike_rate": 91,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2025": {
+        "key_rate": 86,
+        "985_rate": 31,
+        "211_rate": 52,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（留仙洞站）",
+    "score_ac_day": 555,
+    "score_d_day": 546,
+    "pros": "市直属学校，管理规范，近年高考成绩稳步提升，校园环境好",
+    "cons": "录取分数线在重点高中中相对较低，品牌认知度有限",
+    "is_top8": false,
+    "rank_ac": 13,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szsdegz.com/",
+    "score_ac_boarding": 557,
+    "score_d_boarding": 554,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "翠园中学",
+    "name": "翠园中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1964,
+    "address": "深圳市罗湖区东门北路1016号",
+    "phone": "0755-25012199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "历史悠久",
+      "足球特色",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 557,
+    "score_d": 556,
+    "gaokao": {
+      "2022": {
+        "key_rate": 78,
+        "985_rate": 22,
+        "211_rate": 42,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 80,
+        "985_rate": 24,
+        "211_rate": 45,
+        "yike_rate": 87,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2024": {
+        "key_rate": 82,
+        "985_rate": 26,
+        "211_rate": 48,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 2
+      },
+      "2025": {
+        "key_rate": 83,
+        "985_rate": 28,
+        "211_rate": 50,
+        "yike_rate": 90,
+        "pkutimes": 3,
+        "thutimes": 2
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（翠竹站）",
+    "score_ac_day": 555,
+    "score_d_day": 555,
+    "pros": "罗湖区重点学校，历史悠久，文科见长，罗湖区政府重点支持",
+    "cons": "相比其他区重点学校，进步速度较慢",
+    "is_top8": false,
+    "rank_ac": 14,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szcyzx.cn/",
+    "score_ac_boarding": 557,
+    "score_d_boarding": 556,
+    "code": "8310301",
+    "score_tail": "78"
+  },
+  {
+    "id": "南方科技大学附属中学",
+    "name": "南方科技大学附属中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2020,
+    "address": "深圳市宝安区福海街道荔园路8号",
+    "phone": "0755-88010999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "南科大附属",
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 556,
+    "score_d": 556,
+    "gaokao": {
+      "2022": {
+        "key_rate": 85,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 91,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 87,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 93,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2024": {
+        "key_rate": 89,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 94,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2025": {
+        "key_rate": 90,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 95,
+        "pkutimes": 5,
+        "thutimes": 4
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（福永站）",
+    "score_ac_day": 552,
+    "score_d_day": 553,
+    "pros": "南科大背景，理工科资源丰富，创新人才培养路径明确，南山地理优势",
+    "cons": "创办时间短，社会口碑还在建立中",
+    "is_top8": false,
+    "rank_ac": 15,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "https://www.sustech-sz.edu.cn/",
+    "score_ac_boarding": 556,
+    "score_d_boarding": 556,
+    "code": "8310151",
+    "score_tail": "81"
+  },
+  {
+    "id": "龙华高级中学",
+    "name": "龙华高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市龙华区龙华街道和平路56号",
+    "phone": "0755-27702199",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "科技创新",
+      "人文社科"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 553,
+    "score_d": 552,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（龙华站）",
+    "score_ac_day": 551,
+    "score_d_day": 543,
+    "pros": "龙华区重点高中，近年提升明显，艺体特色有传统，管理严格",
+    "cons": "龙华区整体教育资源弱于市区，硬件条件一般",
+    "is_top8": false,
+    "rank_ac": 16,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.lhhg.cn/",
+    "score_ac_boarding": 553,
+    "score_d_boarding": 552,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "深圳实验学校光明高中部",
+    "name": "深圳实验学校(光明高中部)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2018,
+    "address": "深圳市光明区光明街道牛山路100号",
+    "phone": "0755-27401199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "实验集团",
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 549,
+    "score_d": 552,
+    "gaokao": {
+      "2024": {
+        "key_rate": 78,
+        "985_rate": 20,
+        "211_rate": 40,
+        "yike_rate": 80,
+        "pkutimes": null,
+        "thutimes": null
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（光明站）",
+    "score_ac_day": 542,
+    "score_d_day": 549,
+    "pros": "深圳实验集团资源，光明区重点支持，宿舍条件好，光明科学城地段",
+    "cons": "光明区整体较偏远，公共交通不便",
+    "is_top8": false,
+    "rank_ac": 19,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szsy.cn/",
+    "score_ac_boarding": 549,
+    "score_d_boarding": 552,
+    "code": "8310141",
+    "score_tail": "88"
+  },
+  {
+    "id": "人大附中深圳学校",
+    "name": "人大附中深圳学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市大鹏新区葵涌街道丰树山路5号",
+    "phone": "0755-89320666",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "人大附中品牌",
+      "科技创新",
+      "生态校园"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 553,
+    "score_d": 552,
+    "gaokao": {
+      "2022": {
+        "key_rate": 85,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 91,
+        "pkutimes": 2,
+        "thutimes": 2
+      },
+      "2023": {
+        "key_rate": 87,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 93,
+        "pkutimes": 3,
+        "thutimes": 3
+      },
+      "2024": {
+        "key_rate": 88,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 94,
+        "pkutimes": 4,
+        "thutimes": 4
+      },
+      "2025": {
+        "key_rate": 90,
+        "985_rate": 38,
+        "211_rate": 60,
+        "yike_rate": 95,
+        "pkutimes": 5,
+        "thutimes": 5
+      }
+    },
+    "self_recruit": null,
+    "transport": "E23路公交",
+    "score_ac_day": 541,
+    "score_d_day": 538,
+    "pros": "人大附中品牌，深圳分校，北京资源支撑，教学质量有保障",
+    "cons": "办学时间较短，目前只有一届高考成绩可参考",
+    "is_top8": false,
+    "rank_ac": 17,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "https://www.rdfzsz.cn/",
+    "score_ac_boarding": 553,
+    "score_d_boarding": 552,
+    "code": "8311102",
+    "score_tail": "90"
+  },
+  {
+    "id": "深圳市第二实验学校",
+    "name": "深圳市第二实验学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1989,
+    "address": "深圳市罗湖区爱国路3002号",
+    "phone": "0755-25008999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "高考成绩优异",
+      "科技教育"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 550,
+    "score_d": 552,
+    "gaokao": {
+      "2022": {
+        "key_rate": 85,
+        "985_rate": 28,
+        "211_rate": 50,
+        "yike_rate": 90,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2023": {
+        "key_rate": 87,
+        "985_rate": 30,
+        "211_rate": 52,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      },
+      "2024": {
+        "key_rate": 88,
+        "985_rate": 32,
+        "211_rate": 55,
+        "yike_rate": 93,
+        "pkutimes": 5,
+        "thutimes": 4
+      },
+      "2025": {
+        "key_rate": 90,
+        "985_rate": 35,
+        "211_rate": 58,
+        "yike_rate": 95,
+        "pkutimes": 6,
+        "thutimes": 5
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（怡景站）",
+    "score_ac_day": 547,
+    "score_d_day": 547,
+    "pros": "市直属学校，科创特色鲜明，五大奥赛金银牌教练，社团活动丰富",
+    "cons": "高考成绩不够稳定，存在波动",
+    "is_top8": false,
+    "rank_ac": 18,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.sz2es.com/",
+    "score_ac_boarding": 550,
+    "score_d_boarding": 552,
+    "code": "8310115",
+    "score_tail": "87"
+  },
+  {
+    "id": "育才中学蛇口校区",
+    "name": "育才中学蛇口校区",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2003,
+    "address": "深圳市南山区蛇口工业七路1号",
+    "phone": "0755-26819777",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "育才集团",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 549,
+    "score_d": 548,
+    "gaokao": {
+      "2022": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 74,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 72,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 81,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁2号线（海上世界站）",
+    "score_ac_day": 546,
+    "score_d_day": 546,
+    "pros": "育才教育集团成员，共享育才资源，蛇口地理优越，国际化氛围浓厚",
+    "cons": "校区空间有限，招生规模小",
+    "is_top8": false,
+    "rank_ac": 20,
+    "is_top10": false,
+    "is_top20": true,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.yucaizhongxue.com/",
+    "score_ac_boarding": 549,
+    "score_d_boarding": 548,
+    "code": "8310503",
+    "score_tail": "82"
+  },
+  {
+    "id": "广东实验中学深圳学校",
+    "name": "广东实验中学深圳学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区坂田街道岗头社区象塘路63号",
+    "phone": "0755-28269999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "十二年一贯制",
+      "科创教育"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 549,
+    "score_d": 550,
+    "gaokao": {
+      "2023": {
+        "key_rate": 80,
+        "985_rate": 25,
+        "211_rate": 45,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2024": {
+        "key_rate": 82,
+        "985_rate": 28,
+        "211_rate": 48,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 2
+      },
+      "2025": {
+        "key_rate": 84,
+        "985_rate": 30,
+        "211_rate": 50,
+        "yike_rate": 91,
+        "pkutimes": 3,
+        "thutimes": 3
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁10号线（岗头站）",
+    "score_ac_day": 540,
+    "score_d_day": 536,
+    "pros": "广东实验中学品牌，省实资源支撑，师资培训体系完善，荔湾共建",
+    "cons": "办学时间短，目前暂无高考成绩可参考",
+    "is_top8": false,
+    "rank_ac": 21,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.gdsyszx.cn/",
+    "score_ac_boarding": 549,
+    "score_d_boarding": 550,
+    "code": "8310148",
+    "score_tail": "88"
+  },
+  {
+    "id": "新安中学集团高中部",
+    "name": "新安中学(集团)高中部",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1988,
+    "address": "深圳市宝安区新安街道创业路100号",
+    "phone": "0755-27981199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "新安集团",
+      "全寄宿制",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 547,
+    "score_d": 549,
+    "gaokao": {
+      "2022": {
+        "key_rate": 78,
+        "985_rate": 20,
+        "211_rate": 38,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 80,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2024": {
+        "key_rate": 82,
+        "985_rate": 24,
+        "211_rate": 42,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 83,
+        "985_rate": 26,
+        "211_rate": 45,
+        "yike_rate": 90,
+        "pkutimes": 2,
+        "thutimes": 2
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（灵芝站）",
+    "score_ac_day": 544,
+    "score_d_day": 542,
+    "pros": "宝安区重点支持，集团化办学资源共享，性价比较高，管理严格",
+    "cons": "新安片区整体教育资源一般",
+    "is_top8": false,
+    "rank_ac": 24,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.xaedu.cn/",
+    "score_ac_boarding": 547,
+    "score_d_boarding": 549
+  },
+  {
+    "id": "深圳外国语学校龙华高中部",
+    "name": "深圳外国语学校龙华高中部",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市龙华区新樟路200号",
+    "phone": "0755-21099999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "外语特色",
+      "全寄宿制",
+      "客家文化"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 549,
+    "score_d": 549,
+    "gaokao": {
+      "2022": {
+        "key_rate": 80,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2023": {
+        "key_rate": 82,
+        "985_rate": 24,
+        "211_rate": 42,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 1
+      },
+      "2024": {
+        "key_rate": 84,
+        "985_rate": 26,
+        "211_rate": 45,
+        "yike_rate": 91,
+        "pkutimes": 3,
+        "thutimes": 2
+      },
+      "2025": {
+        "key_rate": 85,
+        "985_rate": 28,
+        "211_rate": 48,
+        "yike_rate": 92,
+        "pkutimes": 4,
+        "thutimes": 3
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（观澜站）",
+    "score_ac_day": 543,
+    "score_d_day": 541,
+    "pros": "深外品牌资源，龙华区重点引进，外国语特色，小语种课程",
+    "cons": "龙华片区教育资源相对薄弱",
+    "is_top8": false,
+    "rank_ac": 22,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "https://www.sfls.net.cn/",
+    "score_ac_boarding": 549,
+    "score_d_boarding": 549,
+    "code": "8310125",
+    "score_tail": "94"
+  },
+  {
+    "id": "深圳市高级中学东校区",
+    "name": "深圳市高级中学东校区",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2020,
+    "address": "深圳市龙岗区坪地街道惠岭二路32号",
+    "phone": "0755-83938899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "高级集团",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 548,
+    "score_d": 546,
+    "gaokao": {
+      "2022": {
+        "key_rate": 75,
+        "985_rate": 18,
+        "211_rate": 35,
+        "yike_rate": 83,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 77,
+        "985_rate": 20,
+        "211_rate": 37,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 78,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 80,
+        "985_rate": 24,
+        "211_rate": 42,
+        "yike_rate": 88,
+        "pkutimes": 2,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 538,
+    "score_d_day": 539,
+    "pros": "深高集团资源，东校区硬件优良，宿舍条件好，扩招名额多",
+    "cons": "区位较偏，远离深高主校区辐射范围",
+    "is_top8": false,
+    "rank_ac": 23,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.ssgz.com.cn/",
+    "score_ac_boarding": 548,
+    "score_d_boarding": 546,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "深圳大学附属实验中学",
+    "name": "深圳大学附属实验中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市光明区玉塘街道长松路366号",
+    "phone": "0755-23226333",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "大学附属",
+      "科创特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 546,
+    "score_d": 548,
+    "gaokao": {
+      "2023": {
+        "key_rate": 78,
+        "985_rate": 20,
+        "211_rate": 38,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 80,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 82,
+        "985_rate": 25,
+        "211_rate": 42,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（长圳站）",
+    "score_ac_day": 541,
+    "score_d_day": 541,
+    "pros": "深圳大学资源支撑，与深大附中资源共享，师资培训有优势",
+    "cons": "新校办学经验积累中，成绩有待验证",
+    "is_top8": false,
+    "rank_ac": 25,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szuz.edu.cn/",
+    "score_ac_boarding": 548,
+    "score_d_boarding": 548,
+    "code": "8310153",
+    "score_tail": "84"
+  },
+  {
+    "id": "深圳科学高中龙岗分校",
+    "name": "深圳科学高中龙岗分校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市龙岗区龙岗大道惠岭二路32号",
+    "phone": "0755-28341588",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "足球特色",
+      "体教结合",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 545,
+    "score_d": 547,
+    "gaokao": {
+      "2023": {
+        "key_rate": 70,
+        "985_rate": 15,
+        "211_rate": 30,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 72,
+        "985_rate": 17,
+        "211_rate": 32,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 74,
+        "985_rate": 19,
+        "211_rate": 35,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 538,
+    "score_d_day": 539,
+    "pros": "深圳科学高中集团分校，科学特色传承，龙岗区政府重点支持",
+    "cons": "龙岗区较偏远，师资吸引力有限",
+    "is_top8": false,
+    "rank_ac": 26,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.szsky.com/",
+    "score_d_boarding": 547,
+    "code": "8310146",
+    "score_tail": "78",
+    "score_ac_boarding": 520
+  },
+  {
+    "id": "华中师范大学龙岗附属中学",
+    "name": "华中师范大学龙岗附属中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市龙岗区平湖街道富安大道1号",
+    "phone": "0755-28457199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "华师附中",
+      "全寄宿制",
+      "教师教育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 545,
+    "score_d": 545,
+    "gaokao": {
+      "2022": {
+        "key_rate": 75,
+        "985_rate": 18,
+        "211_rate": 35,
+        "yike_rate": 83,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 77,
+        "985_rate": 20,
+        "211_rate": 37,
+        "yike_rate": 85,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 79,
+        "985_rate": 22,
+        "211_rate": 40,
+        "yike_rate": 87,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 81,
+        "985_rate": 24,
+        "211_rate": 42,
+        "yike_rate": 89,
+        "pkutimes": 2,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁10号线（平湖站）",
+    "score_ac_day": 544,
+    "score_d_day": 546,
+    "pros": "华中师大品牌，龙岗区重点引进，师范类资源，师资培训体系完善",
+    "cons": "龙岗区整体较偏远，优质师资吸引难度大",
+    "is_top8": false,
+    "rank_ac": 27,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.hzlc.edu.cn/",
+    "score_ac_boarding": 547,
+    "score_d_boarding": 548
+  },
+  {
+    "id": "深圳市美术学校",
+    "name": "深圳市美术学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1989,
+    "address": "深圳市罗湖区东晓街道东盛路68号",
+    "phone": "0755-25110599",
+    "scale": {
+      "class_count": "约12班",
+      "student_count": "约600人"
+    },
+    "features": [
+      "美术特色",
+      "专业画室"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 600
+    },
+    "score_ac": 459,
+    "score_d": 492,
+    "gaokao": {
+      "2022": {
+        "key_rate": 40,
+        "985_rate": 2,
+        "211_rate": 5,
+        "yike_rate": 50,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 42,
+        "985_rate": 2,
+        "211_rate": 6,
+        "yike_rate": 52,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 45,
+        "985_rate": 3,
+        "211_rate": 8,
+        "yike_rate": 55,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 48,
+        "985_rate": 4,
+        "211_rate": 10,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（怡景站）",
+    "score_ac_day": 444,
+    "score_d_day": 470,
+    "pros": "美术专业学校，专业师资强，画室设施完善，艺术氛围浓厚，美术高考有优势",
+    "cons": "普通文化课相对普通高中较弱，不适合非美术方向学生",
+    "is_top8": false,
+    "rank_ac": 86,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szms.cn/",
+    "score_ac_boarding": 459,
+    "code": "8310306",
+    "score_tail": "89"
+  },
+  {
+    "id": "布吉中学",
+    "name": "布吉中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1978,
+    "address": "深圳市龙岗区布吉街道布吉路288号",
+    "phone": "0755-28473199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 462,
+    "score_d": 503,
+    "gaokao": {
+      "2022": {
+        "key_rate": 50,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 52,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（布吉站）",
+    "score_ac_day": 462,
+    "score_d_day": 503,
+    "pros": "龙岗区布吉地段重点学校，历史较长，走读方便，管理规范",
+    "cons": "布吉片区城中村环境，硬件条件一般",
+    "is_top8": false,
+    "rank_ac": 88,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.bjzx.sz.cn/",
+    "code": "8310707",
+    "score_tail": "69",
+    "score_ac_boarding": 471
+  },
+  {
+    "id": "深圳市艺术高中",
+    "name": "深圳市艺术高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2020,
+    "address": "深圳市龙华区龙华街道民清路255号",
+    "phone": "0755-28127899",
+    "scale": {
+      "class_count": "约24班",
+      "student_count": "约1200人"
+    },
+    "features": [
+      "艺术高中",
+      "音乐舞蹈特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 464,
+    "score_d": 499,
+    "gaokao": {
+      "2022": {
+        "key_rate": 45,
+        "985_rate": 3,
+        "211_rate": 8,
+        "yike_rate": 55,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 48,
+        "985_rate": 4,
+        "211_rate": 10,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 12,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 14,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（龙华站）",
+    "score_ac_day": 460,
+    "score_d_day": 494,
+    "pros": "艺术综合高中，音乐美术舞蹈传媒多专业，术科高考有优势",
+    "cons": "艺术专业学习强度大，文化课时间相对减少",
+    "is_top8": false,
+    "rank_ac": 85,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szart.cn/"
+  },
+  {
+    "id": "深圳市格致中学",
+    "name": "深圳市格致中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市龙华区民治街道新区大道396号",
+    "phone": "0755-28122299",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "理工科技特色",
+      "量子计算",
+      "航天实验室"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 537,
+    "score_d": 541,
+    "gaokao": {
+      "2023": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 28,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 72,
+        "985_rate": 16,
+        "211_rate": 30,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（白石龙站）",
+    "score_ac_day": 529,
+    "score_d_day": 529,
+    "is_top8": false,
+    "rank_ac": 33,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.szgezhiedu.cn/"
+  },
+  {
+    "id": "深圳中学实验高中",
+    "name": "深圳中学实验高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2024,
+    "address": "深圳市深汕特别合作区赤石镇科教大道南段",
+    "phone": "0755-22354800",
+    "scale": {
+      "class_count": "约21班",
+      "student_count": "约1100人"
+    },
+    "features": [
+      "深中集团",
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1100
+    },
+    "score_ac": 468,
+    "score_d": 506,
+    "gaokao": {
+      "2024": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "深汕巴士",
+    "score_ac_day": 570,
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 82,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szms.cn/",
+    "score_ac_boarding": 468,
+    "score_d_boarding": 506,
+    "code": "8310101",
+    "score_tail": "96"
+  },
+  {
+    "id": "深圳中学数理高中",
+    "name": "深圳中学数理高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2024,
+    "address": "深圳市深汕特别合作区赤石镇科教大道南段",
+    "phone": "0755-22354800",
+    "scale": {
+      "class_count": "约21班",
+      "student_count": "约1100人"
+    },
+    "features": [
+      "深中集团",
+      "全寄宿制",
+      "数理特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1100
+    },
+    "score_ac": 468,
+    "score_d": 511,
+    "gaokao": {
+      "2024": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "深汕巴士",
+    "score_ac_day": 570,
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 83,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szms.cn/",
+    "score_ac_boarding": 468,
+    "score_d_boarding": 511,
+    "code": "8310101",
+    "score_tail": "96"
+  },
+  {
+    "id": "深圳中学科技高中",
+    "name": "深圳中学科技高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2024,
+    "address": "深圳市深汕特别合作区赤石镇科教大道南段",
+    "phone": "0755-22354800",
+    "scale": {
+      "class_count": "约21班",
+      "student_count": "约1100人"
+    },
+    "features": [
+      "深中集团",
+      "全寄宿制",
+      "科技特色",
+      "北理工合作"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1100
+    },
+    "score_ac": 470,
+    "score_d": 505,
+    "gaokao": {
+      "2024": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "深汕巴士",
+    "score_ac_day": 570,
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 80,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szms.cn/",
+    "score_ac_boarding": 470,
+    "score_d_boarding": 505,
+    "code": "8310101",
+    "score_tail": "96"
+  },
+  {
+    "id": "中科院深理工附属实验高级中学中科附高",
+    "name": "中科院深理工附属实验高级中学（中科附高）",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市光明区新湖街道光侨路1号",
+    "phone": "0755-88219999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "中科院合作",
+      "全寄宿制",
+      "科学特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 542,
+    "score_d": 541,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（光明站）",
+    "score_ac_day": 537,
+    "score_d_day": 538,
+    "pros": "中科院背景，科研资源丰富，科学特色鲜明，创新人才培养",
+    "cons": "办学时间短，社会知名度有限",
+    "is_top8": false,
+    "rank_ac": 29,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.siat.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "平湖外国语学校",
+    "name": "平湖外国语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2013,
+    "address": "深圳市龙岗区平湖街道双拥街1号",
+    "phone": "0755-28457199",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "外国语特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 471,
+    "score_d": 506,
+    "gaokao": {
+      "2023": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁10号线（平湖站）",
+    "score_ac_day": 464,
+    "score_d_day": 502,
+    "pros": "龙岗区平湖地段，外语特色+艺体双培养，国际交流活动多",
+    "cons": "平湖片区较偏远，资源有限",
+    "is_top8": false,
+    "rank_ac": 79,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.phfls.cn/",
+    "code": "8310711",
+    "score_tail": "69"
+  },
+  {
+    "id": "深圳市红山中学",
+    "name": "深圳市红山中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市龙华区民治街道向荣路38号",
+    "phone": "0755-28127799",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "人工智能教育",
+      "科创特色",
+      "大学共建"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 537,
+    "score_d": 540,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 22,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 28,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（白石龙站）",
+    "score_ac_day": 531,
+    "score_d_day": 532,
+    "pros": "龙华区新建重点高中，硬件设施新，校长引进优质师资团队",
+    "cons": "办学时间短，无高考成绩可参考",
+    "is_top8": false,
+    "rank_ac": 34,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.szhs.cn/"
+  },
+  {
+    "id": "布吉高级中学",
+    "name": "布吉高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1995,
+    "address": "深圳市龙岗区布吉街道西环路8号",
+    "phone": "0755-28490199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "高考成绩优异",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 474,
+    "score_d": 508,
+    "gaokao": {
+      "2022": {
+        "key_rate": 52,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（布吉站）",
+    "score_ac_day": 470,
+    "score_d_day": 505,
+    "pros": "龙岗区重点美术特色学校，美术专业培养，升学率较高",
+    "cons": "美术专业外普通高考优势有限",
+    "is_top8": false,
+    "rank_ac": 77,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.bjsgz.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "龙岗区实验高级中学",
+    "name": "龙岗区实验高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2015,
+    "address": "深圳市龙岗区龙岗街道龙岗路88号",
+    "phone": "0755-84809199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2100
+    },
+    "score_ac": 536,
+    "score_d": 540,
+    "gaokao": {
+      "2022": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 27,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 30,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 76,
+        "985_rate": 18,
+        "211_rate": 32,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（龙岗站）",
+    "score_ac_day": 524,
+    "score_d_day": 532,
+    "pros": "龙岗区实验品牌，科学特色，与高校合作，科创教育突出",
+    "cons": "龙岗区较偏远，优质师资吸引难度大",
+    "is_top8": false,
+    "rank_ac": 35,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.lges.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳第二实验学校明远高中",
+    "name": "深圳第二实验学校明远高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2023,
+    "address": "深圳市大鹏新区大鹏街道鹏飞路1-1号",
+    "phone": "0755-25008999",
+    "scale": {
+      "class_count": "约24班",
+      "student_count": "约1200人"
+    },
+    "features": [
+      "二实验集团",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 474,
+    "score_d": 509,
+    "gaokao": {
+      "2024": {
+        "key_rate": 45,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 55,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 48,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "E26路公交",
+    "score_ac_day": 457,
+    "score_d_day": 501,
+    "pros": "深圳二实集团明远品牌，创新特色，学生自治传统，社团活跃",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 78,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz2es.com/"
+  },
+  {
+    "id": "港中深圳附属明德高中",
+    "name": "港中深圳附属明德高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区园山街道信义路99号",
+    "phone": "0755-28341899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "港中深合作",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 536,
+    "score_d": 539,
+    "gaokao": {
+      "2023": {
+        "key_rate": 72,
+        "985_rate": 15,
+        "211_rate": 30,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 74,
+        "985_rate": 18,
+        "211_rate": 33,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 76,
+        "985_rate": 20,
+        "211_rate": 35,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（荷坳站）",
+    "score_ac_day": 533,
+    "score_d_day": 534,
+    "pros": "港中大深圳附校，国际化氛围浓厚，英语教学强，升学指导专业",
+    "cons": "学费较高，定位国际方向",
+    "is_top8": false,
+    "rank_ac": 36,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.cuhk-sz.edu.cn/"
+  },
+  {
+    "id": "龙华中学",
+    "name": "龙华中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1956,
+    "address": "深圳市龙华区龙华街道和平路56号",
+    "phone": "0755-27702199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "历史悠久",
+      "美术特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 475,
+    "score_d": 510,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（龙华站）",
+    "score_ac_day": 462,
+    "score_d_day": 501,
+    "is_top8": false,
+    "rank_ac": 76,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.lhzx.cn/"
+  },
+  {
+    "id": "松岗中学",
+    "name": "松岗中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1957,
+    "address": "深圳市宝安区松岗街道东方社区东方路36号",
+    "phone": "0755-27091399",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 532,
+    "score_d": 538,
+    "gaokao": {
+      "2022": {
+        "key_rate": 68,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 81,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（松岗站）",
+    "score_ac_day": 527,
+    "score_d_day": 533,
+    "pros": "宝安区松岗老牌学校，历史较长，校风务实，管理严格",
+    "cons": "松岗片区较偏远，优质资源有限",
+    "is_top8": false,
+    "rank_ac": 38,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.sgzx.cn/"
+  },
+  {
+    "id": "光明中学",
+    "name": "光明中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1965,
+    "address": "深圳市光明区光明街道光碧路1号",
+    "phone": "0755-27401199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 480,
+    "score_d": 509,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（光明站）",
+    "score_ac_day": 473,
+    "score_d_day": 506,
+    "pros": "光明区老牌学校，光明科学城地段提升中，政府支持加强",
+    "cons": "光明区偏远，近年才开始快速发展",
+    "is_top8": false,
+    "rank_ac": 74,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.guangming.cn/",
+    "code": "8310903",
+    "score_tail": "85",
+    "score_ac_boarding": 542
+  },
+  {
+    "id": "深圳市高级中学创新高中",
+    "name": "深圳市高级中学创新高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区坪地街道惠岭二路30号",
+    "phone": "0755-83938899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "高级集团",
+      "全寄宿制",
+      "创新特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 532,
+    "score_d": 538,
+    "gaokao": {
+      "2023": {
+        "key_rate": 70,
+        "985_rate": 15,
+        "211_rate": 30,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 72,
+        "985_rate": 18,
+        "211_rate": 33,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 74,
+        "985_rate": 20,
+        "211_rate": 35,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 519,
+    "score_d_day": 527,
+    "is_top8": false,
+    "rank_ac": 39,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.ssgz.com.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "横岗高级中学",
+    "name": "横岗高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2011,
+    "address": "深圳市龙岗区横岗街道红棉社区梧桐路18号",
+    "phone": "0755-28601199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2300人"
+    },
+    "features": [
+      "美术特色",
+      "音乐特色",
+      "足球特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2300
+    },
+    "score_ac": 480,
+    "score_d": 510,
+    "gaokao": {
+      "2022": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 15,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 17,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 65,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 73,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 68,
+        "985_rate": 14,
+        "211_rate": 22,
+        "yike_rate": 76,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（横岗站）",
+    "score_ac_day": 474,
+    "score_d_day": 507,
+    "pros": "龙岗区横岗地段，艺体特色，美术音乐传媒方向，高考成绩稳定",
+    "cons": "横岗片区较偏远，资源有限",
+    "is_top8": false,
+    "rank_ac": 75,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.hggj.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "罗湖外语学校",
+    "name": "罗湖外语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2001,
+    "address": "深圳市罗湖区东门北路1016号",
+    "phone": "0755-25012199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "外国语特色",
+      "外语特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 532,
+    "score_d": 538,
+    "gaokao": {
+      "2022": {
+        "key_rate": 72,
+        "985_rate": 15,
+        "211_rate": 30,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 74,
+        "985_rate": 17,
+        "211_rate": 32,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 76,
+        "985_rate": 19,
+        "211_rate": 35,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      },
+      "2025": {
+        "key_rate": 78,
+        "985_rate": 22,
+        "211_rate": 38,
+        "yike_rate": 86,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（翠竹站）",
+    "score_ac_day": 519,
+    "score_d_day": 526,
+    "pros": "罗湖区外语特色学校，外语教学质量高，文科见长，社团活动丰富",
+    "cons": "相比深外，外语保送优势有限",
+    "is_top8": false,
+    "rank_ac": 40,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.lhfls.cn/"
+  },
+  {
+    "id": "石岩外国语学校",
+    "name": "石岩外国语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市宝安区石岩街道石岩大道",
+    "phone": "0755-27601199",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "外国语特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 482,
+    "score_d": 512,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（石岩站）",
+    "score_ac_day": 465,
+    "score_d_day": 504,
+    "pros": "宝安区石岩地段，外语特色+综合培养，国际交流活动多",
+    "cons": "石岩片区较偏僻，资源有限",
+    "is_top8": false,
+    "rank_ac": 73,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.syfls.cn/"
+  },
+  {
+    "id": "华侨城高级中学",
+    "name": "华侨城高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2012,
+    "address": "深圳市南山区华侨城侨城东街4号",
+    "phone": "0755-26901199",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "艺术特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 536,
+    "score_d": 537,
+    "gaokao": {
+      "2022": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 27,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 30,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 76,
+        "985_rate": 18,
+        "211_rate": 32,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁1号线（华侨城站）",
+    "score_ac_day": 533,
+    "score_d_day": 531,
+    "pros": "南山区华侨城优美地段，艺术特色，校园环境好，管理规范",
+    "cons": "南山竞争激烈，相比名校优势不明显",
+    "is_top8": false,
+    "rank_ac": 37,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.hqc.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳市聚龙科学中学",
+    "name": "深圳市聚龙科学中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市坪山区坑梓街道沙田社区田滨路6号",
+    "phone": "0755-89362899",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "科学特色",
+      "科创教育",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3000
+    },
+    "score_ac": 485,
+    "score_d": 516,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 22,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 28,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁14号线（坑梓站）",
+    "score_ac_day": 461,
+    "score_d_day": 508,
+    "pros": "坪山区重点引进，科学特色定位，与高校院所合作，科创教育",
+    "cons": "坪山区较偏远，优质师资吸引难度大",
+    "is_top8": false,
+    "rank_ac": 72,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.julong.cn/",
+    "code": "8310209",
+    "score_tail": "89",
+    "score_ac_boarding": 526
+  },
+  {
+    "id": "福田中学",
+    "name": "福田中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1969,
+    "address": "深圳市福田区福田南路8号",
+    "phone": "0755-83903899",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 532,
+    "score_d": 537,
+    "gaokao": {
+      "2022": {
+        "key_rate": 50,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 52,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（福民站）",
+    "score_ac_day": 525,
+    "score_d_day": 531,
+    "pros": "福田区老牌学校，历史悠久，位置中心，交通便利，管理务实",
+    "cons": "近年高考成绩无明显优势，竞争力下降",
+    "is_top8": false,
+    "rank_ac": 41,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.ftzx.cn/"
+  },
+  {
+    "id": "深圳外国语学校理工高中",
+    "name": "深圳外国语学校理工高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区园山街道信义路99号",
+    "phone": "0755-28341588",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "理工特色",
+      "科学工程素养",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 489,
+    "score_d": 511,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（荷坳站）",
+    "score_ac_day": 475,
+    "score_d_day": 506,
+    "pros": "深外品牌+理工特色，STEM教育，小语种+科创双培养路径",
+    "cons": "新设立学校，办学效果有待验证",
+    "is_top8": false,
+    "rank_ac": 70,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "https://www.sfls.net.cn/",
+    "code": "8310125",
+    "score_tail": "94",
+    "score_ac_boarding": 549
+  },
+  {
+    "id": "深圳技术大学附属中学",
+    "name": "深圳技术大学附属中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市坪山区坑梓街道沙田社区田滨路2号",
+    "phone": "0755-89362800",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "技术特色",
+      "工程教育",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 531,
+    "score_d": 536,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁14号线（坑梓站）",
+    "score_ac_day": 519,
+    "score_d_day": 529,
+    "pros": "深圳技术大学资源，职教融合特色，技术应用导向，产教融合",
+    "cons": "技术大学合作尚在深化，升学通道待完善",
+    "is_top8": false,
+    "rank_ac": 42,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sztu.edu.cn/"
+  },
+  {
+    "id": "龙华科技实验高级中学",
+    "name": "龙华科技实验高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙华区福城街道龙华科技实验高级中学",
+    "phone": "0755-28129999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "科技特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 489,
+    "score_d": 514,
+    "gaokao": {
+      "2023": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（茜坑站）",
+    "score_ac_day": 472,
+    "score_d_day": 506,
+    "pros": "龙华区重点支持，科技特色定位，与科技企业合作，计算机+科创方向",
+    "cons": "龙华区整体教育资源弱于市区",
+    "is_top8": false,
+    "rank_ac": 71,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.lhkj.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "宝安第一外国语学校",
+    "name": "宝安第一外国语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1995,
+    "address": "深圳市宝安区西乡街道兴业路1号",
+    "phone": "0755-27932199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "外国语特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 531,
+    "score_d": 535,
+    "gaokao": {
+      "2022": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 65,
+        "985_rate": 14,
+        "211_rate": 22,
+        "yike_rate": 75,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁1号线（西乡站）",
+    "score_ac_day": 521,
+    "score_d_day": 526,
+    "pros": "宝安区重点外语特色学校，外语+综合培养，文理兼备，外语交流活动多",
+    "cons": "相比老牌名校，外语保送优势有限",
+    "is_top8": false,
+    "rank_ac": 43,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.bayfls.cn/"
+  },
+  {
+    "id": "深圳市行知职业技术学校综合高中",
+    "name": "深圳市行知职业技术学校(综合高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1986,
+    "address": "深圳市罗湖区友谊路28号",
+    "phone": "0755-25110599",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "职校",
+      "美术特色",
+      "综合高中"
+    ],
+    "boarding": {
+      "available": false,
+      "capacity": 0
+    },
+    "score_ac": 491,
+    "score_d": 491,
+    "gaokao": {
+      "2022": {
+        "key_rate": 30,
+        "985_rate": 1,
+        "211_rate": 2,
+        "yike_rate": 40,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 32,
+        "985_rate": 1,
+        "211_rate": 3,
+        "yike_rate": 42,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 35,
+        "985_rate": 2,
+        "211_rate": 4,
+        "yike_rate": 45,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 38,
+        "985_rate": 2,
+        "211_rate": 5,
+        "yike_rate": 48,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁2号线（湖贝站）",
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 89,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szzz.cn/",
+    "score_d_boarding": 491,
+    "score_ac_boarding": 491,
+    "code": "8310308"
+  },
+  {
+    "id": "深圳第二外国语学校",
+    "name": "深圳第二外国语学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2010,
+    "address": "深圳市龙华区福城街道桔塘社区龙澜大道513号",
+    "phone": "0755-21079999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "外国语特色",
+      "航空特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 530,
+    "score_d": 534,
+    "gaokao": {
+      "2022": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 65,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 68,
+        "985_rate": 14,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（茜坑站）",
+    "score_ac_day": 521,
+    "score_d_day": 525,
+    "pros": "小语种特色鲜明，法语西班牙语等多语种选择，外语教学有经验",
+    "cons": "二外品牌知名度在高中领域不如深外",
+    "is_top8": false,
+    "rank_ac": 44,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szwz.cn/",
+    "code": "8310119",
+    "score_tail": "81",
+    "score_ac_boarding": 547
+  },
+  {
+    "id": "深圳市盐港中学综合高中",
+    "name": "深圳市盐港中学(综合高中)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2012,
+    "address": "深圳市盐田区东海道30号",
+    "phone": "0755-25261599",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "综合高中",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 492,
+    "score_d": 492,
+    "gaokao": {
+      "2022": {
+        "key_rate": 32,
+        "985_rate": 1,
+        "211_rate": 3,
+        "yike_rate": 42,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 35,
+        "985_rate": 2,
+        "211_rate": 4,
+        "yike_rate": 45,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 38,
+        "985_rate": 2,
+        "211_rate": 5,
+        "yike_rate": 48,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 40,
+        "985_rate": 3,
+        "211_rate": 6,
+        "yike_rate": 50,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁8号线（盐田路站）",
+    "score_ac_day": null,
+    "is_top8": false,
+    "rank_ac": 68,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szygz.cn/",
+    "score_d_boarding": 492,
+    "score_ac_boarding": 492,
+    "code": "8310805",
+    "score_tail": "77"
+  },
+  {
+    "id": "龙津中学",
+    "name": "龙津中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2019,
+    "address": "深圳市宝安区沙井街道龙津中学",
+    "phone": "0755-27201999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 528,
+    "score_d": 534,
+    "gaokao": {
+      "2022": {
+        "key_rate": 50,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 52,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（沙井站）",
+    "score_ac_day": 504,
+    "score_d_day": 521,
+    "pros": "宝安区新建重点高中，硬件条件好，宝安区政府重点支持，引进名师",
+    "cons": "新校无高考成绩参考，名师引进效果待验证",
+    "is_top8": false,
+    "rank_ac": 45,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.longjin.cn/",
+    "code": "8310641",
+    "score_tail": "85",
+    "score_ac_boarding": 521
+  },
+  {
+    "id": "坪山高级中学",
+    "name": "坪山高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2007,
+    "address": "深圳市坪山区碧岭街道振碧路2号",
+    "phone": "0755-89362999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "全寄宿制",
+      "美术特色",
+      "科技教育"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 492,
+    "score_d": 518,
+    "gaokao": {
+      "2022": {
+        "key_rate": 62,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 73,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 76,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（坪山围站）",
+    "score_ac_day": 467,
+    "score_d_day": 506,
+    "pros": "坪山区最好的公办高中，体艺特色，足球、舞蹈等特色项目，录取线相对较低",
+    "cons": "坪山区偏远，优质师资吸引力有限",
+    "is_top8": false,
+    "rank_ac": 69,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.psgj.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "平冈中学",
+    "name": "平冈中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1990,
+    "address": "深圳市龙岗区平湖街道平湖路1号",
+    "phone": "0755-28457299",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "高考成绩优异",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 519,
+    "score_d": 533,
+    "gaokao": {
+      "2022": {
+        "key_rate": 68,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁10号线（平湖站）",
+    "score_ac_day": 509,
+    "score_d_day": 528,
+    "pros": "龙岗区老牌名校，艺体特色，高考成绩稳定，家长口碑好，性价比高",
+    "cons": "龙岗区整体较偏远，优质资源不如市区",
+    "is_top8": false,
+    "rank_ac": 51,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.pgzx.cn/",
+    "code": "8310703",
+    "score_tail": "58",
+    "score_ac_boarding": 474
+  },
+  {
+    "id": "北京大学附属中学深圳学校",
+    "name": "北京大学附属中学深圳学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市坪山区坑梓街道翠柳路1号",
+    "phone": "0755-89362999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "北大附中品牌",
+      "全寄宿制",
+      "科创特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 495,
+    "score_d": 517,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁14号线（坑梓站）",
+    "score_ac_day": 491,
+    "score_d_day": 513,
+    "pros": "北大附中品牌，深圳分校，北大资源支撑，办学理念先进",
+    "cons": "办学时间短，目前无高考成绩可参考",
+    "is_top8": false,
+    "rank_ac": 65,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.pkuschool.cn/"
+  },
+  {
+    "id": "燕川中学",
+    "name": "燕川中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1958,
+    "address": "深圳市宝安区燕罗街道燕川路1号",
+    "phone": "0755-27093199",
+    "scale": {
+      "class_count": "约42班",
+      "student_count": "约2100人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 521,
+    "score_d": 532,
+    "gaokao": {
+      "2022": {
+        "key_rate": 50,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 52,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（松岗站）",
+    "score_ac_day": 487,
+    "score_d_day": 514,
+    "pros": "宝安区重点新建高中，燕罗地段重点发展，管理严格，硬件优良",
+    "cons": "新校无高考成绩，办学经验待积累",
+    "is_top8": false,
+    "rank_ac": 49,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.yanchuan.cn/"
+  },
+  {
+    "id": "深圳外国语学校致远高中",
+    "name": "深圳外国语学校致远高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市光明区马田街道砺学路333号",
+    "phone": "0755-88219999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "理工特色",
+      "深外集团"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 495,
+    "score_d": 513,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（薯田埔站）",
+    "score_ac_day": 477,
+    "score_d_day": 506,
+    "pros": "深外光明高中园，致远书院品牌，共享深外资源，光明区重点支持",
+    "cons": "光明区较偏远，首次招生办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 66,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "https://www.sfls.net.cn/",
+    "code": "8310125",
+    "score_tail": "94",
+    "score_ac_boarding": 549
+  },
+  {
+    "id": "红岭教育集团大鹏华侨中学",
+    "name": "红岭教育集团大鹏华侨中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2017,
+    "address": "深圳市大鹏新区大鹏街道中山路1号",
+    "phone": "0755-89301999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "红岭集团",
+      "全寄宿制",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 521,
+    "score_d": 531,
+    "gaokao": {
+      "2023": {
+        "key_rate": 50,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 52,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 62,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "E26路公交",
+    "score_ac_day": 501,
+    "score_d_day": 519,
+    "pros": "红岭教育集团成员，大鹏新区生态优美，环境清幽，读书环境好",
+    "cons": "大鹏新区偏远，交通不便，优质师资吸引困难",
+    "is_top8": false,
+    "rank_ac": 50,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.dpzhzx.cn/",
+    "code": "8311106",
+    "score_tail": "78"
+  },
+  {
+    "id": "观澜中学",
+    "name": "观澜中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1956,
+    "address": "深圳市龙华区观澜街道大和路1号",
+    "phone": "0755-27981199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "历史悠久",
+      "体育特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 495,
+    "score_d": 517,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁4号线（观澜站）",
+    "score_ac_day": 485,
+    "score_d_day": 512,
+    "pros": "龙华区老牌学校，百年办学历史，校风务实，美术特色突出",
+    "cons": "观澜片区较偏远，近年发展缓慢",
+    "is_top8": false,
+    "rank_ac": 67,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.glzx.cn/"
+  },
+  {
+    "id": "深圳市第三高级中学国内高考班",
+    "name": "深圳市第三高级中学(国内高考班)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1996,
+    "address": "深圳市龙岗区如意路500号",
+    "phone": "0755-28969999",
+    "scale": {
+      "class_count": "约90班",
+      "student_count": "约4500人"
+    },
+    "features": [
+      "完全中学",
+      "出国留学",
+      "高考成绩优异"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 4500
+    },
+    "score_ac": 524,
+    "score_d": 530,
+    "gaokao": {
+      "2022": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 74,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 72,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 81,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（爱联站）",
+    "score_ac_day": 514,
+    "score_d_day": 520,
+    "pros": "市直属学校，体育艺术特色，办学历史较长，出国留学班有经验",
+    "cons": "近年来高考成绩无明显优势，品牌认知度下降",
+    "is_top8": false,
+    "rank_ac": 46,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz3g.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳实验学校至臻高中",
+    "name": "深圳实验学校至臻高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2023,
+    "address": "深圳市坪山区碧岭街道沙湖社区振碧路与复兴南路交汇处",
+    "phone": "0755-89366999",
+    "scale": {
+      "class_count": "约24班",
+      "student_count": "约1200人"
+    },
+    "features": [
+      "全寄宿制",
+      "实验集团",
+      "未来教育"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 501,
+    "score_d": 514,
+    "gaokao": {
+      "2024": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 15,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（沙湖站）",
+    "score_ac_day": 483,
+    "score_d_day": 501,
+    "pros": "深圳实验集团至臻品牌，共享实验资源，高端定位，精细管理",
+    "cons": "新设立学校，招生规模小，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 62,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szsy.cn/"
+  },
+  {
+    "id": "深圳外国语学校博雅高中",
+    "name": "深圳外国语学校博雅高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市光明区马田街道砺学路333号",
+    "phone": "0755-88219999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "人文社科",
+      "全寄宿制",
+      "深外集团"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 501,
+    "score_d": 513,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（薯田埔站）",
+    "score_ac_day": 479,
+    "score_d_day": 509,
+    "pros": "深外博雅品牌，文理兼修，人文社科见长，小班教学精细化培养",
+    "cons": "新设立学校，社会知名度还在建立",
+    "is_top8": false,
+    "rank_ac": 63,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "https://www.sfls.net.cn/",
+    "code": "8310125",
+    "score_tail": "94",
+    "score_ac_boarding": 549
+  },
+  {
+    "id": "深圳市高级中学理慧高中",
+    "name": "深圳市高级中学理慧高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区坪地街道惠岭二路28号",
+    "phone": "0755-83938899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "高级集团",
+      "全寄宿制",
+      "人文特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 524,
+    "score_d": 529,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 496,
+    "score_d_day": 512,
+    "pros": "深高集团理慧品牌，智慧教育特色，数字化教学，创新实验",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 47,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.ssgz.com.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳市致理中学",
+    "name": "深圳市致理中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2023,
+    "address": "深圳市龙华区大浪街道华辉路96号",
+    "phone": "0755-28128888",
+    "scale": {
+      "class_count": "约90班",
+      "student_count": "约4500人"
+    },
+    "features": [
+      "单体规模最大",
+      "文理兼长",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 4500
+    },
+    "score_ac": 501,
+    "score_d": 521,
+    "gaokao": {
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 15,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（阳台山站）",
+    "score_ac_day": 484,
+    "score_d_day": 513,
+    "pros": "深圳中学教育集团成员，共享深中资源，致理品牌高端定位",
+    "cons": "新设立学校，首届招生效果待验证",
+    "is_top8": false,
+    "rank_ac": 64,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz-zhili.cn/",
+    "code": "8311025",
+    "score_tail": "69",
+    "score_ac_boarding": 489
+  },
+  {
+    "id": "罗湖高级中学",
+    "name": "罗湖高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1989,
+    "address": "深圳市罗湖区爱国路1001号",
+    "phone": "0755-25008999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "足球特色",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 523,
+    "score_d": 528,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（怡景站）",
+    "score_ac_day": 518,
+    "score_d_day": 523,
+    "pros": "罗湖区重点高中，艺体特色，音乐传媒方向，管理规范",
+    "cons": "罗湖区整体较旧，发展动力不足",
+    "is_top8": false,
+    "rank_ac": 48,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.lhgz.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳市第一职业技术学校综合高中",
+    "name": "深圳市第一职业技术学校(综合高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1983,
+    "address": "深圳市福田区八卦三路22号",
+    "phone": "0755-82420999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "职校",
+      "综合高中"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 503,
+    "score_d": 503,
+    "gaokao": null,
+    "self_recruit": null,
+    "transport": "地铁7号线（八卦岭站）",
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 90,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz1vtc.cn/",
+    "score_d_boarding": 503,
+    "score_ac_boarding": 503
+  },
+  {
+    "id": "光明区高级中学",
+    "name": "光明区高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2010,
+    "address": "深圳市光明区光明街道牛山路588号",
+    "phone": "0755-27405678",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "全寄宿制",
+      "美术特色",
+      "科技教育"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 508,
+    "score_d": 526,
+    "gaokao": {
+      "2022": {
+        "key_rate": 55,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 58,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 60,
+        "985_rate": 10,
+        "211_rate": 16,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 62,
+        "985_rate": 12,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（光明大街站）",
+    "score_ac_day": 495,
+    "score_d_day": 518,
+    "pros": "光明区龙头学校，光明科学城地段，新建校区硬件优良，政府重点支持",
+    "cons": "光明区偏远，公共交通不便，师资吸引力有限",
+    "is_top8": false,
+    "rank_ac": 57,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.ghgz.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳实验学校卓越高中",
+    "name": "深圳实验学校卓越高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市坪山区碧岭街道振碧路与复兴南路交汇处",
+    "phone": "0755-89366888",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "全寄宿制",
+      "实验集团",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 503,
+    "score_d": 514,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 74,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（沙湖站）",
+    "score_ac_day": 474,
+    "score_d_day": 501,
+    "pros": "深圳实验集团卓越品牌，共享实验资源，高端定位，精细管理",
+    "cons": "新设立学校，招生规模小，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 61,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szsy.cn/",
+    "code": "8310162",
+    "score_tail": "76",
+    "score_ac_boarding": 501
+  },
+  {
+    "id": "深圳实验学校明理高中",
+    "name": "深圳实验学校明理高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市坪山区碧岭街道振碧路6号",
+    "phone": "0755-89366777",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "全寄宿制",
+      "实验集团",
+      "人文社科"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 2400
+    },
+    "score_ac": 511,
+    "score_d": 523,
+    "gaokao": {
+      "2023": {
+        "key_rate": 62,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（沙湖站）",
+    "score_ac_day": 476,
+    "score_d_day": 492,
+    "pros": "深圳实验集团明理品牌，明理特色，人文科技并重，社团活动丰富",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 55,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szsy.cn/",
+    "code": "10158",
+    "score_tail": "64",
+    "score_ac_boarding": 511
+  },
+  {
+    "id": "深圳市第七高级中学",
+    "name": "深圳市第七高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2015,
+    "address": "深圳市宝安区沙井街道海上田园西侧",
+    "phone": "0755-27200999",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "全寄宿制",
+      "市教育局直属",
+      "西部重点"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3000
+    },
+    "score_ac": 504,
+    "score_d": 520,
+    "gaokao": {
+      "2022": {
+        "key_rate": 68,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（沙井站）",
+    "score_ac_day": 488,
+    "score_d_day": 515,
+    "pros": "市直属学校，艺体特色，美术音乐传媒专业，校园环境好",
+    "cons": "办学时间短，知名度有限",
+    "is_top8": false,
+    "rank_ac": 60,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szqgz.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "西乡中学",
+    "name": "西乡中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1995,
+    "address": "深圳市宝安区西乡街道兴业路1号",
+    "phone": "0755-27932199",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "足球特色",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 513,
+    "score_d": 523,
+    "gaokao": {
+      "2022": {
+        "key_rate": 65,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 68,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁1号线（西乡站）",
+    "score_ac_day": 506,
+    "score_d_day": 518,
+    "pros": "宝安区重点中学，足球特色，市队区队培养基地，管理规范",
+    "cons": "西乡片区教育资源一般，竞争力有限",
+    "is_top8": false,
+    "rank_ac": 54,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.xxzx.edu.cn/"
+  },
+  {
+    "id": "深圳市龙华外国语高级中学",
+    "name": "深圳市龙华外国语高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙华区民治街道临龙路1号",
+    "phone": "0755-28128899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "小语种特色",
+      "人工智能",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 507,
+    "score_d": 522,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 74,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁5号线（民治站）",
+    "score_ac_day": 501,
+    "score_d_day": 515,
+    "pros": "龙华区重点外语特色学校，外语+综合培养，小语种课程，与国际接轨",
+    "cons": "龙华区整体较偏远，优质资源有限",
+    "is_top8": false,
+    "rank_ac": 58,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.lhwgy.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "福海中学",
+    "name": "福海中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2019,
+    "address": "深圳市宝安区福海街道福海路1号",
+    "phone": "0755-27202999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "科技创新"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 507,
+    "score_d": 523,
+    "gaokao": {
+      "2023": {
+        "key_rate": 62,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（福永站）",
+    "score_ac_day": 482,
+    "score_d_day": 513,
+    "pros": "宝安区福海地段新建学校，硬件优良，智能特色，与时俱进",
+    "cons": "新校无高考成绩，办学经验待积累",
+    "is_top8": false,
+    "rank_ac": 59,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.fuhai.edu.cn/",
+    "code": "8310639",
+    "score_tail": "76",
+    "score_ac_boarding": 528
+  },
+  {
+    "id": "深圳市高级中学有为高中",
+    "name": "深圳市高级中学有为高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市龙岗区坪地街道坪西社区荟英路1号",
+    "phone": "0755-83938899",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "高级集团",
+      "创新特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 517,
+    "score_d": 523,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 491,
+    "score_d_day": 507,
+    "pros": "深高集团有为品牌，创新特色，年轻师资有活力，选科组合灵活",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 52,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.ssgz.com.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳实验学校崇文高中",
+    "name": "深圳实验学校崇文高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市坪山区碧岭街道振碧路6号",
+    "phone": "0755-89366666",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "实验集团",
+      "文史特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 511,
+    "score_d": 513,
+    "gaokao": {
+      "2023": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 15,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 65,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（沙湖站）",
+    "score_ac_day": 480,
+    "score_d_day": 500,
+    "pros": "深圳实验集团崇文品牌，文科见长，人文社科特色，阅读写作品牌",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 56,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szsy.cn/",
+    "code": "8310160",
+    "score_tail": "67",
+    "score_ac_boarding": 514
+  },
+  {
+    "id": "深圳外国语学校弘知高中",
+    "name": "深圳外国语学校弘知高中",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市光明区马田街道砺学路333号",
+    "phone": "0755-88219999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "全寄宿制",
+      "深外集团"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 514,
+    "score_d": 520,
+    "gaokao": {
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 8,
+        "211_rate": 16,
+        "yike_rate": 65,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 10,
+        "211_rate": 18,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 12,
+        "211_rate": 20,
+        "yike_rate": 70,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁6号线（薯田埔站）",
+    "score_ac_day": 503,
+    "score_d_day": 515,
+    "pros": "深外弘知品牌，科学+人文双培养，名师引进，精细化管理",
+    "cons": "新设立学校，办学效果待验证",
+    "is_top8": false,
+    "rank_ac": 53,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "https://www.sfls.net.cn/",
+    "code": "8310125",
+    "score_tail": "94",
+    "score_ac_boarding": 549
+  },
+  {
+    "id": "第三高级中学出国留学班",
+    "name": "第三高级中学(出国留学班)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1996,
+    "address": "深圳市龙岗区如意路500号",
+    "phone": "0755-28969999",
+    "scale": {
+      "class_count": "约12班",
+      "student_count": "约600人"
+    },
+    "features": [
+      "出国留学",
+      "国际课程"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 600
+    },
+    "score_ac": 423,
+    "score_d": 423,
+    "gaokao": null,
+    "self_recruit": null,
+    "transport": "地铁3号线（爱联站）",
+    "score_ac_day": 423,
+    "score_d_day": 423,
+    "pros": "出国留学班专业，出国申请经验丰富，英语教学强，升学指导完善",
+    "cons": "国内高考方向弱，不适合纯高考学生",
+    "is_top8": false,
+    "rank_ac": 87,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz3g.cn/",
+    "score_ac_boarding": 423,
+    "score_d_boarding": 423,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "沙井中学",
+    "name": "沙井中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1956,
+    "address": "深圳市宝安区沙井街道民主路57号",
+    "phone": "0755-27200699",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "历史悠久",
+      "足球特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 469,
+    "score_d": 508,
+    "gaokao": {
+      "2022": {
+        "key_rate": 52,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 60,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 55,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 63,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 58,
+        "985_rate": 6,
+        "211_rate": 12,
+        "yike_rate": 66,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 14,
+        "yike_rate": 68,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁11号线（沙井站）",
+    "score_ac_day": 465,
+    "score_d_day": 505,
+    "pros": "宝安区沙井老牌学校，历史悠久，校风务实，管理严格，艺体特色",
+    "cons": "沙井片区较偏远，优质资源有限",
+    "is_top8": false,
+    "rank_ac": 81,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sjzx.cn/"
+  },
+  {
+    "id": "盐田高级中学",
+    "name": "盐田高级中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2014,
+    "address": "深圳市盐田区盐港后方陆域西南片区青云路13号",
+    "phone": "0755-25266199",
+    "scale": {
+      "class_count": "约60班",
+      "student_count": "约3000人"
+    },
+    "features": [
+      "全海景高中",
+      "美术特色",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 3000
+    },
+    "score_ac": 539,
+    "score_d": 541,
+    "gaokao": {
+      "2022": {
+        "key_rate": 70,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 72,
+        "985_rate": 14,
+        "211_rate": 27,
+        "yike_rate": 80,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 74,
+        "985_rate": 16,
+        "211_rate": 30,
+        "yike_rate": 82,
+        "pkutimes": 1,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 76,
+        "985_rate": 18,
+        "211_rate": 32,
+        "yike_rate": 84,
+        "pkutimes": 1,
+        "thutimes": 1
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁8号线（盐田路站）",
+    "score_ac_day": 525,
+    "score_d_day": 530,
+    "pros": "盐田区最好的公办高中，美术特色，看海校舍环境好，盐田区政府重点支持",
+    "cons": "盐田区偏远，优质师资吸引力有限",
+    "is_top8": false,
+    "rank_ac": 32,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.ytgz.cn/",
+    "code": "8310303",
+    "score_tail": "91",
+    "score_ac_boarding": 459
+  },
+  {
+    "id": "深圳第二高级中学深汕实验学校",
+    "name": "深圳第二高级中学深汕实验学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2022,
+    "address": "深圳市深汕特别合作区鹅埠镇",
+    "phone": "0755-26499999",
+    "scale": {
+      "class_count": "约24班",
+      "student_count": "约1200人"
+    },
+    "features": [
+      "二高集团",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1200
+    },
+    "score_ac": 466,
+    "score_d": 505,
+    "gaokao": {
+      "2024": {
+        "key_rate": 45,
+        "985_rate": 4,
+        "211_rate": 8,
+        "yike_rate": 55,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 48,
+        "985_rate": 5,
+        "211_rate": 10,
+        "yike_rate": 58,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "深汕巴士",
+    "score_ac_day": 519,
+    "score_d_day": null,
+    "pros": "深汕特别合作区，与深圳二高共享资源，合作办学创新模式",
+    "cons": "深汕合作区非常偏远，师资稳定性挑战大",
+    "is_top8": false,
+    "rank_ac": 84,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szsdegz.com/",
+    "score_ac_boarding": 466,
+    "score_d_boarding": 505,
+    "code": "8310303",
+    "score_tail": "91"
+  },
+  {
+    "id": "东北师范大学附属中学深圳学校",
+    "name": "东北师范大学附属中学深圳学校",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市坪山区马峦街道沙坣社区谷仓路3号",
+    "phone": "0755-89362999",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "师范背景",
+      "科创教育",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 540,
+    "score_d": 543,
+    "gaokao": {
+      "2023": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 22,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 25,
+        "yike_rate": 78,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 28,
+        "yike_rate": 80,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁16号线（江岭站）",
+    "score_ac_day": 530,
+    "score_d_day": 534,
+    "pros": "东北师大品牌，师范资源支撑，教师培训体系完善，办学有保障",
+    "cons": "跨省合作，深圳认可度待验证",
+    "is_top8": false,
+    "rank_ac": 31,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": true,
+    "website": "http://www.nenu-sz.cn/"
+  },
+  {
+    "id": "南头中学",
+    "name": "南头中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1928,
+    "address": "深圳市南山区南头街道南山大道3039号",
+    "phone": "0755-26556699",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "历史悠久",
+      "科技创新",
+      "足球特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 541,
+    "score_d": 542,
+    "gaokao": {
+      "2022": {
+        "key_rate": 65,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 74,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 68,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 77,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 70,
+        "985_rate": 14,
+        "211_rate": 25,
+        "yike_rate": 79,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 72,
+        "985_rate": 16,
+        "211_rate": 28,
+        "yike_rate": 81,
+        "pkutimes": 1,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁1号线（大新站）",
+    "score_ac_day": 539,
+    "score_d_day": 536,
+    "pros": "南山区老牌学校，历史悠久，南头地段核心位置，艺术特色突出",
+    "cons": "南山竞争激烈，名校众多，南头优势不明显",
+    "is_top8": false,
+    "rank_ac": 30,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.ntzx.cn/",
+    "code": "8310501",
+    "score_tail": "91",
+    "score_ac_boarding": 564
+  },
+  {
+    "id": "深北莫附属实验中学",
+    "name": "深北莫附属实验中学",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2021,
+    "address": "深圳市龙岗区坪地街道惠岭二路36号",
+    "phone": "0755-28341588",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "北莫合作",
+      "全寄宿制",
+      "科学特色"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 544,
+    "score_d": 545,
+    "gaokao": {
+      "2023": {
+        "key_rate": 60,
+        "985_rate": 8,
+        "211_rate": 18,
+        "yike_rate": 70,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 62,
+        "985_rate": 10,
+        "211_rate": 20,
+        "yike_rate": 72,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 65,
+        "985_rate": 12,
+        "211_rate": 22,
+        "yike_rate": 75,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁3号线（双龙站）",
+    "score_ac_day": 535,
+    "score_d_day": 537,
+    "pros": "深圳北理莫斯科大学背景，俄语特色，中外合作培养，本硕直通车",
+    "cons": "合作办学还在探索，社会知名度有限",
+    "is_top8": false,
+    "rank_ac": 28,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": true,
+    "is_top40": true,
+    "website": "http://www.sustc.edu.cn/"
+  },
+  {
+    "id": "深圳第一职校综合高中",
+    "name": "深圳第一职校(综合高中)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1983,
+    "address": "深圳市福田区八卦三路22号",
+    "phone": "0755-82420999",
+    "scale": {
+      "class_count": "约48班",
+      "student_count": "约2400人"
+    },
+    "features": [
+      "职校",
+      "综合高中"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1500
+    },
+    "score_ac": 503,
+    "score_d": 503,
+    "gaokao": {
+      "2022": {
+        "key_rate": 30,
+        "985_rate": 1,
+        "211_rate": 2,
+        "yike_rate": 40,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2023": {
+        "key_rate": 32,
+        "985_rate": 1,
+        "211_rate": 3,
+        "yike_rate": 42,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2024": {
+        "key_rate": 35,
+        "985_rate": 2,
+        "211_rate": 4,
+        "yike_rate": 45,
+        "pkutimes": 0,
+        "thutimes": 0
+      },
+      "2025": {
+        "key_rate": 38,
+        "985_rate": 2,
+        "211_rate": 5,
+        "yike_rate": 48,
+        "pkutimes": 0,
+        "thutimes": 0
+      }
+    },
+    "self_recruit": null,
+    "transport": "地铁7号线（八卦岭站）",
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 91,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.sz1vtc.cn/",
+    "score_d_boarding": 503,
+    "score_ac_boarding": 503
+  },
+  {
+    "id": "行知职业技术学校综合高中",
+    "name": "行知职业技术学校(综合高中)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 1986,
+    "address": "深圳市罗湖区友谊路28号",
+    "phone": "0755-25110599",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "职校",
+      "美术特色",
+      "综合高中"
+    ],
+    "boarding": {
+      "available": false,
+      "capacity": 0
+    },
+    "score_ac": 491,
+    "score_d": 491,
+    "gaokao": null,
+    "self_recruit": null,
+    "transport": "地铁2号线（湖贝站）",
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 92,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szzz.cn/",
+    "score_d_boarding": 491,
+    "score_ac_boarding": 491,
+    "code": "8310308"
+  },
+  {
+    "id": "盐港中学综合高中",
+    "name": "盐港中学(综合高中)",
+    "type": "公办",
+    "district": "深圳",
+    "is_top4": false,
+    "level": "普通",
+    "established": 2012,
+    "address": "深圳市盐田区东海道30号",
+    "phone": "0755-25261599",
+    "scale": {
+      "class_count": "约36班",
+      "student_count": "约1800人"
+    },
+    "features": [
+      "综合高中",
+      "全寄宿制"
+    ],
+    "boarding": {
+      "available": true,
+      "capacity": 1800
+    },
+    "score_ac": 492,
+    "score_d": 492,
+    "gaokao": null,
+    "self_recruit": null,
+    "transport": "地铁8号线（盐田路站）",
+    "score_d_day": null,
+    "is_top8": false,
+    "rank_ac": 93,
+    "is_top10": false,
+    "is_top20": false,
+    "is_top30": false,
+    "is_top40": false,
+    "website": "http://www.szygz.cn/",
+    "score_d_boarding": 492,
+    "score_ac_boarding": 492,
+    "code": "8310805",
+    "score_tail": "77"
+  }
+]

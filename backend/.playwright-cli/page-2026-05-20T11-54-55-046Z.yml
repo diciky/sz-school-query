@@ -1,0 +1,6 @@
+- generic [ref=e4]:
+  - generic [ref=e11]:
+    - img [ref=e12]
+    - generic [ref=e14]: COMING SOON
+  - link "Login" [ref=e17] [cursor=pointer]:
+    - /url: https://login.1and1-editor.com/487190617/www.pskip.com/us?staging=1
